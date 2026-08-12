@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ゲームセルラン TOP50 | 日本</title>
+  <meta name="description" content="App Store / Google Play ゲームカテゴリの売上ランキング（セルラン）TOP50" />
+  <style>
+    :root {
+      --bg: #0f1115;
+      --card: #1a1d24;
+      --border: #2a2f3a;
+      --text: #e8eaed;
+      --muted: #9aa0a6;
+      --accent: #8ab4f8;
+      --ios: #007aff;
+      --android: #3ddc84;
+      --rank1: #ffd700;
+      --rank2: #c0c0c0;
+      --rank3: #cd7f32;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Sans", "Noto Sans JP", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      min-height: 100vh;
+    }
+
+    header {
+      background: linear-gradient(180deg, #1a1d24 0%, #0f1115 100%);
+      border-bottom: 1px solid var(--border);
+      padding: 1.5rem 1rem;
+      text-align: center;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      backdrop-filter: blur(8px);
+    }
+
+    header h1 {
+      font-size: 1.4rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+
+    header .sub {
+      color: var(--muted);
+      font-size: 0.85rem;
+      margin-top: 0.35rem;
+    }
+
+    .updated {
+      display: inline-block;
+      margin-top: 0.6rem;
+      padding: 0.25rem 0.7rem;
+      background: #252a33;
+      border-radius: 999px;
+      font-size: 0.8rem;
+      color: var(--accent);
+    }
+
+    .tabs {
+      display: flex;
+      justify-content: center;
+      gap: 0.5rem;
+      margin: 1.2rem auto 0;
+      max-width: 420px;
+    }
+
+    .tab {
+      flex: 1;
+      padding: 0.55rem 1rem;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--muted);
+      border-radius: 10px;
+      cursor: pointer;
+      font-size: 0.95rem;
+      font-weight: 600;
+      transition: all 0.15s ease;
+    }
+
+    .tab:hover { background: #252a33; color: var(--text); }
+    .tab.active.ios {
+      background: rgba(0, 122, 255, 0.15);
+      border-color: var(--ios);
+      color: #5eb1ff;
+    }
+    .tab.active.android {
+      background: rgba(61, 220, 132, 0.12);
+      border-color: var(--android);
+      color: #3ddc84;
+    }
+
+    main {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 1rem 0.8rem 3rem;
+    }
+
+    .list {
+      display: none;
+      flex-direction: column;
+      gap: 0.45rem;
+    }
+    .list.active { display: flex; }
+
+    .item {
+      display: flex;
+      align-items: center;
+      gap: 0.85rem;
+      padding: 0.7rem 0.9rem;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      transition: background 0.15s;
+    }
+    .item:hover { background: #21252e; }
+
+    .rank {
+      width: 2rem;
+      text-align: center;
+      font-weight: 800;
+      font-size: 1.05rem;
+      flex-shrink: 0;
+    }
+    .rank.r1 { color: var(--rank1); }
+    .rank.r2 { color: var(--rank2); }
+    .rank.r3 { color: var(--rank3); }
+
+    .icon {
+      width: 48px;
+      height: 48px;
+      border-radius: 11px;
+      object-fit: cover;
+      background: #2a2f3a;
+      flex-shrink: 0;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    }
+
+    .info {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .title {
+      font-weight: 600;
+      font-size: 0.95rem;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .developer {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-top: 0.15rem;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .store-link {
+      color: var(--muted);
+      font-size: 0.75rem;
+      text-decoration: none;
+      padding: 0.3rem 0.5rem;
+      border-radius: 6px;
+      flex-shrink: 0;
+    }
+    .store-link:hover { background: #2a2f3a; color: var(--accent); }
+
+    .loading, .error {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--muted);
+    }
+    .error { color: #f28b82; }
+
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      color: var(--muted);
+      font-size: 0.75rem;
+      border-top: 1px solid var(--border);
+    }
+
+    @media (max-width: 480px) {
+      .icon { width: 42px; height: 42px; border-radius: 9px; }
+      .title { font-size: 0.9rem; }
+      header h1 { font-size: 1.2rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>ゲームセルラン TOP50</h1>
+    <div class="sub">App Store / Google Play ・ 日本 ・ ゲームカテゴリ</div>
+    <div class="updated" id="updated">読み込み中...</div>
+
+    <div class="tabs">
+      <button class="tab ios active" data-platform="ios" onclick="switchTab('ios')">iOS</button>
+      <button class="tab android" data-platform="android" onclick="switchTab('android')">Android</button>
+    </div>
+  </header>
+
+  <main>
+    <div id="loading" class="loading">データを読み込んでいます...</div>
+    <div id="error" class="error" style="display:none;"></div>
+
+    <div id="list-ios" class="list active"></div>
+    <div id="list-android" class="list"></div>
+  </main>
+
+  <footer>
+    データは1時間ごとに自動更新されます ・ 非公式集計
+  </footer>
+
+  <script>
+    // データ取得先の優先順位:
+    // 1. 同じリポジトリの data/rankings_latest.json（GitHub Pages向け）
+    // 2. ローカルAPI /api/rankings（start.bat起動時）
+    const DATA_URLS = [
+      "./data/rankings_latest.json",
+      "/api/rankings",
+      "http://127.0.0.1:8000/api/rankings"
+    ];
+
+    let currentData = null;
+
+    async function loadData() {
+      let lastError = null;
+      for (const url of DATA_URLS) {
+        try {
+          const res = await fetch(url, { cache: "no-store" });
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          const data = await res.json();
+          if (data && (data.ios || data.android)) {
+            currentData = data;
+            render(data);
+            return;
+          }
+        } catch (e) {
+          lastError = e;
+          console.warn("fetch failed:", url, e);
+        }
+      }
+      document.getElementById("loading").style.display = "none";
+      document.getElementById("error").style.display = "block";
+      document.getElementById("error").textContent =
+        "データを取得できませんでした。start.bat を起動するか、data/rankings_latest.json を配置してください。";
+    }
+
+    function render(data) {
+      document.getElementById("loading").style.display = "none";
+      document.getElementById("error").style.display = "none";
+
+      const updatedEl = document.getElementById("updated");
+      updatedEl.textContent = "更新: " + (data.updated_at_display || data.updated_at || "不明");
+
+      renderList("list-ios", data.ios || []);
+      renderList("list-android", data.android || []);
+    }
+
+    function renderList(containerId, items) {
+      const el = document.getElementById(containerId);
+      if (!items.length) {
+        el.innerHTML = '<div class="loading">データがありません</div>';
+        return;
+      }
+
+      el.innerHTML = items.map(item => {
+        const rankClass = item.rank === 1 ? "r1" : item.rank === 2 ? "r2" : item.rank === 3 ? "r3" : "";
+        const icon = item.icon || "";
+        const title = escapeHtml(item.title || "不明");
+        const developer = escapeHtml(item.developer || "");
+        const url = item.store_url || "#";
+
+        return `
+          <div class="item">
+            <div class="rank ${rankClass}">${item.rank}</div>
+            <img class="icon" src="${icon}" alt="" loading="lazy"
+                 onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2248%22 height=%2248%22><rect fill=%22%232a2f3a%22 width=%2248%22 height=%2248%22 rx=%2211%22/></svg>'" />
+            <div class="info">
+              <div class="title">${title}</div>
+              <div class="developer">${developer}</div>
+            </div>
+            <a class="store-link" href="${url}" target="_blank" rel="noopener">ストア</a>
+          </div>
+        `;
+      }).join("");
+    }
+
+    function switchTab(platform) {
+      document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+      document.querySelector(`.tab.${platform}`).classList.add("active");
+
+      document.querySelectorAll(".list").forEach(l => l.classList.remove("active"));
+      document.getElementById(`list-${platform}`).classList.add("active");
+    }
+
+    function escapeHtml(str) {
+      return String(str)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    loadData();
+    // 5分ごとに再読み込み（ページを開いたままの場合）
+    setInterval(loadData, 5 * 60 * 1000);
+  </script>
+</body>
+</html>
