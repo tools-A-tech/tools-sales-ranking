@@ -8,7 +8,6 @@ import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-# 親ディレクトリをパスに追加
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
@@ -48,7 +47,6 @@ def collect_once() -> dict:
     print(f"  Android: {len(android_list)}件")
     print(f"  保存先: {LATEST_PATH}")
 
-    # GitHub 自動反映（.env に設定がある場合のみ）
     try:
         from collector.github_push import push_to_github
         push_to_github()

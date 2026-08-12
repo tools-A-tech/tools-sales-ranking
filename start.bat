@@ -8,11 +8,17 @@ echo ========================================
 echo.
 
 cd /d "%~dp0"
+<<<<<<< HEAD
 echo 作業フォルダ: %CD%
 echo.
 
 REM Pythonがあるか確認
 where python >nul 2>&1
+=======
+
+REM Pythonがあるか確認
+python --version >nul 2>&1
+>>>>>>> 460e54bb8a4c0d80053f95fbd64f6317a687d600
 if errorlevel 1 (
     echo [ERROR] Python が見つかりません。
     echo Python 3.10以上をインストールしてから再実行してください。
@@ -20,6 +26,7 @@ if errorlevel 1 (
     exit /b 1
 )
 
+<<<<<<< HEAD
 echo 使用するPython:
 python --version
 echo.
@@ -62,6 +69,18 @@ if errorlevel 1 (
     pause
     exit /b 1
 )
+=======
+REM 仮想環境がなければ作成
+if not exist "venv\" (
+    echo 仮想環境を作成しています...
+    python -m venv venv
+)
+
+call venv\Scripts\activate.bat
+
+echo 依存パッケージを確認・インストール中...
+pip install -r requirements.txt -q
+>>>>>>> 460e54bb8a4c0d80053f95fbd64f6317a687d600
 
 echo.
 echo ----------------------------------------
@@ -72,9 +91,14 @@ echo  終了するにはこのウィンドウを閉じてください
 echo ----------------------------------------
 echo.
 
+<<<<<<< HEAD
 REM ★重要: venvのpythonで直接uvicornを起動
 venv\Scripts\python.exe -m uvicorn api.main:app --host 127.0.0.1 --port 8000
 
 echo.
 echo APIが終了しました。
+=======
+python -m uvicorn api.main:app --host 127.0.0.1 --port 8000 --reload
+
+>>>>>>> 460e54bb8a4c0d80053f95fbd64f6317a687d600
 pause
