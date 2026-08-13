@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T07:38:47.547493+09:00",
-  "updated_at_display": "2026-08-14 07:38 JST",
+  "updated_at": "2026-08-14T08:38:47.466156+09:00",
+  "updated_at_display": "2026-08-14 08:38 JST",
   "ios": [
     {
       "rank": 1,
@@ -726,76 +726,6 @@
     },
     {
       "rank": 23,
-      "title": "戦争兵器：戦車軍事ゲーム (War Machines)",
-      "app_id": "com.fungames.battletanksbeta",
-      "bundle_id": "com.fungames.battletanksbeta",
-      "developer": "Wildlife Studios",
-      "icon": "https://play-lh.googleusercontent.com/bkzoRJZfTQNKKQSDBsedwOg8lMl4bepJiueo7DLDWS82sRRsEWhwKZPkHCuLxvDKeS8y977LbhjqPDJK4NaQiA",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta&hl=ja&gl=jp"
-    },
-    {
-      "rank": 24,
-      "title": "ピクセルアートぬりえゲーム - 数字で塗り絵",
-      "app_id": "com.europosit.pixelcoloring",
-      "bundle_id": "com.europosit.pixelcoloring",
-      "developer": "Easybrain",
-      "icon": "https://play-lh.googleusercontent.com/6uxzOzSLRNbcY7fe0k8F4UcP9Z-Km3mcC7GwKxchM41UjJwv85TK4IVL4cOtAtHHddG_t6tdTx_vhFFWsJ2hDw",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.europosit.pixelcoloring&hl=ja&gl=jp"
-    },
-    {
-      "rank": 25,
-      "title": "Hot Wheels Unlimited",
-      "app_id": "com.budgestudios.googleplay.HotWheelsUnlimited",
-      "bundle_id": "com.budgestudios.googleplay.HotWheelsUnlimited",
-      "developer": "Budge Studios",
-      "icon": "https://play-lh.googleusercontent.com/wOOmIJpV-rbh8fY5bc51eYDtFlLMPnr-MZztJKYZJ3ZZ3SiZ5-pq_JWJDomaZICR_4TmkE21LaV361czSQ_6",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.HotWheelsUnlimited&hl=ja&gl=jp"
-    },
-    {
-      "rank": 26,
-      "title": "Running Pet: Dec Rooms",
-      "app_id": "com.runninggames.catrunners.runningpet",
-      "bundle_id": "com.runninggames.catrunners.runningpet",
-      "developer": "Ivy",
-      "icon": "https://play-lh.googleusercontent.com/XDTgV4Rc8aGoEe3aJY6TPjVee5DnbJEQJjLnW-vlDqhaMVSwEAoMU2brm2tzLZ1PmOdPCHWrPPa54ck1Oc1qHA",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.runninggames.catrunners.runningpet&hl=ja&gl=jp"
-    },
-    {
-      "rank": 27,
-      "title": "Subway Surfers",
-      "app_id": "com.kiloo.subwaysurf",
-      "bundle_id": "com.kiloo.subwaysurf",
-      "developer": "SYBO Games",
-      "icon": "https://play-lh.googleusercontent.com/T7az9M7td7A24vOr7Jp3C9NG16kyWA1NnlUySyl_mbDV9BtlrFbxps5TD5DzT7kCBxpNeTbIIju2_aFN4xtFoYM",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=ja&gl=jp"
-    },
-    {
-      "rank": 28,
-      "title": "プロ野球スピリッツA",
-      "app_id": "jp.konami.prospia",
-      "bundle_id": "jp.konami.prospia",
-      "developer": "KONAMI",
-      "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=jp.konami.prospia&hl=ja&gl=jp"
-    },
-    {
-      "rank": 29,
-      "title": "エバーテイル",
-      "app_id": "com.zigzagame.evertalefree",
-      "bundle_id": "com.zigzagame.evertalefree",
-      "developer": "ZigZaGame Inc.",
-      "icon": "https://play-lh.googleusercontent.com/W83Y7F6s8dfv0uNGz0krspOjLcSxnfEQHHkADiZaXcAc6rGykL_jsb5FAxG3PMJszi7y_g0t4CwGNYVoTbql",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.zigzagame.evertalefree&hl=ja&gl=jp"
-    },
-    {
-      "rank": 30,
       "title": "eFootball™",
       "app_id": "jp.konami.pesam",
       "bundle_id": "jp.konami.pesam",
@@ -805,7 +735,97 @@
       "store_url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=ja&gl=jp"
     },
     {
+      "rank": 24,
+      "title": "放置カラーインベイダー",
+      "app_id": "superstar.games.Color.Invaders.Idle",
+      "bundle_id": "superstar.games.Color.Invaders.Idle",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/w0GG-oGNwJhhgh8ZATdtV7Bh9u6Znfga9mR35ecbqkR_CMHWfk4kQx-2Qhw1g9uF4VFRQCTbPnnORHqmoZk",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=superstar.games.Color.Invaders.Idle&hl=ja&gl=jp"
+    },
+    {
+      "rank": 25,
+      "title": "戦争兵器：戦車軍事ゲーム (War Machines)",
+      "app_id": "com.fungames.battletanksbeta",
+      "bundle_id": "com.fungames.battletanksbeta",
+      "developer": "Wildlife Studios",
+      "icon": "https://play-lh.googleusercontent.com/bkzoRJZfTQNKKQSDBsedwOg8lMl4bepJiueo7DLDWS82sRRsEWhwKZPkHCuLxvDKeS8y977LbhjqPDJK4NaQiA",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta&hl=ja&gl=jp"
+    },
+    {
+      "rank": 26,
+      "title": "ピクセルアートぬりえゲーム - 数字で塗り絵",
+      "app_id": "com.europosit.pixelcoloring",
+      "bundle_id": "com.europosit.pixelcoloring",
+      "developer": "Easybrain",
+      "icon": "https://play-lh.googleusercontent.com/6uxzOzSLRNbcY7fe0k8F4UcP9Z-Km3mcC7GwKxchM41UjJwv85TK4IVL4cOtAtHHddG_t6tdTx_vhFFWsJ2hDw",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.europosit.pixelcoloring&hl=ja&gl=jp"
+    },
+    {
+      "rank": 27,
+      "title": "Pines Peak: マッチ & マージゲーム",
+      "app_id": "com.vizorapps.merge",
+      "bundle_id": "com.vizorapps.merge",
+      "developer": "VIZOR APPS LTD.",
+      "icon": "https://play-lh.googleusercontent.com/UoXdA72zj9COWscdqypevzJbBKnsrTaQ9qp3QA3OSO6j2BnKdH8L_8ufT5uoVo8MAbYL7YgrB0cfQzr4xwcD",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.vizorapps.merge&hl=ja&gl=jp"
+    },
+    {
+      "rank": 28,
+      "title": "Hot Wheels Unlimited",
+      "app_id": "com.budgestudios.googleplay.HotWheelsUnlimited",
+      "bundle_id": "com.budgestudios.googleplay.HotWheelsUnlimited",
+      "developer": "Budge Studios",
+      "icon": "https://play-lh.googleusercontent.com/wOOmIJpV-rbh8fY5bc51eYDtFlLMPnr-MZztJKYZJ3ZZ3SiZ5-pq_JWJDomaZICR_4TmkE21LaV361czSQ_6",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.HotWheelsUnlimited&hl=ja&gl=jp"
+    },
+    {
+      "rank": 29,
+      "title": "Running Pet: Dec Rooms",
+      "app_id": "com.runninggames.catrunners.runningpet",
+      "bundle_id": "com.runninggames.catrunners.runningpet",
+      "developer": "Ivy",
+      "icon": "https://play-lh.googleusercontent.com/XDTgV4Rc8aGoEe3aJY6TPjVee5DnbJEQJjLnW-vlDqhaMVSwEAoMU2brm2tzLZ1PmOdPCHWrPPa54ck1Oc1qHA",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.runninggames.catrunners.runningpet&hl=ja&gl=jp"
+    },
+    {
+      "rank": 30,
+      "title": "Subway Surfers",
+      "app_id": "com.kiloo.subwaysurf",
+      "bundle_id": "com.kiloo.subwaysurf",
+      "developer": "SYBO Games",
+      "icon": "https://play-lh.googleusercontent.com/T7az9M7td7A24vOr7Jp3C9NG16kyWA1NnlUySyl_mbDV9BtlrFbxps5TD5DzT7kCBxpNeTbIIju2_aFN4xtFoYM",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=ja&gl=jp"
+    },
+    {
       "rank": 31,
+      "title": "プロ野球スピリッツA",
+      "app_id": "jp.konami.prospia",
+      "bundle_id": "jp.konami.prospia",
+      "developer": "KONAMI",
+      "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=jp.konami.prospia&hl=ja&gl=jp"
+    },
+    {
+      "rank": 32,
+      "title": "エバーテイル",
+      "app_id": "com.zigzagame.evertalefree",
+      "bundle_id": "com.zigzagame.evertalefree",
+      "developer": "ZigZaGame Inc.",
+      "icon": "https://play-lh.googleusercontent.com/W83Y7F6s8dfv0uNGz0krspOjLcSxnfEQHHkADiZaXcAc6rGykL_jsb5FAxG3PMJszi7y_g0t4CwGNYVoTbql",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.zigzagame.evertalefree&hl=ja&gl=jp"
+    },
+    {
+      "rank": 33,
       "title": "Roblox (ロブロックス)",
       "app_id": "com.roblox.client",
       "bundle_id": "com.roblox.client",
@@ -815,7 +835,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=ja&gl=jp"
     },
     {
-      "rank": 32,
+      "rank": 34,
       "title": "Meowdoku",
       "app_id": "com.oakever.meowdoku",
       "bundle_id": "com.oakever.meowdoku",
@@ -825,7 +845,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.oakever.meowdoku&hl=ja&gl=jp"
     },
     {
-      "rank": 33,
+      "rank": 35,
       "title": "デジモンUP",
       "app_id": "com.bandainamcoent.dgup_jp",
       "bundle_id": "com.bandainamcoent.dgup_jp",
@@ -835,7 +855,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.dgup_jp&hl=ja&gl=jp"
     },
     {
-      "rank": 34,
+      "rank": 36,
       "title": "無職転生〜異世界行ったら本気だす〜クロニクル・オブ・エコーズ",
       "app_id": "jp.gree_ent.mushoku",
       "bundle_id": "jp.gree_ent.mushoku",
@@ -845,7 +865,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=jp.gree_ent.mushoku&hl=ja&gl=jp"
     },
     {
-      "rank": 35,
+      "rank": 37,
       "title": "ブロックブラスト (Block Blast)",
       "app_id": "com.block.juggle",
       "bundle_id": "com.block.juggle",
@@ -855,7 +875,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ja&gl=jp"
     },
     {
-      "rank": 36,
+      "rank": 38,
       "title": "Pokémon GO",
       "app_id": "com.nianticlabs.pokemongo",
       "bundle_id": "com.nianticlabs.pokemongo",
@@ -865,7 +885,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=ja&gl=jp"
     },
     {
-      "rank": 37,
+      "rank": 39,
       "title": "Bus Traffic Fever!　",
       "app_id": "jp.co.goodroid.hyper.busflow",
       "bundle_id": "jp.co.goodroid.hyper.busflow",
@@ -875,7 +895,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.busflow&hl=ja&gl=jp"
     },
     {
-      "rank": 38,
+      "rank": 40,
       "title": "ブロスタ",
       "app_id": "com.supercell.brawlstars",
       "bundle_id": "com.supercell.brawlstars",
@@ -885,7 +905,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=ja&gl=jp"
     },
     {
-      "rank": 39,
+      "rank": 41,
       "title": "にゃんこ大戦争",
       "app_id": "jp.co.ponos.battlecats",
       "bundle_id": "jp.co.ponos.battlecats",
@@ -895,7 +915,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=jp.co.ponos.battlecats&hl=ja&gl=jp"
     },
     {
-      "rank": 40,
+      "rank": 42,
       "title": "モンスターストライク",
       "app_id": "jp.co.mixi.monsterstrike",
       "bundle_id": "jp.co.mixi.monsterstrike",
@@ -905,7 +925,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=jp.co.mixi.monsterstrike&hl=ja&gl=jp"
     },
     {
-      "rank": 41,
+      "rank": 43,
       "title": "LINE：ディズニー ツムツム",
       "app_id": "com.linecorp.LGTMTM",
       "bundle_id": "com.linecorp.LGTMTM",
@@ -915,7 +935,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.linecorp.LGTMTM&hl=ja&gl=jp"
     },
     {
-      "rank": 42,
+      "rank": 44,
       "title": "ゴシップハーバー：マージ & ストーリー",
       "app_id": "com.mergegames.gossipharbor",
       "bundle_id": "com.mergegames.gossipharbor",
@@ -925,7 +945,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=ja&gl=jp"
     },
     {
-      "rank": 43,
+      "rank": 45,
       "title": "マジックソート！ (Magic Sort !)",
       "app_id": "com.grandgames.magicsort",
       "bundle_id": "com.grandgames.magicsort",
@@ -935,7 +955,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort&hl=ja&gl=jp"
     },
     {
-      "rank": 44,
+      "rank": 46,
       "title": "Arrows - パズルエスケープ",
       "app_id": "com.ecffri.arrows",
       "bundle_id": "com.ecffri.arrows",
@@ -945,7 +965,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=ja&gl=jp"
     },
     {
-      "rank": 45,
+      "rank": 47,
       "title": "妖怪ウォッチ ぷにぷに",
       "app_id": "com.Level5.YWP",
       "bundle_id": "com.Level5.YWP",
@@ -955,7 +975,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.Level5.YWP&hl=ja&gl=jp"
     },
     {
-      "rank": 46,
+      "rank": 48,
       "title": "僕のヒーローアカデミアUNITED SURVIVAL",
       "app_id": "com.klab.heroaca.united.survival",
       "bundle_id": "com.klab.heroaca.united.survival",
@@ -965,7 +985,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.klab.heroaca.united.survival&hl=ja&gl=jp"
     },
     {
-      "rank": 47,
+      "rank": 49,
       "title": "ONE PIECE バウンティラッシュ - アクションゲーム",
       "app_id": "com.bandainamcoent.opbrjp",
       "bundle_id": "com.bandainamcoent.opbrjp",
@@ -975,34 +995,14 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.opbrjp&hl=ja&gl=jp"
     },
     {
-      "rank": 48,
-      "title": "セガNET麻雀 MJ",
-      "app_id": "jp.co.sega.am2.MJMobile",
-      "bundle_id": "jp.co.sega.am2.MJMobile",
-      "developer": "SEGA CORPORATION",
-      "icon": "https://play-lh.googleusercontent.com/QpQUChgwat-YhdV0_MSDs46LRXEkdTZ7fn-3c2uie5KsQEfRtUPvAFLTsQjmB7B_ZJBPXJXKVED4I9kmhriBgA",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=jp.co.sega.am2.MJMobile&hl=ja&gl=jp"
-    },
-    {
-      "rank": 49,
-      "title": "Wingspan (ウイングスパン)",
-      "app_id": "com.MonsterCouch.Wingspan",
-      "bundle_id": "com.MonsterCouch.Wingspan",
-      "developer": "Monster Couch sp. z o.o.",
-      "icon": "https://play-lh.googleusercontent.com/CtOGuMkYz3Co0krrIQtTbaR9lru8zjbDkdy5gzZjG7V9TFbJaOznxBnCWo3TQDasVv50NjaaBgGKpDs3vONTkg",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.MonsterCouch.Wingspan&hl=ja&gl=jp"
-    },
-    {
       "rank": 50,
-      "title": "荒野行動-スマホ版バトロワ",
-      "app_id": "com.netease.ko",
-      "bundle_id": "com.netease.ko",
-      "developer": "NetEase Games",
-      "icon": "https://play-lh.googleusercontent.com/67LMdiIq4uC-imFkkxmro_rzRlU5kbkxcq4wQHEcIy-TmvGlz2GGpa2WAuNSPvD0fsy7B5JaXkQM7VfqAo2yzbI",
+      "title": "ヴァンピール(VAMPIR)",
+      "app_id": "com.netmarble.thered",
+      "bundle_id": "com.netmarble.thered",
+      "developer": "Netmarble",
+      "icon": "https://play-lh.googleusercontent.com/O3AtBJqCPmOHow-d2tskDjwXGWpYpgz2bPEJC5s-FQ1BzmtxnFTQ4h6OTTJ74pyih8KBs78UsTk7w6PAHkbt",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.netease.ko&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.netmarble.thered&hl=ja&gl=jp"
     }
   ],
   "meta": {
