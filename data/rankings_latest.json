@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T06:38:48.781076+09:00",
-  "updated_at_display": "2026-08-15 06:38 JST",
+  "updated_at": "2026-08-15T07:38:47.745306+09:00",
+  "updated_at_display": "2026-08-15 07:38 JST",
   "ios": [
     {
       "rank": 1,
@@ -124,16 +124,6 @@
     },
     {
       "rank": 13,
-      "title": "ウマ娘 プリティーダービー",
-      "app_id": "1325457827",
-      "bundle_id": "jp.co.cygames.umamusume",
-      "developer": "Cygames, Inc.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/bf/28/9abf28f8-d9a3-0724-d3ef-da5ca5fff1e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id1325457827"
-    },
-    {
-      "rank": 14,
       "title": "荒野行動-スマホ版バトロワ",
       "app_id": "1312031248",
       "bundle_id": "com.netease.ko",
@@ -141,6 +131,16 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/aa/f1/5caaf150-aa85-3a7f-24fe-1d073f3aae4e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "platform": "ios",
       "store_url": "https://apps.apple.com/jp/app/id1312031248"
+    },
+    {
+      "rank": 14,
+      "title": "ウマ娘 プリティーダービー",
+      "app_id": "1325457827",
+      "bundle_id": "jp.co.cygames.umamusume",
+      "developer": "Cygames, Inc.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/bf/28/9abf28f8-d9a3-0724-d3ef-da5ca5fff1e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id1325457827"
     },
     {
       "rank": 15,
@@ -394,13 +394,13 @@
     },
     {
       "rank": 40,
-      "title": "ラストZ：サバイバルシューティング",
-      "app_id": "6503272652",
-      "bundle_id": "com.readygo.barrel.ios",
-      "developer": "Omnilojo Pte Ltd",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/c7/3f/74c73fff-c732-4791-b6ba-5b6c12e4a80e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "title": "Disney Solitaire ディズニー ソリティア",
+      "app_id": "6475757306",
+      "bundle_id": "com.superplaystudios.disneysolitairedreams",
+      "developer": "SuperPlay",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/64/c4/4d64c428-1ec7-a68a-0c0f-8a16d0bdcea6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id6503272652"
+      "store_url": "https://apps.apple.com/jp/app/id6475757306"
     },
     {
       "rank": 41,
@@ -414,13 +414,13 @@
     },
     {
       "rank": 42,
-      "title": "Disney Solitaire ディズニー ソリティア",
-      "app_id": "6475757306",
-      "bundle_id": "com.superplaystudios.disneysolitairedreams",
-      "developer": "SuperPlay",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/64/c4/4d64c428-1ec7-a68a-0c0f-8a16d0bdcea6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "title": "ラストZ：サバイバルシューティング",
+      "app_id": "6503272652",
+      "bundle_id": "com.readygo.barrel.ios",
+      "developer": "Omnilojo Pte Ltd",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/c7/3f/74c73fff-c732-4791-b6ba-5b6c12e4a80e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id6475757306"
+      "store_url": "https://apps.apple.com/jp/app/id6503272652"
     },
     {
       "rank": 43,
@@ -434,16 +434,6 @@
     },
     {
       "rank": 44,
-      "title": "リーグ・オブ・レジェンド：ワイルドリフト",
-      "app_id": "1480616990",
-      "bundle_id": "com.riotgames.league.wildrift",
-      "developer": "Riot Games",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/50/14/1a501478-b78d-19d0-076f-fd0a4828b642/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id1480616990"
-    },
-    {
-      "rank": 45,
       "title": "タウンシップ (Township)",
       "app_id": "638689075",
       "bundle_id": "com.playrix.township-ios",
@@ -451,6 +441,16 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/3a/9a/533a9a5f-8a95-eee3-1532-0e672c45e65c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "platform": "ios",
       "store_url": "https://apps.apple.com/jp/app/id638689075"
+    },
+    {
+      "rank": 45,
+      "title": "リーグ・オブ・レジェンド：ワイルドリフト",
+      "app_id": "1480616990",
+      "bundle_id": "com.riotgames.league.wildrift",
+      "developer": "Riot Games",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/50/14/1a501478-b78d-19d0-076f-fd0a4828b642/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id1480616990"
     },
     {
       "rank": 46,
@@ -474,23 +474,23 @@
     },
     {
       "rank": 48,
-      "title": "Age of Origins---ゾンビ・末日戦記",
-      "app_id": "1376515087",
-      "bundle_id": "com.camelgames.aoz",
-      "developer": "Hong Kong Ke Mo software Co., Limited",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/a6/c2/6ba6c213-5270-9b68-5f83-28b6f3c73722/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "title": "#コンパス【戦闘摂理解析システム】",
+      "app_id": "1164400646",
+      "bundle_id": "com.nhnpa.cps",
+      "developer": "NHN PlayArt 株式会社",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/2d/b8/502db817-f4a4-8889-1fb7-b8e59cbe23c2/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id1376515087"
+      "store_url": "https://apps.apple.com/jp/app/id1164400646"
     },
     {
       "rank": 49,
-      "title": "シーサイド エスケープ：マージ & ストーリー",
-      "app_id": "6443755785",
-      "bundle_id": "com.mf.cupcake",
-      "developer": "Microfun Limited",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/f4/54/53f45423-6a52-2242-aafa-033aa5b12375/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "title": "ハリウッドマージ",
+      "app_id": "6755455500",
+      "bundle_id": "com.hollywood.merge",
+      "developer": "VoyagerOne",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/dd/bf/38ddbf54-88ff-65db-7c39-478d2f1f8655/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id6443755785"
+      "store_url": "https://apps.apple.com/jp/app/id6755455500"
     },
     {
       "rank": 50,
