@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T17:38:48.018402+09:00",
-  "updated_at_display": "2026-08-14 17:38 JST",
+  "updated_at": "2026-08-14T18:38:48.471198+09:00",
+  "updated_at_display": "2026-08-14 18:38 JST",
   "ios": [
     {
       "rank": 1,
@@ -986,6 +986,16 @@
     },
     {
       "rank": 49,
+      "title": "Jewel Coloring",
+      "app_id": "color.number.paint.pixle.art.sort.jigsaw",
+      "bundle_id": "color.number.paint.pixle.art.sort.jigsaw",
+      "developer": "TaTa Game Technology Limited",
+      "icon": "https://play-lh.googleusercontent.com/4O3eRZ4cOMPSFiasjvlJuodijaKtNiv7HZ9Hm5r4CT78imAL32QbbWoJkiOJ3erjS4Yi652WTBrwcQrbbsuW",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=color.number.paint.pixle.art.sort.jigsaw&hl=ja&gl=jp"
+    },
+    {
+      "rank": 50,
       "title": "キャンディークラッシュ (Candy Crush Saga)",
       "app_id": "com.king.candycrushsaga",
       "bundle_id": "com.king.candycrushsaga",
@@ -993,16 +1003,6 @@
       "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=ja&gl=jp"
-    },
-    {
-      "rank": 50,
-      "title": "トゥーンブラスト (Toon Blast)",
-      "app_id": "net.peakgames.toonblast",
-      "bundle_id": "net.peakgames.toonblast",
-      "developer": "Peak",
-      "icon": "https://play-lh.googleusercontent.com/j3O3Pyk08XAv4iA4p-Irerfos8g-tLxQ3r42zlScMRsjjgnyQGeE1mqcH3aSY9wA2k6l8fBqpqEaIQfIG2gLLQ",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=net.peakgames.toonblast&hl=ja&gl=jp"
     }
   ],
   "meta": {
