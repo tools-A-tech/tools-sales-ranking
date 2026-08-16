@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T22:38:52.414182+09:00",
-  "updated_at_display": "2026-08-16 22:38 JST",
+  "updated_at": "2026-08-17T00:38:47.675141+09:00",
+  "updated_at_display": "2026-08-17 00:38 JST",
   "ios": [
     {
       "rank": 1,
@@ -806,16 +806,26 @@
     },
     {
       "rank": 31,
-      "title": "妖怪ウォッチ ぷにぷに",
-      "app_id": "com.Level5.YWP",
-      "bundle_id": "com.Level5.YWP",
-      "developer": "LEVEL-5 Inc.",
-      "icon": "https://play-lh.googleusercontent.com/XmiUFeMM8tlNrt-X9pHvGecRj40nPM-jPswgT6zr4H9-ZqEFz5TCH3DLVp2yYj8aBYTPP5vvaUTpBMcV3aJDmf4",
+      "title": "LINE ポコポコ：3マッチパズルゲーム",
+      "app_id": "com.linecorp.LGPKPK",
+      "bundle_id": "com.linecorp.LGPKPK",
+      "developer": "LINE (LY Corporation)",
+      "icon": "https://play-lh.googleusercontent.com/gmtJmLVwGjTuK9-5TLqyy1EMjrA7C9VvyJiSYU_LQSf8QGCzsfI7fIGRLM3HxEXd1ady8LV316h1Mjco8aX0",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.Level5.YWP&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.linecorp.LGPKPK&hl=ja&gl=jp"
     },
     {
       "rank": 32,
+      "title": "ネジマッチ: Screw Sort 3D ネジパズル ボルト",
+      "app_id": "screw.puzzle.match3.brain.puzz",
+      "bundle_id": "screw.puzzle.match3.brain.puzz",
+      "developer": "Astrasen Global",
+      "icon": "https://play-lh.googleusercontent.com/kE2jfaqpma0Qb8nZqYjM-kbuFfW38aUKT4DdEV4-lIeveOpdrypa54s_koHKPhbQj7zSr_wFTUacGwVVXiHSHA",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=screw.puzzle.match3.brain.puzz&hl=ja&gl=jp"
+    },
+    {
+      "rank": 33,
       "title": "マージクッキング テーマレストラン",
       "app_id": "com.merge.cooking.theme.restaurant.food",
       "bundle_id": "com.merge.cooking.theme.restaurant.food",
@@ -823,16 +833,6 @@
       "icon": "https://play-lh.googleusercontent.com/ui7vKgSJpJv5f30-7HANVkJ_qeMkiE2N-eJAmAyLzHULKF5vrrcleJbisjv2fAmSeE_KYjDW0X6PKeTnpKg0s-I",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.merge.cooking.theme.restaurant.food&hl=ja&gl=jp"
-    },
-    {
-      "rank": 33,
-      "title": "Happy Color® – 数字で塗り絵と色ぬりえ",
-      "app_id": "com.pixel.art.coloring.color.number",
-      "bundle_id": "com.pixel.art.coloring.color.number",
-      "developer": "X-FLOW",
-      "icon": "https://play-lh.googleusercontent.com/SrSr_L4l99jgmGMy79N0_mEhpdn-fBqpg1hxobrs_daqRyZU-IUaiz3_07Bx-c5fB8JtHE0R5HpB2S8V3XAfJTs",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number&hl=ja&gl=jp"
     },
     {
       "rank": 34,
@@ -876,16 +876,6 @@
     },
     {
       "rank": 38,
-      "title": "城とドラゴン - 『3連続復刻コラボ祭』 開催中",
-      "app_id": "jp.co.asobism_castleanddragon",
-      "bundle_id": "jp.co.asobism_castleanddragon",
-      "developer": "asobism",
-      "icon": "https://play-lh.googleusercontent.com/GFaIq9Po-UD9H-dlWFz___RFfx-xLGGPJo8MJ1IY3TMIdQupICxOLcIlEvt-j21W_bcjysO9TOPrtZvpYewE6g",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=jp.co.asobism_castleanddragon&hl=ja&gl=jp"
-    },
-    {
-      "rank": 39,
       "title": "デジモンUP",
       "app_id": "com.bandainamcoent.dgup_jp",
       "bundle_id": "com.bandainamcoent.dgup_jp",
@@ -895,7 +885,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.dgup_jp&hl=ja&gl=jp"
     },
     {
-      "rank": 40,
+      "rank": 39,
       "title": "無職転生〜異世界行ったら本気だす〜クロニクル・オブ・エコーズ",
       "app_id": "jp.gree_ent.mushoku",
       "bundle_id": "jp.gree_ent.mushoku",
@@ -905,7 +895,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=jp.gree_ent.mushoku&hl=ja&gl=jp"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "title": "Bus Traffic Fever!　",
       "app_id": "jp.co.goodroid.hyper.busflow",
       "bundle_id": "jp.co.goodroid.hyper.busflow",
@@ -915,7 +905,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.busflow&hl=ja&gl=jp"
     },
     {
-      "rank": 42,
+      "rank": 41,
       "title": "Pokémon GO",
       "app_id": "com.nianticlabs.pokemongo",
       "bundle_id": "com.nianticlabs.pokemongo",
@@ -925,7 +915,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=ja&gl=jp"
     },
     {
-      "rank": 43,
+      "rank": 42,
       "title": "モンスターストライク",
       "app_id": "jp.co.mixi.monsterstrike",
       "bundle_id": "jp.co.mixi.monsterstrike",
@@ -935,7 +925,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=jp.co.mixi.monsterstrike&hl=ja&gl=jp"
     },
     {
-      "rank": 44,
+      "rank": 43,
       "title": "ブロスタ",
       "app_id": "com.supercell.brawlstars",
       "bundle_id": "com.supercell.brawlstars",
@@ -945,7 +935,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=ja&gl=jp"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "にゃんこ大戦争",
       "app_id": "jp.co.ponos.battlecats",
       "bundle_id": "jp.co.ponos.battlecats",
@@ -955,7 +945,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=jp.co.ponos.battlecats&hl=ja&gl=jp"
     },
     {
-      "rank": 46,
+      "rank": 45,
       "title": "LINE：ディズニー ツムツム",
       "app_id": "com.linecorp.LGTMTM",
       "bundle_id": "com.linecorp.LGTMTM",
@@ -965,7 +955,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.linecorp.LGTMTM&hl=ja&gl=jp"
     },
     {
-      "rank": 47,
+      "rank": 46,
       "title": "マジックソート！ (Magic Sort !)",
       "app_id": "com.grandgames.magicsort",
       "bundle_id": "com.grandgames.magicsort",
@@ -975,7 +965,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort&hl=ja&gl=jp"
     },
     {
-      "rank": 48,
+      "rank": 47,
       "title": "ゴシップハーバー：マージ & ストーリー",
       "app_id": "com.mergegames.gossipharbor",
       "bundle_id": "com.mergegames.gossipharbor",
@@ -985,7 +975,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=ja&gl=jp"
     },
     {
-      "rank": 49,
+      "rank": 48,
       "title": "僕のヒーローアカデミアUNITED SURVIVAL",
       "app_id": "com.klab.heroaca.united.survival",
       "bundle_id": "com.klab.heroaca.united.survival",
@@ -993,6 +983,16 @@
       "icon": "https://play-lh.googleusercontent.com/6N68UmL37trcXjJYhv-LWsnNTqdwqBeiRVqRt3vfmbhPIW7-Ef0yEnOEAd3AroB_LXHUuib3As-0DcH2YLL6Lv0",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.klab.heroaca.united.survival&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
+      "title": "妖怪ウォッチ ぷにぷに",
+      "app_id": "com.Level5.YWP",
+      "bundle_id": "com.Level5.YWP",
+      "developer": "LEVEL-5 Inc.",
+      "icon": "https://play-lh.googleusercontent.com/XmiUFeMM8tlNrt-X9pHvGecRj40nPM-jPswgT6zr4H9-ZqEFz5TCH3DLVp2yYj8aBYTPP5vvaUTpBMcV3aJDmf4",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.Level5.YWP&hl=ja&gl=jp"
     },
     {
       "rank": 50,
