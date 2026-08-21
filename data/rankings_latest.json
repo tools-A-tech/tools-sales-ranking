@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-21T09:43:57.763326+09:00",
-  "updated_at_display": "2026-08-21 09:43 JST",
+  "updated_at": "2026-08-21T10:43:59.216689+09:00",
+  "updated_at_display": "2026-08-21 10:43 JST",
   "ios": [
     {
       "rank": 1,
@@ -806,36 +806,46 @@
     },
     {
       "rank": 31,
-      "title": "魔法のタイルズ3 - ピアノ曲 & ゲーム",
-      "app_id": "com.youmusic.magictiles",
-      "bundle_id": "com.youmusic.magictiles",
-      "developer": "AMANOTES PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/AHmha0RTMkNchGnLfchmuFzdC0EVE9WRxVjNXIGJDUhknEMmucwFdW9noBSinYdq_sdITW1LKqNE_nlhfjRR",
+      "title": "タイルズ・サバイバル",
+      "app_id": "com.funplus.ts.global",
+      "bundle_id": "com.funplus.ts.global",
+      "developer": "FunPlus International AG",
+      "icon": "https://play-lh.googleusercontent.com/s0BYl3XzwvKGfma3ZftsmchXs7rCsyDKHJ7LTB6E3kY_WRorvEKg4cRawg0r2Ac0ZIbZ90VcEkI3UsUvdHlt4fg",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.funplus.ts.global&hl=ja&gl=jp"
     },
     {
       "rank": 32,
-      "title": "ゼンレスゾーンゼロ - アニバーサリー",
-      "app_id": "com.HoYoverse.Nap",
-      "bundle_id": "com.HoYoverse.Nap",
-      "developer": "COGNOSPHERE PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A",
+      "title": "パズル&サバイバル",
+      "app_id": "com.global.ztmslg",
+      "bundle_id": "com.global.ztmslg",
+      "developer": "37GAMES",
+      "icon": "https://play-lh.googleusercontent.com/UmfIWa_ho96skhDbLQmY1b9SPKECDG_cMvohO3BmgcwrB8pvKbak4z_DLznBKSS0l9_6y1fA8cRVTxH5zTWE",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.HoYoverse.Nap&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.global.ztmslg&hl=ja&gl=jp"
     },
     {
       "rank": 33,
-      "title": "ファイアーエムブレム ヒーローズ - 戦略RPGの金字塔",
-      "app_id": "com.nintendo.zaba",
-      "bundle_id": "com.nintendo.zaba",
-      "developer": "Nintendo Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/n_Xw5WPiQHiEK5FLIGw_BIvn2XJ54_XWpX7_U6pdf_0-pRz3kIksO1kPzAW1G2vsaqsQAbtx6DV92mwVaM_RVQ",
+      "title": "ドゥームズデイ：オデュッセウスの帰還",
+      "app_id": "com.igg.android.doomsdaylastsurvivors",
+      "bundle_id": "com.igg.android.doomsdaylastsurvivors",
+      "developer": "IGG.COM",
+      "icon": "https://play-lh.googleusercontent.com/Xch3zGVUFXoPP03rRRhvl5pSH98cBGG4x-wvkRMSl0oUyc4fdU-IDKOwpPzVZlrmqfXiCJ9lMv_eLdkoN4dO",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.nintendo.zaba&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.igg.android.doomsdaylastsurvivors&hl=ja&gl=jp"
     },
     {
       "rank": 34,
+      "title": "ラストZ：サバイバルシューティング",
+      "app_id": "com.readygo.barrel.gp",
+      "bundle_id": "com.readygo.barrel.gp",
+      "developer": "Omnilojo Pte Ltd",
+      "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.readygo.barrel.gp&hl=ja&gl=jp"
+    },
+    {
+      "rank": 35,
       "title": "トップウォー",
       "app_id": "com.topwar.gp",
       "bundle_id": "com.topwar.gp",
@@ -845,137 +855,47 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.topwar.gp&hl=ja&gl=jp"
     },
     {
-      "rank": 35,
-      "title": "学園アイドルマスター",
-      "app_id": "com.bandainamcoent.idolmaster_gakuen",
-      "bundle_id": "com.bandainamcoent.idolmaster_gakuen",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://play-lh.googleusercontent.com/ch_SGwCMoLElrzColmSthRPYxzv608YoyBx4tXY3ciM8Bg4fLxKhRHdeoqPSbygFruy62D9p5EdGAwLW8KGTfwI",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.idolmaster_gakuen&hl=ja&gl=jp"
-    },
-    {
       "rank": 36,
-      "title": "ミステリータウン：マージゲーム (Mystery Town)",
-      "app_id": "com.cedargames.mysterytown",
-      "bundle_id": "com.cedargames.mysterytown",
-      "developer": "Cedar Games Studio",
-      "icon": "https://play-lh.googleusercontent.com/MT_uOyA-JgP0Z2wlE1Y8zbJO4sXgjBSYYplnvragTP3KvcEvTO_q2wyks0Leu5bWpxPj4T6c_wvOl6yuexivNw",
+      "title": "王国のドラゴン: 戦略マネジメント帝国",
+      "app_id": "com.ndreamgames.wod",
+      "bundle_id": "com.ndreamgames.wod",
+      "developer": "NDREAM Corporation",
+      "icon": "https://play-lh.googleusercontent.com/IIYa1X7t1UGTAQp2ZNW068kHXAnKlVxn2F47nYcgG42kFgq-_d4Kmcvk2der3sXczcGAQqCZ_0Pe6TQ2xSvs",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.cedargames.mysterytown&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.ndreamgames.wod&hl=ja&gl=jp"
     },
     {
       "rank": 37,
-      "title": "ぷよぷよ!!クエスト(ぷよクエ) 楽しい！爽快パズルゲーム",
-      "app_id": "com.sega.PuyoQuest",
-      "bundle_id": "com.sega.PuyoQuest",
-      "developer": "SEGA CORPORATION",
-      "icon": "https://play-lh.googleusercontent.com/S4Pek96eoYJja_jT5wmw594iSJbSv6E8HL10s6ZPiHQS7QJOeQ7PcAaaq8CaBLHiy_faPFnlho9eisanwjZT",
+      "title": "ラストアサイラム：プレイグ",
+      "app_id": "com.phs.global",
+      "bundle_id": "com.phs.global",
+      "developer": "37GAMES GLOBAL",
+      "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.sega.PuyoQuest&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.phs.global&hl=ja&gl=jp"
     },
     {
       "rank": 38,
-      "title": "実況パワフルプロ野球",
-      "app_id": "jp.konami.pawapuroapp",
-      "bundle_id": "jp.konami.pawapuroapp",
-      "developer": "KONAMI",
-      "icon": "https://play-lh.googleusercontent.com/_sMJ1iyB_ez3nLknfpl2GL5P7raZ9exIhApY8En_wdefENq4ubWhht5icQD0_Hr5xmPrJEV5cHnsh78_i10a",
+      "title": "ローモバ×トランスフォーマー",
+      "app_id": "com.igg.android.lordsmobile",
+      "bundle_id": "com.igg.android.lordsmobile",
+      "developer": "IGG.COM",
+      "icon": "https://play-lh.googleusercontent.com/BPHlpTC8NaMmV8dHqH6u7A5EpdkPIK2LnuCtUa6DhvdtqMLjjiGV6alSd-lAm0bDIYQA4--M_QyKXumk95HCsg",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=jp.konami.pawapuroapp&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.igg.android.lordsmobile&hl=ja&gl=jp"
     },
     {
       "rank": 39,
-      "title": "ホロライブドリームス",
-      "app_id": "game.qualiarts.hololive.dreams.jp",
-      "bundle_id": "game.qualiarts.hololive.dreams.jp",
-      "developer": "QualiArts, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
+      "title": "サベージ・サバイバル：恐竜の咆哮",
+      "app_id": "com.slg.savagesurvival",
+      "bundle_id": "com.slg.savagesurvival",
+      "developer": "Phantix Games",
+      "icon": "https://play-lh.googleusercontent.com/lQk91XJ-esQ23lf8xLgjdZx1Kq9SeX73T6N2Yx7Q0jjFDluIOue8swaSQZ_qM7VMrBO6evc2tY0P3yf0ypM6YUo",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=game.qualiarts.hololive.dreams.jp&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.slg.savagesurvival&hl=ja&gl=jp"
     },
     {
       "rank": 40,
-      "title": "ブロックブラスト (Block Blast)",
-      "app_id": "com.block.juggle",
-      "bundle_id": "com.block.juggle",
-      "developer": "HungryStudio",
-      "icon": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ja&gl=jp"
-    },
-    {
-      "rank": 41,
-      "title": "Roblox (ロブロックス)",
-      "app_id": "com.roblox.client",
-      "bundle_id": "com.roblox.client",
-      "developer": "Roblox Corporation",
-      "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=ja&gl=jp"
-    },
-    {
-      "rank": 42,
-      "title": "Bus Traffic Fever!　",
-      "app_id": "jp.co.goodroid.hyper.busflow",
-      "bundle_id": "jp.co.goodroid.hyper.busflow",
-      "developer": "GOODROID,Inc.",
-      "icon": "https://play-lh.googleusercontent.com/caBiKRTVr57KEWAwIEH8mIXsjwrC19mfST9tLXizP1nPI3WdT5bJwXVSSQDb6HWLMKPkhVwLKHmA9PGAcrTZ",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.busflow&hl=ja&gl=jp"
-    },
-    {
-      "rank": 43,
-      "title": "無職転生〜異世界行ったら本気だす〜クロニクル・オブ・エコーズ",
-      "app_id": "jp.gree_ent.mushoku",
-      "bundle_id": "jp.gree_ent.mushoku",
-      "developer": "GREE Entertainment, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/UB8Y6tnArnkS2at0-pEpxZhLo_kwELCXxo9N5thtl2DVavxLGzIeYfkScY0kYdZAKv-EoiL_2S4g5Bh4LbJVnSc",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=jp.gree_ent.mushoku&hl=ja&gl=jp"
-    },
-    {
-      "rank": 44,
-      "title": "Meowdoku",
-      "app_id": "com.oakever.meowdoku",
-      "bundle_id": "com.oakever.meowdoku",
-      "developer": "Oakever Games",
-      "icon": "https://play-lh.googleusercontent.com/1vD3Jl37OTth18x__EkbpMZRAmDlGB5mlqKvveWumothf52-1HZXhAy5HGkGLzW_HYoz-rj2q0HBaxu5_8kyVQ",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.oakever.meowdoku&hl=ja&gl=jp"
-    },
-    {
-      "rank": 45,
-      "title": "Pokémon GO",
-      "app_id": "com.nianticlabs.pokemongo",
-      "bundle_id": "com.nianticlabs.pokemongo",
-      "developer": "Scopely Explore, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=ja&gl=jp"
-    },
-    {
-      "rank": 46,
-      "title": "幻想水滸伝 STAR LEAP",
-      "app_id": "jp.konami.suikoden.starleap",
-      "bundle_id": "jp.konami.suikoden.starleap",
-      "developer": "KONAMI",
-      "icon": "https://play-lh.googleusercontent.com/CZqC6kjKA871p5R5tf734xuTrgNd7B2DC9Q2Y1Fj0Bmdg3z2I8PhgV-7JNsOg-g-BV1ZWNLRPqq0frr9byaN",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=jp.konami.suikoden.starleap&hl=ja&gl=jp"
-    },
-    {
-      "rank": 47,
-      "title": "LINE：ディズニー ツムツム",
-      "app_id": "com.linecorp.LGTMTM",
-      "bundle_id": "com.linecorp.LGTMTM",
-      "developer": "LINE (LY Corporation)",
-      "icon": "https://play-lh.googleusercontent.com/0L1DdOZV6OLTGBW0SunL4Dgy--J7q7y1R7_YIjgyHhFB3QK1hqSeDnv_x1JdXJOx7f3jQNSa3u3UNzCHfLuF",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.linecorp.LGTMTM&hl=ja&gl=jp"
-    },
-    {
-      "rank": 48,
       "title": "にゃんこ大戦争",
       "app_id": "jp.co.ponos.battlecats",
       "bundle_id": "jp.co.ponos.battlecats",
@@ -985,7 +905,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=jp.co.ponos.battlecats&hl=ja&gl=jp"
     },
     {
-      "rank": 49,
+      "rank": 41,
       "title": "ブロスタ",
       "app_id": "com.supercell.brawlstars",
       "bundle_id": "com.supercell.brawlstars",
@@ -995,14 +915,94 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=ja&gl=jp"
     },
     {
-      "rank": 50,
-      "title": "モンスターストライク",
-      "app_id": "jp.co.mixi.monsterstrike",
-      "bundle_id": "jp.co.mixi.monsterstrike",
-      "developer": "XFLAG, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/WGW2AUzVfG3YF5cZJ_oRuhwAUGR5bskjiWFl4Kc_efzAeXsBMwnMXiMUGEGMTLHkihIWqrk6X_SEZ-T6LGMo",
+      "rank": 42,
+      "title": "キングショット",
+      "app_id": "com.run.tower.defense",
+      "bundle_id": "com.run.tower.defense",
+      "developer": "Century Games PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=jp.co.mixi.monsterstrike&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ja&gl=jp"
+    },
+    {
+      "rank": 43,
+      "title": "モンスターサバイバル",
+      "app_id": "com.farlightgames.pgame.gp",
+      "bundle_id": "com.farlightgames.pgame.gp",
+      "developer": "FARLIGHT",
+      "icon": "https://play-lh.googleusercontent.com/nIjO9pFz1R7G_wct00QMBKVqAmLHs2TqiaCmSUJfnKPw7yG_VzSmp26TRGCmm98v-Mye0MtsW_xz8CHNdIFD1A",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.farlightgames.pgame.gp&hl=ja&gl=jp"
+    },
+    {
+      "rank": 44,
+      "title": "Among Us",
+      "app_id": "com.innersloth.spacemafia",
+      "bundle_id": "com.innersloth.spacemafia",
+      "developer": "Innersloth LLC",
+      "icon": "https://play-lh.googleusercontent.com/pfGArJJx-vtMRVu2-ziedzAhTLsHgks6N3mNyyOC0oxRdsXINGwdd9h4ZutdTG7MfgiqlDXBXnk-kNo-Fns70Q",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=ja&gl=jp"
+    },
+    {
+      "rank": 45,
+      "title": "セルサバイバー",
+      "app_id": "defense.roguelike.cell.shoot.survivor",
+      "bundle_id": "defense.roguelike.cell.shoot.survivor",
+      "developer": "Snap Brain Games",
+      "icon": "https://play-lh.googleusercontent.com/nYtqh3zTXHanbhALUWZKuuHNpdj98csDFVBX5S4xWEdKe2rT5XTjNDdGFOrk-uSBjV3n3Jz_Mc0QLr7nCRCWOA",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=defense.roguelike.cell.shoot.survivor&hl=ja&gl=jp"
+    },
+    {
+      "rank": 46,
+      "title": "Pokémon UNITE",
+      "app_id": "jp.pokemon.pokemonunite",
+      "bundle_id": "jp.pokemon.pokemonunite",
+      "developer": "The Pokémon Company",
+      "icon": "https://play-lh.googleusercontent.com/EHzfymgOzqIlPybdJGb88VeHsqKAYu1EJDa4KEiW7ZkVFLm9vvHe36iMdzHCikW3Qv63miNF1ZPyxIe6xNZWyQ",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemonunite&hl=ja&gl=jp"
+    },
+    {
+      "rank": 47,
+      "title": "スティックマン防衛: サバイバルTD",
+      "app_id": "com.thp020.stickman.casual.war.game",
+      "bundle_id": "com.thp020.stickman.casual.war.game",
+      "developer": "Pusilung",
+      "icon": "https://play-lh.googleusercontent.com/BK3OuqmdPEaCunSOPzN2edeq1LVWCJvmtK8ReGIhVFrbqX9bUELOrwHpdIIPgr0oHO7rffZlATack9847EB78A",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.thp020.stickman.casual.war.game&hl=ja&gl=jp"
+    },
+    {
+      "rank": 48,
+      "title": "モバイル·レジェンド: Bang Bang",
+      "app_id": "com.mobile.legends",
+      "bundle_id": "com.mobile.legends",
+      "developer": "MOONTON",
+      "icon": "https://play-lh.googleusercontent.com/Bi6Ci1rk-szbr2-zaiy1ERCwgf6ndaNX81btfma8JurIMAg-_E5erEHGT2E5U6pyRCGSaV0091Kdt6tOboL9t9Y",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
+      "title": "キングダム 乱 -天下統一への道- 究極の本格戦略ゲーム",
+      "app_id": "com.mobcast.okp",
+      "bundle_id": "com.mobcast.okp",
+      "developer": "株式会社でらゲー",
+      "icon": "https://play-lh.googleusercontent.com/l-Byh9SR30Y0IpOXsNN8Ga9BnDBbI7NkIN32kyxMIBwX7q1oZEJ2bvIcjllv0iylDIrvArGZUoWANitBKNQq",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.mobcast.okp&hl=ja&gl=jp"
+    },
+    {
+      "rank": 50,
+      "title": "城とドラゴン - 『3連続復刻コラボ祭』 開催中",
+      "app_id": "jp.co.asobism_castleanddragon",
+      "bundle_id": "jp.co.asobism_castleanddragon",
+      "developer": "asobism",
+      "icon": "https://play-lh.googleusercontent.com/GFaIq9Po-UD9H-dlWFz___RFfx-xLGGPJo8MJ1IY3TMIdQupICxOLcIlEvt-j21W_bcjysO9TOPrtZvpYewE6g",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=jp.co.asobism_castleanddragon&hl=ja&gl=jp"
     }
   ],
   "meta": {
