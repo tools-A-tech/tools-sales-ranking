@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-30T00:19:45.002898+09:00",
-  "updated_at_display": "2026-08-30 00:19 JST",
+  "updated_at": "2026-08-30T01:19:44.467703+09:00",
+  "updated_at_display": "2026-08-30 01:19 JST",
   "ios": [
     {
       "rank": 1,
@@ -746,16 +746,6 @@
     },
     {
       "rank": 25,
-      "title": "プランツ・オン・ファイア",
-      "app_id": "com.nvsgames.pt",
-      "bundle_id": "com.nvsgames.pt",
-      "developer": "Nuverse Games",
-      "icon": "https://play-lh.googleusercontent.com/gH5Gthsejk7l-7CvcqyU5jhAOSMuWANN-o49MFIwzvKDPKhxPKrxvtDdyHNHmTpJktcS80TqezPwHczv-bcSRQ",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.nvsgames.pt&hl=ja&gl=jp"
-    },
-    {
-      "rank": 26,
       "title": "ベビーパンダのスクールバス",
       "app_id": "com.sinyee.babybus.taxi",
       "bundle_id": "com.sinyee.babybus.taxi",
@@ -765,7 +755,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.taxi&hl=ja&gl=jp"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "title": "戦争兵器：戦車軍事ゲーム (War Machines)",
       "app_id": "com.fungames.battletanksbeta",
       "bundle_id": "com.fungames.battletanksbeta",
@@ -775,7 +765,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta&hl=ja&gl=jp"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "title": "Pick Me Up 3D：タクシーゲーム",
       "app_id": "com.tp.pmu3d",
       "bundle_id": "com.tp.pmu3d",
@@ -783,6 +773,16 @@
       "icon": "https://play-lh.googleusercontent.com/eLSJn6cuvpHkyl6tx-Z0a78g5p33ss6Bq8ngVqBFvuVolELs2ff7glQygrvsLyrUQO6NoSbq-pO2gDDCI07U",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.tp.pmu3d&hl=ja&gl=jp"
+    },
+    {
+      "rank": 28,
+      "title": "Extreme Car Driving Simulator",
+      "app_id": "com.aim.racing",
+      "bundle_id": "com.aim.racing",
+      "developer": "AxesInMotion Racing",
+      "icon": "https://play-lh.googleusercontent.com/bz3WI8jFZITVevY0o5NODvFJ74u3ASzbKjUipCLdFtOAEmeDLEhevhZJKilXNhEjoeSu0ui1SX5RXSkZ66SWdQ",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=ja&gl=jp"
     },
     {
       "rank": 29,
@@ -976,23 +976,23 @@
     },
     {
       "rank": 48,
-      "title": "ブロックブラスト (Block Blast)",
-      "app_id": "com.block.juggle",
-      "bundle_id": "com.block.juggle",
-      "developer": "HungryStudio",
-      "icon": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
+      "title": "グルメ・ジャーニー",
+      "app_id": "com.fatmerge.global",
+      "bundle_id": "com.fatmerge.global",
+      "developer": "Century Games PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.fatmerge.global&hl=ja&gl=jp"
     },
     {
       "rank": 49,
-      "title": "Screwdom 3D",
-      "app_id": "com.ig.screwdom",
-      "bundle_id": "com.ig.screwdom",
-      "developer": "iKame Games - Zego Studio",
-      "icon": "https://play-lh.googleusercontent.com/0da_Ix7-KGiecqj9yRrGwHM6T42-irPiU9OymbijoSWC-rnPJETByhxFT1rVD0YZXD3NnSfPTwsxi8S_lxINbG4",
+      "title": "Wizardry Variants Daphne",
+      "app_id": "jp.co.drecom.wizardry.daphne",
+      "bundle_id": "jp.co.drecom.wizardry.daphne",
+      "developer": "株式会社ドリコム",
+      "icon": "https://play-lh.googleusercontent.com/zHq6ZKQhVsI5DTjy05zsWTggWgQfNZ7Qg5PJk5Kv3Rhctyt2HgfYYXHjEhS6k_6Y5NzwKvf2ZpQiXCWfc9htnw",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.ig.screwdom&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=jp.co.drecom.wizardry.daphne&hl=ja&gl=jp"
     },
     {
       "rank": 50,
