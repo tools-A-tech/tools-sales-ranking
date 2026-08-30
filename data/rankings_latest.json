@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-30T10:19:44.558325+09:00",
-  "updated_at_display": "2026-08-30 10:19 JST",
+  "updated_at": "2026-08-30T11:19:46.183142+09:00",
+  "updated_at_display": "2026-08-30 11:19 JST",
   "ios": [
     {
       "rank": 1,
@@ -84,6 +84,16 @@
     },
     {
       "rank": 9,
+      "title": "ロイヤルマッチ（Royal Match)",
+      "app_id": "1482155847",
+      "bundle_id": "com.dreamgames.royalmatch",
+      "developer": "Dream Games",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/00/76/bf0076c8-d6d1-d404-e895-0848a066e0a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id1482155847"
+    },
+    {
+      "rank": 10,
       "title": "ホワイトアウト・サバイバル",
       "app_id": "6443575749",
       "bundle_id": "com.gof.global",
@@ -93,7 +103,7 @@
       "store_url": "https://apps.apple.com/jp/app/id6443575749"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "崩壊：スターレイル",
       "app_id": "1599719154",
       "bundle_id": "com.HoYoverse.hkrpgoversea",
@@ -101,16 +111,6 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/2f/61/db2f61c9-dd74-2db0-cb81-fe3e463f7973/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
       "store_url": "https://apps.apple.com/jp/app/id1599719154"
-    },
-    {
-      "rank": 11,
-      "title": "ロイヤルマッチ（Royal Match)",
-      "app_id": "1482155847",
-      "bundle_id": "com.dreamgames.royalmatch",
-      "developer": "Dream Games",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/00/76/bf0076c8-d6d1-d404-e895-0848a066e0a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id1482155847"
     },
     {
       "rank": 12,
@@ -124,16 +124,6 @@
     },
     {
       "rank": 13,
-      "title": "#コンパス【戦闘摂理解析システム】",
-      "app_id": "1164400646",
-      "bundle_id": "com.nhnpa.cps",
-      "developer": "NHN PlayArt 株式会社",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/c7/e6/5bc7e6fe-95a3-0d18-af79-10376141a3ab/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id1164400646"
-    },
-    {
-      "rank": 14,
       "title": "Pokémon GO",
       "app_id": "1094591345",
       "bundle_id": "com.nianticlabs.pokemongo",
@@ -141,6 +131,16 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/b8/f6/ddb8f6f8-120a-9695-2625-259418812922/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
       "store_url": "https://apps.apple.com/jp/app/id1094591345"
+    },
+    {
+      "rank": 14,
+      "title": "#コンパス【戦闘摂理解析システム】",
+      "app_id": "1164400646",
+      "bundle_id": "com.nhnpa.cps",
+      "developer": "NHN PlayArt 株式会社",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/c7/e6/5bc7e6fe-95a3-0d18-af79-10376141a3ab/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id1164400646"
     },
     {
       "rank": 15,
@@ -224,16 +224,6 @@
     },
     {
       "rank": 23,
-      "title": "信長の野望 真戦",
-      "app_id": "6739554561",
-      "bundle_id": "com.qookkagames.xczyw.jp",
-      "developer": "Qookka Games",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/37/26/d937266c-b7f1-7379-21af-6c2f4d577655/AppIcon-jp-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id6739554561"
-    },
-    {
-      "rank": 24,
       "title": "パズル&サバイバル",
       "app_id": "1517980891",
       "bundle_id": "com.global.ztmslg.ios",
@@ -243,17 +233,17 @@
       "store_url": "https://apps.apple.com/jp/app/id1517980891"
     },
     {
-      "rank": 25,
-      "title": "Pokémon Masters EX",
-      "app_id": "1442061397",
-      "bundle_id": "com.dena.12026418",
-      "developer": "DeNA Co., Ltd.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/3c/4b/8f3c4b2e-df97-e7fb-9611-25338cac5ac6/KenyaAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "rank": 24,
+      "title": "信長の野望 真戦",
+      "app_id": "6739554561",
+      "bundle_id": "com.qookkagames.xczyw.jp",
+      "developer": "Qookka Games",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/37/26/d937266c-b7f1-7379-21af-6c2f4d577655/AppIcon-jp-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id1442061397"
+      "store_url": "https://apps.apple.com/jp/app/id6739554561"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "title": "グルメ・ジャーニー",
       "app_id": "6471045672",
       "bundle_id": "com.fatmerge.global",
@@ -261,6 +251,16 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/88/4d/29884def-ca46-cc2e-8736-d59ad3748d6f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
       "store_url": "https://apps.apple.com/jp/app/id6471045672"
+    },
+    {
+      "rank": 26,
+      "title": "Pokémon Masters EX",
+      "app_id": "1442061397",
+      "bundle_id": "com.dena.12026418",
+      "developer": "DeNA Co., Ltd.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/3c/4b/8f3c4b2e-df97-e7fb-9611-25338cac5ac6/KenyaAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id1442061397"
     },
     {
       "rank": 27,
@@ -454,16 +454,6 @@
     },
     {
       "rank": 46,
-      "title": "幻想水滸伝 STAR LEAP",
-      "app_id": "6746180100",
-      "bundle_id": "jp.konami.suikoden.starleap",
-      "developer": "KONAMI",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/70/2d/c5702d4c-8423-b603-b0ac-94bf4d3d8f81/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id6746180100"
-    },
-    {
-      "rank": 47,
       "title": "勝利の女神：NIKKE",
       "app_id": "1585915174",
       "bundle_id": "com.proximabeta.nikke",
@@ -471,6 +461,16 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/48/40/de484020-572f-fcc8-0eb3-85d5aea6f23f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
       "store_url": "https://apps.apple.com/jp/app/id1585915174"
+    },
+    {
+      "rank": 47,
+      "title": "幻想水滸伝 STAR LEAP",
+      "app_id": "6746180100",
+      "bundle_id": "jp.konami.suikoden.starleap",
+      "developer": "KONAMI",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/70/2d/c5702d4c-8423-b603-b0ac-94bf4d3d8f81/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id6746180100"
     },
     {
       "rank": 48,
