@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T08:19:44.591074+09:00",
-  "updated_at_display": "2026-09-01 08:19 JST",
+  "updated_at": "2026-09-01T09:19:44.959479+09:00",
+  "updated_at_display": "2026-09-01 09:19 JST",
   "ios": [
     {
       "rank": 1,
@@ -706,36 +706,16 @@
     },
     {
       "rank": 21,
-      "title": "Stickman Legends: シャドウファイト",
-      "app_id": "com.zitga.ninja.stickman.legends.shadow.wars",
-      "bundle_id": "com.zitga.ninja.stickman.legends.shadow.wars",
-      "developer": "Putaleng",
-      "icon": "https://play-lh.googleusercontent.com/SrcDt6s0YR1sBegEUtQN8lG-4vkZpgMQjgXMij3j6-eM-oNFgHrZZBjD5J1ptZdFnyRwhQB5mQ_kR2W_d3Trtkw",
+      "title": "Roblox (ロブロックス)",
+      "app_id": "com.roblox.client",
+      "bundle_id": "com.roblox.client",
+      "developer": "Roblox Corporation",
+      "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.zitga.ninja.stickman.legends.shadow.wars&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=ja&gl=jp"
     },
     {
       "rank": 22,
-      "title": "ブロックブラスト (Block Blast)",
-      "app_id": "com.block.juggle",
-      "bundle_id": "com.block.juggle",
-      "developer": "HungryStudio",
-      "icon": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ja&gl=jp"
-    },
-    {
-      "rank": 23,
-      "title": "エボニー - 王の帰還",
-      "app_id": "com.topgamesinc.evony",
-      "bundle_id": "com.topgamesinc.evony",
-      "developer": "TG Inc.",
-      "icon": "https://play-lh.googleusercontent.com/O_2KnfGM5WwoQrZVXoyHJEv-NyyZf3Nv6zYe3uQCtAFHzx8v4PT4Sb9oaSRoJDQ9Z8RDAYfHZh-_23TkBRSGRQ",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.topgamesinc.evony&hl=ja&gl=jp"
-    },
-    {
-      "rank": 24,
       "title": "マイホームデザインｰモダンシティ",
       "app_id": "com.cookapps.ff.moderncity",
       "bundle_id": "com.cookapps.ff.moderncity",
@@ -745,7 +725,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.cookapps.ff.moderncity&hl=ja&gl=jp"
     },
     {
-      "rank": 25,
+      "rank": 23,
       "title": "マイ・トーキング・トム",
       "app_id": "com.outfit7.mytalkingtomfree",
       "bundle_id": "com.outfit7.mytalkingtomfree",
@@ -755,7 +735,17 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=ja&gl=jp"
     },
     {
-      "rank": 26,
+      "rank": 24,
+      "title": "エボニー - 王の帰還",
+      "app_id": "com.topgamesinc.evony",
+      "bundle_id": "com.topgamesinc.evony",
+      "developer": "TG Inc.",
+      "icon": "https://play-lh.googleusercontent.com/O_2KnfGM5WwoQrZVXoyHJEv-NyyZf3Nv6zYe3uQCtAFHzx8v4PT4Sb9oaSRoJDQ9Z8RDAYfHZh-_23TkBRSGRQ",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.topgamesinc.evony&hl=ja&gl=jp"
+    },
+    {
+      "rank": 25,
       "title": "Spider Fighter 3: Action Game",
       "app_id": "com.starplay.spider.fighter.openworld",
       "bundle_id": "com.starplay.spider.fighter.openworld",
@@ -763,6 +753,16 @@
       "icon": "https://play-lh.googleusercontent.com/jSHpomdddSm_gdAjnSzjdq_5DeDvrCEHuSHeEaRm3jXYDKhpxcfkV6JxhFz4Giq4QrQP6yWIVaU9DM4hx1VyQQ",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter.openworld&hl=ja&gl=jp"
+    },
+    {
+      "rank": 26,
+      "title": "MARVEL SNAP (マーベル・スナップ)",
+      "app_id": "com.nvsgames.snap",
+      "bundle_id": "com.nvsgames.snap",
+      "developer": "Second Dinner",
+      "icon": "https://play-lh.googleusercontent.com/mvTNdrsMzaeieEWzy_ts9QnXlSi7SoAIBvJhpP1v-L7uOVwYPXTKI178--ffV1MPtZT6YWYiVQ7rAJz161-RGg",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.nvsgames.snap&hl=ja&gl=jp"
     },
     {
       "rank": 27,
@@ -776,33 +776,33 @@
     },
     {
       "rank": 28,
-      "title": "クリスタル・オブ・アトラン",
-      "app_id": "com.hermes.p6gameos",
-      "bundle_id": "com.hermes.p6gameos",
-      "developer": "Nuverse Games",
-      "icon": "https://play-lh.googleusercontent.com/M-Dysb6ObVM0CnrDzu0kP0rAZeQN89TxeniHFU_FdsAOgvYh6-ExBToUprOvP4NmUuo5iQp72O58lI5V_22zTQ",
+      "title": "トーキング・トムのゴールド・ラン",
+      "app_id": "com.outfit7.talkingtomgoldrun",
+      "bundle_id": "com.outfit7.talkingtomgoldrun",
+      "developer": "Outfit7 Limited",
+      "icon": "https://play-lh.googleusercontent.com/HympGTcpiPUnufrkfbRIdE6XoMvho7nAzvz-298nBWBzXD-ELedqBg0zoBanITrw7-yADZrQew1yOjAlYoBS",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.hermes.p6gameos&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.outfit7.talkingtomgoldrun&hl=ja&gl=jp"
     },
     {
       "rank": 29,
-      "title": "8 Ball Pool",
-      "app_id": "com.miniclip.eightballpool",
-      "bundle_id": "com.miniclip.eightballpool",
-      "developer": "Miniclip.com",
-      "icon": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
+      "title": "Roadside Empire: Idle Tycoon",
+      "app_id": "com.hybridparking.game",
+      "bundle_id": "com.hybridparking.game",
+      "developer": "Highcore Labs LLC",
+      "icon": "https://play-lh.googleusercontent.com/q-Q8NgMgWtKOFil2KoN_I6zqEix9zPDbIAEvkNjvCp7eeapt9vFk-1uUfuF3VAboV98puqWWeov-CboHXlh3",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.hybridparking.game&hl=ja&gl=jp"
     },
     {
       "rank": 30,
-      "title": "Fruit Ninja®",
-      "app_id": "com.halfbrick.fruitninjafree",
-      "bundle_id": "com.halfbrick.fruitninjafree",
-      "developer": "Halfbrick Studios",
-      "icon": "https://play-lh.googleusercontent.com/fznhdrBfXgOQx6CBMYServVpkwRBbJUke9-S6-QfeCnI0ZmipdfO7dvD5K-ae7Fb-8l9O3uIYYR3XXEl8ot1",
+      "title": "リトルパンダのゆめのらくえんーBabyBus",
+      "app_id": "com.sinyee.babybus.cube.global",
+      "bundle_id": "com.sinyee.babybus.cube.global",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/5wlKQ7VP4ETUZoqP_4uqQ2Q82BMVRI_7qzqEJaHiSW8khpeisozF8rxbc7GTb9e_MKX303U31AYuDFi-wjTYRQ",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.halfbrick.fruitninjafree&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.cube.global&hl=ja&gl=jp"
     },
     {
       "rank": 31,
@@ -996,13 +996,13 @@
     },
     {
       "rank": 50,
-      "title": "ドラゴンボールZ ドッカンバトル",
-      "app_id": "com.bandainamcogames.dbzdokkan",
-      "bundle_id": "com.bandainamcogames.dbzdokkan",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://play-lh.googleusercontent.com/AjC0FM5Y7Y-Nte45TKgOmvKZlfXPj3u9_CCLnWwzgDJfTTOziul3L4NqqzwupcdF7P4xgrwc1N_X0jRKwOSlf8M",
+      "title": "Pokémon TCG Pocket",
+      "app_id": "jp.pokemon.pokemontcgp",
+      "bundle_id": "jp.pokemon.pokemontcgp",
+      "developer": "The Pokémon Company",
+      "icon": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.bandainamcogames.dbzdokkan&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp&hl=ja&gl=jp"
     }
   ],
   "meta": {
