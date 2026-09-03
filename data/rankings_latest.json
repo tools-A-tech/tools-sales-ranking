@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-03T08:19:45.011680+09:00",
-  "updated_at_display": "2026-09-03 08:19 JST",
+  "updated_at": "2026-09-03T09:19:44.643852+09:00",
+  "updated_at_display": "2026-09-03 09:19 JST",
   "ios": [
     {
       "rank": 1,
@@ -706,6 +706,16 @@
     },
     {
       "rank": 21,
+      "title": "レースマスター 3D (Race Master 3D)",
+      "app_id": "com.easygames.race",
+      "bundle_id": "com.easygames.race",
+      "developer": "Beresnev Games",
+      "icon": "https://play-lh.googleusercontent.com/-dgmy1tX42EGfXRFTfSzCmSNbj3KZIdkE6vNS69cVcVUEFMdq_WWHI7Yb2Z9p4-7nym3VXhHIZhXUOmgNrtUIl8",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.easygames.race&hl=ja&gl=jp"
+    },
+    {
+      "rank": 22,
       "title": "ネオモンスターズ",
       "app_id": "com.pockettrend.neomonsters",
       "bundle_id": "com.pockettrend.neomonsters",
@@ -715,44 +725,34 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.pockettrend.neomonsters&hl=ja&gl=jp"
     },
     {
-      "rank": 22,
-      "title": "マイホームデザインｰモダンシティ",
-      "app_id": "com.cookapps.ff.moderncity",
-      "bundle_id": "com.cookapps.ff.moderncity",
-      "developer": "NSTAGE",
-      "icon": "https://play-lh.googleusercontent.com/pMibjx92m1MHDtBKcuHzQfpVOhNtZz-sy-qP6wCzTO7gr7aT2Mn5YuZFDdAwxFHDCvGHb_6r0NYX55g-Jw0oOhY",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.cookapps.ff.moderncity&hl=ja&gl=jp"
-    },
-    {
       "rank": 23,
-      "title": "エボニー - 王の帰還",
-      "app_id": "com.topgamesinc.evony",
-      "bundle_id": "com.topgamesinc.evony",
-      "developer": "TG Inc.",
-      "icon": "https://play-lh.googleusercontent.com/O_2KnfGM5WwoQrZVXoyHJEv-NyyZf3Nv6zYe3uQCtAFHzx8v4PT4Sb9oaSRoJDQ9Z8RDAYfHZh-_23TkBRSGRQ",
+      "title": "麻雀ブラスト (Mahjong Blast)",
+      "app_id": "com.nebula.mahjongtile",
+      "bundle_id": "com.nebula.mahjongtile",
+      "developer": "Nebula  Studio",
+      "icon": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.topgamesinc.evony&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=ja&gl=jp"
     },
     {
       "rank": 24,
-      "title": "ブロッククラフト3D (Block Craft)：建設ゲーム",
-      "app_id": "com.fungames.blockcraft",
-      "bundle_id": "com.fungames.blockcraft",
-      "developer": "Wildlife Studios",
-      "icon": "https://play-lh.googleusercontent.com/cW5-ehIemeFEMYScpxS_tUf9aSmvxcT3Yo-a2-_CisAuSf1XzGY0DvbktsKkNFUNn9twLAJgzmXvsgdr4MqCXw",
+      "title": "ブロックブラスト (Block Blast)",
+      "app_id": "com.block.juggle",
+      "bundle_id": "com.block.juggle",
+      "developer": "HungryStudio",
+      "icon": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ja&gl=jp"
     },
     {
       "rank": 25,
-      "title": "トーキング・トムのゴールド・ラン",
-      "app_id": "com.outfit7.talkingtomgoldrun",
-      "bundle_id": "com.outfit7.talkingtomgoldrun",
-      "developer": "Outfit7 Limited",
-      "icon": "https://play-lh.googleusercontent.com/HympGTcpiPUnufrkfbRIdE6XoMvho7nAzvz-298nBWBzXD-ELedqBg0zoBanITrw7-yADZrQew1yOjAlYoBS",
+      "title": "ブロスタ",
+      "app_id": "com.supercell.brawlstars",
+      "bundle_id": "com.supercell.brawlstars",
+      "developer": "Supercell",
+      "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.outfit7.talkingtomgoldrun&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=ja&gl=jp"
     },
     {
       "rank": 26,
@@ -766,36 +766,26 @@
     },
     {
       "rank": 27,
-      "title": "レースマスター 3D (Race Master 3D)",
-      "app_id": "com.easygames.race",
-      "bundle_id": "com.easygames.race",
-      "developer": "Beresnev Games",
-      "icon": "https://play-lh.googleusercontent.com/-dgmy1tX42EGfXRFTfSzCmSNbj3KZIdkE6vNS69cVcVUEFMdq_WWHI7Yb2Z9p4-7nym3VXhHIZhXUOmgNrtUIl8",
+      "title": "トーキング・トムのゴールド・ラン",
+      "app_id": "com.outfit7.talkingtomgoldrun",
+      "bundle_id": "com.outfit7.talkingtomgoldrun",
+      "developer": "Outfit7 Limited",
+      "icon": "https://play-lh.googleusercontent.com/HympGTcpiPUnufrkfbRIdE6XoMvho7nAzvz-298nBWBzXD-ELedqBg0zoBanITrw7-yADZrQew1yOjAlYoBS",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.easygames.race&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.outfit7.talkingtomgoldrun&hl=ja&gl=jp"
     },
     {
       "rank": 28,
-      "title": "マイ・トーキング・トム",
-      "app_id": "com.outfit7.mytalkingtomfree",
-      "bundle_id": "com.outfit7.mytalkingtomfree",
-      "developer": "Outfit7 Limited",
-      "icon": "https://play-lh.googleusercontent.com/WcyzKmezd5XQgLqdSch8N0PungS1iXsHTq8R1wzCY35YuFNnvhSIVQRmVia1Uw1ivJwSpbDrzRmaELKlEKUDCw",
+      "title": "ロイヤルキングダム (Royal Kingdom)",
+      "app_id": "com.dreamgames.royalkingdom",
+      "bundle_id": "com.dreamgames.royalkingdom",
+      "developer": "Dream Games, Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=ja&gl=jp"
     },
     {
       "rank": 29,
-      "title": "Roblox (ロブロックス)",
-      "app_id": "com.roblox.client",
-      "bundle_id": "com.roblox.client",
-      "developer": "Roblox Corporation",
-      "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=ja&gl=jp"
-    },
-    {
-      "rank": 30,
       "title": "車駐車 自動車学校 (マルチプレイヤー)",
       "app_id": "com.racinggames_city.car.racing_Free",
       "bundle_id": "com.racinggames_city.car.racing_Free",
@@ -805,7 +795,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.racinggames_city.car.racing_Free&hl=ja&gl=jp"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "title": "Gambonanza",
       "app_id": "com.strayfawnstudio.gambonanza",
       "bundle_id": "com.strayfawnstudio.gambonanza",
@@ -815,7 +805,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.strayfawnstudio.gambonanza&hl=ja&gl=jp"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "title": "Easy Delivery Co.",
       "app_id": "com.doghowlgames.EasyDeliveryCo",
       "bundle_id": "com.doghowlgames.EasyDeliveryCo",
@@ -825,7 +815,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.doghowlgames.EasyDeliveryCo&hl=ja&gl=jp"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "title": "Bloomtown: A Different Story",
       "app_id": "com.DifferentSense.BloomtownaDifferentStory",
       "bundle_id": "com.DifferentSense.BloomtownaDifferentStory",
@@ -835,7 +825,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.DifferentSense.BloomtownaDifferentStory&hl=ja&gl=jp"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "title": "Mindcop",
       "app_id": "com.pid.mindcop",
       "bundle_id": "com.pid.mindcop",
@@ -845,7 +835,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.pid.mindcop&hl=ja&gl=jp"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "title": "Smash Hit",
       "app_id": "com.mediocre.smashhit",
       "bundle_id": "com.mediocre.smashhit",
@@ -855,7 +845,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.mediocre.smashhit&hl=ja&gl=jp"
     },
     {
-      "rank": 36,
+      "rank": 35,
       "title": "思い出レストラン　〜心にしみる昭和シリーズ〜",
       "app_id": "jp.co.gagex.rigel",
       "bundle_id": "jp.co.gagex.rigel",
@@ -865,7 +855,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=jp.co.gagex.rigel&hl=ja&gl=jp"
     },
     {
-      "rank": 37,
+      "rank": 36,
       "title": "アルトのオデッセイ",
       "app_id": "com.noodlecake.altosodyssey",
       "bundle_id": "com.noodlecake.altosodyssey",
@@ -875,7 +865,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.noodlecake.altosodyssey&hl=ja&gl=jp"
     },
     {
-      "rank": 38,
+      "rank": 37,
       "title": "The White Door / ホワイトドア",
       "app_id": "air.com.RustyLake.WhiteDoor",
       "bundle_id": "air.com.RustyLake.WhiteDoor",
@@ -885,7 +875,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=air.com.RustyLake.WhiteDoor&hl=ja&gl=jp"
     },
     {
-      "rank": 39,
+      "rank": 38,
       "title": "orange",
       "app_id": "air.com.bartbonte.orange",
       "bundle_id": "air.com.bartbonte.orange",
@@ -895,7 +885,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=air.com.bartbonte.orange&hl=ja&gl=jp"
     },
     {
-      "rank": 40,
+      "rank": 39,
       "title": "Machinarium （マシナリウム）",
       "app_id": "air.net.machinarium.Machinarium.GP",
       "bundle_id": "air.net.machinarium.Machinarium.GP",
@@ -905,7 +895,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=air.net.machinarium.Machinarium.GP&hl=ja&gl=jp"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "title": "Samorost 3 (サモロスト3)",
       "app_id": "amanita_design.samorost3.GP",
       "bundle_id": "amanita_design.samorost3.GP",
@@ -915,7 +905,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=amanita_design.samorost3.GP&hl=ja&gl=jp"
     },
     {
-      "rank": 42,
+      "rank": 41,
       "title": "Bird Alone",
       "app_id": "com.GeorgeBatchelor.BirdAlone",
       "bundle_id": "com.GeorgeBatchelor.BirdAlone",
@@ -925,7 +915,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.GeorgeBatchelor.BirdAlone&hl=ja&gl=jp"
     },
     {
-      "rank": 43,
+      "rank": 42,
       "title": "G30 - 記憶の迷路",
       "app_id": "com.IvanKovalov.G30Android",
       "bundle_id": "com.IvanKovalov.G30Android",
@@ -935,7 +925,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.IvanKovalov.G30Android&hl=ja&gl=jp"
     },
     {
-      "rank": 44,
+      "rank": 43,
       "title": "Prune",
       "app_id": "com.Polyculture.Prune",
       "bundle_id": "com.Polyculture.Prune",
@@ -945,7 +935,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.Polyculture.Prune&hl=ja&gl=jp"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "The Past Within",
       "app_id": "com.RustyLake.ThePastWithin",
       "bundle_id": "com.RustyLake.ThePastWithin",
@@ -955,7 +945,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.RustyLake.ThePastWithin&hl=ja&gl=jp"
     },
     {
-      "rank": 46,
+      "rank": 45,
       "title": "Please, Touch The Artwork",
       "app_id": "com.StudioWaterzooi.PleaseTouchTheArtwork",
       "bundle_id": "com.StudioWaterzooi.PleaseTouchTheArtwork",
@@ -965,7 +955,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.StudioWaterzooi.PleaseTouchTheArtwork&hl=ja&gl=jp"
     },
     {
-      "rank": 47,
+      "rank": 46,
       "title": "Hidden Folks",
       "app_id": "com.adriaandejongh.hiddenfolks",
       "bundle_id": "com.adriaandejongh.hiddenfolks",
@@ -975,7 +965,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.adriaandejongh.hiddenfolks&hl=ja&gl=jp"
     },
     {
-      "rank": 48,
+      "rank": 47,
       "title": "République",
       "app_id": "com.camouflaj.republique",
       "bundle_id": "com.camouflaj.republique",
@@ -985,7 +975,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.camouflaj.republique&hl=ja&gl=jp"
     },
     {
-      "rank": 49,
+      "rank": 48,
       "title": "AZNANA",
       "app_id": "com.caracolu.aznana",
       "bundle_id": "com.caracolu.aznana",
@@ -995,14 +985,24 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.caracolu.aznana&hl=ja&gl=jp"
     },
     {
-      "rank": 50,
-      "title": "ネジパズル: 脳トレ ウッド パズル - 人気 ネジ ゲーム",
-      "app_id": "com.wood.bolt.wordle.screw.nuts.puzzle",
-      "bundle_id": "com.wood.bolt.wordle.screw.nuts.puzzle",
-      "developer": "LifePulse Puzzle Game Studio",
-      "icon": "https://play-lh.googleusercontent.com/3l5HiW1HL3MT86rgAJrCZ6SpuCOxm9I4gxKS8in8mAsz1RXr2AyRt63QaXQ57Kx6-DutV11MvDsEdX41MnzNb9A",
+      "rank": 49,
+      "title": "ヒーローウォーズ：アライアンス — 放置系ロールプレイング",
+      "app_id": "com.nexters.herowars",
+      "bundle_id": "com.nexters.herowars",
+      "developer": "NEXTERS GLOBAL LTD",
+      "icon": "https://play-lh.googleusercontent.com/FtCFQxVWKIbe0kL2_bLpQp5We65COlUifnATqedJ1HVDybkcIHaf-kacHHabSBrJICGKOKwSJVFy8BVR1Oht",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.wood.bolt.wordle.screw.nuts.puzzle&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.nexters.herowars&hl=ja&gl=jp"
+    },
+    {
+      "rank": 50,
+      "title": "崩壊：スターレイル",
+      "app_id": "com.HoYoverse.hkrpgoversea",
+      "bundle_id": "com.HoYoverse.hkrpgoversea",
+      "developer": "COGNOSPHERE PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea&hl=ja&gl=jp"
     }
   ],
   "meta": {
