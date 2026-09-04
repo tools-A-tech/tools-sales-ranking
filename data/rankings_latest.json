@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04T21:19:59.989116+09:00",
-  "updated_at_display": "2026-09-04 21:19 JST",
+  "updated_at": "2026-09-04T22:19:50.210345+09:00",
+  "updated_at_display": "2026-09-04 22:19 JST",
   "ios": [
     {
       "rank": 1,
@@ -963,11 +963,51 @@
       "icon": "https://play-lh.googleusercontent.com/i7Lz8MuuF6yQtuyPCz8ir8Iu4IyBTQgqNCYUxCug-xuHCKcbNJyEPHmwGaDS8F2MBsTvfM-vowVTndA7dd42Tw",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.caracolu.aznana&hl=ja&gl=jp"
+    },
+    {
+      "rank": 47,
+      "title": "Pokémon TCG Pocket",
+      "app_id": "jp.pokemon.pokemontcgp",
+      "bundle_id": "jp.pokemon.pokemontcgp",
+      "developer": "The Pokémon Company",
+      "icon": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp&hl=ja&gl=jp"
+    },
+    {
+      "rank": 48,
+      "title": "ドラゴンボールZ ドッカンバトル",
+      "app_id": "com.bandainamcogames.dbzdokkan",
+      "bundle_id": "com.bandainamcogames.dbzdokkan",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "icon": "https://play-lh.googleusercontent.com/AjC0FM5Y7Y-Nte45TKgOmvKZlfXPj3u9_CCLnWwzgDJfTTOziul3L4NqqzwupcdF7P4xgrwc1N_X0jRKwOSlf8M",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.bandainamcogames.dbzdokkan&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
+      "title": "ぷよぷよ!!クエスト(ぷよクエ) 楽しい！爽快パズルゲーム",
+      "app_id": "com.sega.PuyoQuest",
+      "bundle_id": "com.sega.PuyoQuest",
+      "developer": "SEGA CORPORATION",
+      "icon": "https://play-lh.googleusercontent.com/BlTQyk07VdwaV3Guo4TRuzzwbDDdAVGzH9NRAed94zRzykRwgpCLnyorIviY7Pqjxn--60rAzke-XArDtSdbQw",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.sega.PuyoQuest&hl=ja&gl=jp"
+    },
+    {
+      "rank": 50,
+      "title": "Roblox (ロブロックス)",
+      "app_id": "com.roblox.client",
+      "bundle_id": "com.roblox.client",
+      "developer": "Roblox Corporation",
+      "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=ja&gl=jp"
     }
   ],
   "meta": {
     "ios_count": 50,
-    "android_count": 46,
+    "android_count": 50,
     "limit": 50,
     "category": "Games"
   }
