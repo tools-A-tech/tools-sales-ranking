@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T12:19:46.177741+09:00",
-  "updated_at_display": "2026-09-05 12:19 JST",
+  "updated_at": "2026-09-05T13:19:45.055429+09:00",
+  "updated_at_display": "2026-09-05 13:19 JST",
   "ios": [
     {
       "rank": 1,
@@ -746,6 +746,16 @@
     },
     {
       "rank": 25,
+      "title": "ブロスタ",
+      "app_id": "com.supercell.brawlstars",
+      "bundle_id": "com.supercell.brawlstars",
+      "developer": "Supercell",
+      "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=ja&gl=jp"
+    },
+    {
+      "rank": 26,
       "title": "Roblox (ロブロックス)",
       "app_id": "com.roblox.client",
       "bundle_id": "com.roblox.client",
@@ -755,7 +765,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=ja&gl=jp"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "title": "Level Devil - NOT A Troll Game",
       "app_id": "com.unept.leveldevil",
       "bundle_id": "com.unept.leveldevil",
@@ -765,7 +775,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.unept.leveldevil&hl=ja&gl=jp"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "title": "ブロックブラスト (Block Blast)",
       "app_id": "com.block.juggle",
       "bundle_id": "com.block.juggle",
@@ -775,7 +785,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ja&gl=jp"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "title": "KidloLand 幼児ゲーム、キッズゲーム、赤ちゃんの歌",
       "app_id": "com.internetdesignzone.nurseryrhymes",
       "bundle_id": "com.internetdesignzone.nurseryrhymes",
@@ -785,7 +795,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.internetdesignzone.nurseryrhymes&hl=ja&gl=jp"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "title": "Smash Hit",
       "app_id": "com.mediocre.smashhit",
       "bundle_id": "com.mediocre.smashhit",
@@ -795,7 +805,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.mediocre.smashhit&hl=ja&gl=jp"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "title": "日本事故物件監視協会3 -JSP3-",
       "app_id": "jp.co.loxarc.jsp3.prod",
       "bundle_id": "jp.co.loxarc.jsp3.prod",
@@ -805,7 +815,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=jp.co.loxarc.jsp3.prod&hl=ja&gl=jp"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "title": "アルトのオデッセイ",
       "app_id": "com.noodlecake.altosodyssey",
       "bundle_id": "com.noodlecake.altosodyssey",
@@ -815,7 +825,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.noodlecake.altosodyssey&hl=ja&gl=jp"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "title": "思い出レストラン　〜心にしみる昭和シリーズ〜",
       "app_id": "jp.co.gagex.rigel",
       "bundle_id": "jp.co.gagex.rigel",
@@ -825,7 +835,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=jp.co.gagex.rigel&hl=ja&gl=jp"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "title": "The White Door / ホワイトドア",
       "app_id": "air.com.RustyLake.WhiteDoor",
       "bundle_id": "air.com.RustyLake.WhiteDoor",
@@ -835,7 +845,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=air.com.RustyLake.WhiteDoor&hl=ja&gl=jp"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "title": "orange",
       "app_id": "air.com.bartbonte.orange",
       "bundle_id": "air.com.bartbonte.orange",
@@ -845,7 +855,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=air.com.bartbonte.orange&hl=ja&gl=jp"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "title": "Machinarium （マシナリウム）",
       "app_id": "air.net.machinarium.Machinarium.GP",
       "bundle_id": "air.net.machinarium.Machinarium.GP",
@@ -855,7 +865,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=air.net.machinarium.Machinarium.GP&hl=ja&gl=jp"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "title": "Samorost 3 (サモロスト3)",
       "app_id": "amanita_design.samorost3.GP",
       "bundle_id": "amanita_design.samorost3.GP",
@@ -865,7 +875,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=amanita_design.samorost3.GP&hl=ja&gl=jp"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "title": "Bird Alone",
       "app_id": "com.GeorgeBatchelor.BirdAlone",
       "bundle_id": "com.GeorgeBatchelor.BirdAlone",
@@ -875,7 +885,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.GeorgeBatchelor.BirdAlone&hl=ja&gl=jp"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "title": "G30 - 記憶の迷路",
       "app_id": "com.IvanKovalov.G30Android",
       "bundle_id": "com.IvanKovalov.G30Android",
@@ -885,7 +895,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.IvanKovalov.G30Android&hl=ja&gl=jp"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "title": "Prune",
       "app_id": "com.Polyculture.Prune",
       "bundle_id": "com.Polyculture.Prune",
@@ -895,7 +905,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.Polyculture.Prune&hl=ja&gl=jp"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "title": "The Past Within",
       "app_id": "com.RustyLake.ThePastWithin",
       "bundle_id": "com.RustyLake.ThePastWithin",
@@ -905,7 +915,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.RustyLake.ThePastWithin&hl=ja&gl=jp"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "title": "Please, Touch The Artwork",
       "app_id": "com.StudioWaterzooi.PleaseTouchTheArtwork",
       "bundle_id": "com.StudioWaterzooi.PleaseTouchTheArtwork",
@@ -915,7 +925,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.StudioWaterzooi.PleaseTouchTheArtwork&hl=ja&gl=jp"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "title": "Hidden Folks",
       "app_id": "com.adriaandejongh.hiddenfolks",
       "bundle_id": "com.adriaandejongh.hiddenfolks",
@@ -925,7 +935,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.adriaandejongh.hiddenfolks&hl=ja&gl=jp"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "title": "République",
       "app_id": "com.camouflaj.republique",
       "bundle_id": "com.camouflaj.republique",
@@ -935,7 +945,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.camouflaj.republique&hl=ja&gl=jp"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "title": "AZNANA",
       "app_id": "com.caracolu.aznana",
       "bundle_id": "com.caracolu.aznana",
@@ -945,64 +955,54 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.caracolu.aznana&hl=ja&gl=jp"
     },
     {
-      "rank": 45,
-      "title": "ネジパズル: 脳トレ ウッド パズル - 人気 ネジ ゲーム",
-      "app_id": "com.wood.bolt.wordle.screw.nuts.puzzle",
-      "bundle_id": "com.wood.bolt.wordle.screw.nuts.puzzle",
-      "developer": "LifePulse Puzzle Game Studio",
-      "icon": "https://play-lh.googleusercontent.com/xSB-NSG-vyrj3_Jhfs6Kp74kF4ls5tHjmSCdpB9Fc9TWS-YWyoWCOcD_ysmuA_YzGVZQ-o2C67a144R1BeRknw",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.wood.bolt.wordle.screw.nuts.puzzle&hl=ja&gl=jp"
-    },
-    {
       "rank": 46,
-      "title": "ゴシップハーバー：マージ & ストーリー",
-      "app_id": "com.mergegames.gossipharbor",
-      "bundle_id": "com.mergegames.gossipharbor",
-      "developer": "Microfun Limited",
-      "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA",
+      "title": "Merge Fashion(マージファッション):マージ",
+      "app_id": "com.infiniplay.merge.fashion.romance.story",
+      "bundle_id": "com.infiniplay.merge.fashion.romance.story",
+      "developer": "Infiniplay-Game",
+      "icon": "https://play-lh.googleusercontent.com/_GpMLVDaOi8THx-J4w7JNfDUiXBNUaHTCg5zvAqWEvtsNRLJLLx4EHUoea6JBGkjZdlgJCO4NeLH1H_UTYY3zMY",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.infiniplay.merge.fashion.romance.story&hl=ja&gl=jp"
     },
     {
       "rank": 47,
-      "title": "LINE：ディズニー ツムツム",
-      "app_id": "com.linecorp.LGTMTM",
-      "bundle_id": "com.linecorp.LGTMTM",
-      "developer": "LINE (LY Corporation)",
-      "icon": "https://play-lh.googleusercontent.com/lNl6tzVizf3A8M1LQNZtapTyO_T5vUfC_JzNuNZrniM9xJ9Au5aSohql2vF4Ojg2rbDaOhSoHbRH-dpK9Fq9fQ",
+      "title": "コトダマン ‐ 共闘ことばRPG",
+      "app_id": "com.sega.Kotodaman",
+      "bundle_id": "com.sega.Kotodaman",
+      "developer": "XFLAG, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/HvRc8riDsmWHQLGdYVMU-Zze1xrywfpHer4jhqZl4qiVlaHF1WgRqesIpR7P4SCA8Da5o7Ng3JBJBcJIyL-KhA",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.linecorp.LGTMTM&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.sega.Kotodaman&hl=ja&gl=jp"
     },
     {
       "rank": 48,
-      "title": "妖怪ウォッチ ぷにぷに",
-      "app_id": "com.Level5.YWP",
-      "bundle_id": "com.Level5.YWP",
-      "developer": "LEVEL-5 Inc.",
-      "icon": "https://play-lh.googleusercontent.com/gLJhf9CphneUaQLaiNoJ9E8FSUlygLYQRuLrj1j02l5Hj54QTMiRYhRJxSGSoZoSEAlRF0bsnyZsK8rb1m-9",
+      "title": "オフラインゲーム - 暇つぶし ゲーム - パズルゲーム",
+      "app_id": "com.JindoBlu.OfflineGames",
+      "bundle_id": "com.JindoBlu.OfflineGames",
+      "developer": "JindoBlu",
+      "icon": "https://play-lh.googleusercontent.com/nVrTGBwfTkYNMSSVv9xFj3dXzVzdY7Ab6KBro6GUFWZlpOD-zDMXZpSP1KSAZcSQw49gpQ_maqdcT_XvSNIA94w",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.Level5.YWP&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.JindoBlu.OfflineGames&hl=ja&gl=jp"
     },
     {
       "rank": 49,
-      "title": "Jewel Coloring",
-      "app_id": "color.number.paint.pixle.art.sort.jigsaw",
-      "bundle_id": "color.number.paint.pixle.art.sort.jigsaw",
-      "developer": "TaTa Game Technology Limited",
-      "icon": "https://play-lh.googleusercontent.com/4O3eRZ4cOMPSFiasjvlJuodijaKtNiv7HZ9Hm5r4CT78imAL32QbbWoJkiOJ3erjS4Yi652WTBrwcQrbbsuW",
+      "title": "魔法少女まどかマギカ Magia Exedra",
+      "app_id": "com.aniplex.magia.exedra.jp",
+      "bundle_id": "com.aniplex.magia.exedra.jp",
+      "developer": "Aniplex Inc.",
+      "icon": "https://play-lh.googleusercontent.com/FzELJLclY9P2JNpVllcmyPsdZyflzjgrdJIBFF3IJckGBoyEDVc_bSzo0t6ni3uWjKsteDDDVbV1_vDhg8kTcg",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=color.number.paint.pixle.art.sort.jigsaw&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.aniplex.magia.exedra.jp&hl=ja&gl=jp"
     },
     {
       "rank": 50,
-      "title": "Screwdom 3D",
-      "app_id": "com.ig.screwdom",
-      "bundle_id": "com.ig.screwdom",
-      "developer": "iKame Games - Zego Studio",
-      "icon": "https://play-lh.googleusercontent.com/0da_Ix7-KGiecqj9yRrGwHM6T42-irPiU9OymbijoSWC-rnPJETByhxFT1rVD0YZXD3NnSfPTwsxi8S_lxINbG4",
+      "title": "Bus Traffic Fever!　",
+      "app_id": "jp.co.goodroid.hyper.busflow",
+      "bundle_id": "jp.co.goodroid.hyper.busflow",
+      "developer": "GOODROID,Inc.",
+      "icon": "https://play-lh.googleusercontent.com/caBiKRTVr57KEWAwIEH8mIXsjwrC19mfST9tLXizP1nPI3WdT5bJwXVSSQDb6HWLMKPkhVwLKHmA9PGAcrTZ",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.ig.screwdom&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.busflow&hl=ja&gl=jp"
     }
   ],
   "meta": {
