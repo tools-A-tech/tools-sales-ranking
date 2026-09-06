@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-06T11:19:45.343910+09:00",
-  "updated_at_display": "2026-09-06 11:19 JST",
+  "updated_at": "2026-09-06T12:19:46.645882+09:00",
+  "updated_at_display": "2026-09-06 12:19 JST",
   "ios": [
     {
       "rank": 1,
@@ -966,6 +966,16 @@
     },
     {
       "rank": 47,
+      "title": "Pokémon GO",
+      "app_id": "com.nianticlabs.pokemongo",
+      "bundle_id": "com.nianticlabs.pokemongo",
+      "developer": "Scopely Explore, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=ja&gl=jp"
+    },
+    {
+      "rank": 48,
       "title": "シムシティ　ビルドイット (SIMCITY BUILDIT)",
       "app_id": "com.ea.game.simcitymobile_row",
       "bundle_id": "com.ea.game.simcitymobile_row",
@@ -975,34 +985,24 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ja&gl=jp"
     },
     {
-      "rank": 48,
-      "title": "ONE PIECE バウンティラッシュ - アクションゲーム",
-      "app_id": "com.bandainamcoent.opbrjp",
-      "bundle_id": "com.bandainamcoent.opbrjp",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://play-lh.googleusercontent.com/B1mHaeo7VRgCohe_DV1XCOS2mtvoujEinoZoqRDW2GbvWvxooS55LycfHlBs8p1bsx9C8YUfPk-RKEaNeF1cu58",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.opbrjp&hl=ja&gl=jp"
-    },
-    {
       "rank": 49,
-      "title": "にゃんこ大戦争",
-      "app_id": "jp.co.ponos.battlecats",
-      "bundle_id": "jp.co.ponos.battlecats",
-      "developer": "PONOS Corporation",
-      "icon": "https://play-lh.googleusercontent.com/_zq2tHsoecoSDTyxqZr9VdehQ2If63W2YXKzM10feM192S9uLsY7RNWOyKN5UXAWQL3bSBnC2tIp5bvlBNmn8Q",
+      "title": "ブロッククラフト3D (Block Craft)：建設ゲーム",
+      "app_id": "com.fungames.blockcraft",
+      "bundle_id": "com.fungames.blockcraft",
+      "developer": "Wildlife Studios",
+      "icon": "https://play-lh.googleusercontent.com/cW5-ehIemeFEMYScpxS_tUf9aSmvxcT3Yo-a2-_CisAuSf1XzGY0DvbktsKkNFUNn9twLAJgzmXvsgdr4MqCXw",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=jp.co.ponos.battlecats&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=ja&gl=jp"
     },
     {
       "rank": 50,
-      "title": "妖怪ウォッチ ぷにぷに",
-      "app_id": "com.Level5.YWP",
-      "bundle_id": "com.Level5.YWP",
-      "developer": "LEVEL-5 Inc.",
-      "icon": "https://play-lh.googleusercontent.com/gLJhf9CphneUaQLaiNoJ9E8FSUlygLYQRuLrj1j02l5Hj54QTMiRYhRJxSGSoZoSEAlRF0bsnyZsK8rb1m-9",
+      "title": "ブロックブラスト (Block Blast)",
+      "app_id": "com.block.juggle",
+      "bundle_id": "com.block.juggle",
+      "developer": "HungryStudio",
+      "icon": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.Level5.YWP&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ja&gl=jp"
     }
   ],
   "meta": {
