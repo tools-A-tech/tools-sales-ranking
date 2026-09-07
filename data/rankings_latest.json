@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T04:19:44.554092+09:00",
-  "updated_at_display": "2026-09-08 04:19 JST",
+  "updated_at": "2026-09-08T05:19:44.639568+09:00",
+  "updated_at_display": "2026-09-08 05:19 JST",
   "ios": [
     {
       "rank": 1,
@@ -756,6 +756,16 @@
     },
     {
       "rank": 26,
+      "title": "ブロックブラスト (Block Blast)",
+      "app_id": "com.block.juggle",
+      "bundle_id": "com.block.juggle",
+      "developer": "HungryStudio",
+      "icon": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ja&gl=jp"
+    },
+    {
+      "rank": 27,
       "title": "キャンディークラッシュ (Candy Crush Saga)",
       "app_id": "com.king.candycrushsaga",
       "bundle_id": "com.king.candycrushsaga",
@@ -765,7 +775,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=ja&gl=jp"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "title": "ブロッククラフト3D (Block Craft)：建設ゲーム",
       "app_id": "com.fungames.blockcraft",
       "bundle_id": "com.fungames.blockcraft",
@@ -775,7 +785,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=ja&gl=jp"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "title": "スペースシューター: レトロ シューティングゲーム",
       "app_id": "com.game.space.shooter2",
       "bundle_id": "com.game.space.shooter2",
@@ -785,7 +795,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.game.space.shooter2&hl=ja&gl=jp"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "title": "フィッシングフック",
       "app_id": "com.mobirix.fishinghook",
       "bundle_id": "com.mobirix.fishinghook",
@@ -793,16 +803,6 @@
       "icon": "https://play-lh.googleusercontent.com/LPHhJ2cQzUans7BvddpoYogf3UWGDxUM_L2Nzocvoi5JDWh2G5G_GVQSIgGBLVT-yW05ENpvAiqkUpUW8TJJwg",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.mobirix.fishinghook&hl=ja&gl=jp"
-    },
-    {
-      "rank": 30,
-      "title": "麻雀ブラスト (Mahjong Blast)",
-      "app_id": "com.nebula.mahjongtile",
-      "bundle_id": "com.nebula.mahjongtile",
-      "developer": "Nebula  Studio",
-      "icon": "https://play-lh.googleusercontent.com/2oyx82631YlAGY6QPOoGXMJUhnXpCIJflKgx438f1eDwmqM1kbScltnPU0R-mgykkvM4H2COx6sQk3S9cnOblwg",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=ja&gl=jp"
     },
     {
       "rank": 31,
@@ -966,23 +966,23 @@
     },
     {
       "rank": 47,
-      "title": "ヒーローウォーズ：アライアンス — 放置系ロールプレイング",
-      "app_id": "com.nexters.herowars",
-      "bundle_id": "com.nexters.herowars",
-      "developer": "NEXTERS GLOBAL LTD",
-      "icon": "https://play-lh.googleusercontent.com/FtCFQxVWKIbe0kL2_bLpQp5We65COlUifnATqedJ1HVDybkcIHaf-kacHHabSBrJICGKOKwSJVFy8BVR1Oht",
+      "title": "Pokémon GO",
+      "app_id": "com.nianticlabs.pokemongo",
+      "bundle_id": "com.nianticlabs.pokemongo",
+      "developer": "Scopely Explore, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.nexters.herowars&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=ja&gl=jp"
     },
     {
       "rank": 48,
-      "title": "ブロックブラスト (Block Blast)",
-      "app_id": "com.block.juggle",
-      "bundle_id": "com.block.juggle",
-      "developer": "HungryStudio",
-      "icon": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
+      "title": "ナンプレ - ロジックパズルゲーム",
+      "app_id": "com.easybrain.sudoku.android",
+      "bundle_id": "com.easybrain.sudoku.android",
+      "developer": "Easybrain",
+      "icon": "https://play-lh.googleusercontent.com/8fEAh2dDpBBfcxPgj4s_iW7KEr46z1ppppPi3RHtdGcQay7a4K72mPXX5xyNDNI7C5tM0jS3wW4E5Q97uhN5rQ",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.easybrain.sudoku.android&hl=ja&gl=jp"
     },
     {
       "rank": 49,
