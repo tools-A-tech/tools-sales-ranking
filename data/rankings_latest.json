@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T07:19:44.755234+09:00",
-  "updated_at_display": "2026-09-10 07:19 JST",
+  "updated_at": "2026-09-10T08:19:44.568777+09:00",
+  "updated_at_display": "2026-09-10 08:19 JST",
   "ios": [
     {
       "rank": 1,
@@ -966,16 +966,6 @@
     },
     {
       "rank": 47,
-      "title": "シムシティ　ビルドイット (SIMCITY BUILDIT)",
-      "app_id": "com.ea.game.simcitymobile_row",
-      "bundle_id": "com.ea.game.simcitymobile_row",
-      "developer": "ELECTRONIC ARTS",
-      "icon": "https://play-lh.googleusercontent.com/WHXeuAGEnnmiBjAzXvwZHlXWF4FSIzEuEx8tQI_MueCS7EyCM5HPLm571SICY--Z1pRugvvoutot7wtqBDK6gw",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=ja&gl=jp"
-    },
-    {
-      "rank": 48,
       "title": "ONE PIECE バウンティラッシュ - アクションゲーム",
       "app_id": "com.bandainamcoent.opbrjp",
       "bundle_id": "com.bandainamcoent.opbrjp",
@@ -985,24 +975,34 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.opbrjp&hl=ja&gl=jp"
     },
     {
-      "rank": 49,
-      "title": "にゃんこ大戦争",
-      "app_id": "jp.co.ponos.battlecats",
-      "bundle_id": "jp.co.ponos.battlecats",
-      "developer": "PONOS Corporation",
-      "icon": "https://play-lh.googleusercontent.com/_zq2tHsoecoSDTyxqZr9VdehQ2If63W2YXKzM10feM192S9uLsY7RNWOyKN5UXAWQL3bSBnC2tIp5bvlBNmn8Q",
+      "rank": 48,
+      "title": "eFootball™",
+      "app_id": "jp.konami.pesam",
+      "bundle_id": "jp.konami.pesam",
+      "developer": "KONAMI",
+      "icon": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=jp.co.ponos.battlecats&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
+      "title": "Pokémon Champions",
+      "app_id": "jp.pokemon.pokemonchampions",
+      "bundle_id": "jp.pokemon.pokemonchampions",
+      "developer": "The Pokémon Company",
+      "icon": "https://play-lh.googleusercontent.com/CpBUPy9eZPB-lVJzVtVtwE6IPvNbr6hvxwcLDkcw4_LXJd6HYh0nBl37AwjZOWB4IecEM3PcPoYcvd-T6JYldz4",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemonchampions&hl=ja&gl=jp"
     },
     {
       "rank": 50,
-      "title": "妖怪ウォッチ ぷにぷに",
-      "app_id": "com.Level5.YWP",
-      "bundle_id": "com.Level5.YWP",
-      "developer": "LEVEL-5 Inc.",
-      "icon": "https://play-lh.googleusercontent.com/gLJhf9CphneUaQLaiNoJ9E8FSUlygLYQRuLrj1j02l5Hj54QTMiRYhRJxSGSoZoSEAlRF0bsnyZsK8rb1m-9",
+      "title": "フォートナイト",
+      "app_id": "com.epicgames.fortnite",
+      "bundle_id": "com.epicgames.fortnite",
+      "developer": "Epic Games, Inc",
+      "icon": "https://play-lh.googleusercontent.com/nUzo52s5UVOrwyLCfFXM0PKgInAaLaYe-hrUedFAT3gMbhKBn0HlvnFai7Ao5GTEB51IvWtIC3szG2O-wxAPIA",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.Level5.YWP&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.epicgames.fortnite&hl=ja&gl=jp"
     }
   ],
   "meta": {
