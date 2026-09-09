@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T16:19:45.746802+09:00",
-  "updated_at_display": "2026-09-09 16:19 JST",
+  "updated_at": "2026-09-09T17:19:46.134259+09:00",
+  "updated_at_display": "2026-09-09 17:19 JST",
   "ios": [
     {
       "rank": 1,
@@ -966,16 +966,26 @@
     },
     {
       "rank": 47,
-      "title": "マッチファクトリー(Match Factory)!",
-      "app_id": "net.peakgames.match",
-      "bundle_id": "net.peakgames.match",
-      "developer": "Peak",
-      "icon": "https://play-lh.googleusercontent.com/TfYptHuK821z2ugqfa7JUomzdoWWV1jBuO1hNraCb0TNAD-zplUWditdZPndKzN50fqzdWBEUp81vMi-s0B4",
+      "title": "モンスターサバイバル",
+      "app_id": "com.farlightgames.pgame.gp",
+      "bundle_id": "com.farlightgames.pgame.gp",
+      "developer": "FARLIGHT",
+      "icon": "https://play-lh.googleusercontent.com/nIjO9pFz1R7G_wct00QMBKVqAmLHs2TqiaCmSUJfnKPw7yG_VzSmp26TRGCmm98v-Mye0MtsW_xz8CHNdIFD1A",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=net.peakgames.match&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.farlightgames.pgame.gp&hl=ja&gl=jp"
     },
     {
       "rank": 48,
+      "title": "崩壊：スターレイル",
+      "app_id": "com.HoYoverse.hkrpgoversea",
+      "bundle_id": "com.HoYoverse.hkrpgoversea",
+      "developer": "COGNOSPHERE PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
       "title": "Happy Color® – 数字で塗り絵と色ぬりえ",
       "app_id": "com.pixel.art.coloring.color.number",
       "bundle_id": "com.pixel.art.coloring.color.number",
@@ -985,24 +995,14 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number&hl=ja&gl=jp"
     },
     {
-      "rank": 49,
-      "title": "Jewel Coloring",
-      "app_id": "color.number.paint.pixle.art.sort.jigsaw",
-      "bundle_id": "color.number.paint.pixle.art.sort.jigsaw",
-      "developer": "TaTa Game Technology Limited",
-      "icon": "https://play-lh.googleusercontent.com/4O3eRZ4cOMPSFiasjvlJuodijaKtNiv7HZ9Hm5r4CT78imAL32QbbWoJkiOJ3erjS4Yi652WTBrwcQrbbsuW",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=color.number.paint.pixle.art.sort.jigsaw&hl=ja&gl=jp"
-    },
-    {
       "rank": 50,
-      "title": "Screwdom 3D",
-      "app_id": "com.ig.screwdom",
-      "bundle_id": "com.ig.screwdom",
-      "developer": "iKame Games - Zego Studio",
-      "icon": "https://play-lh.googleusercontent.com/0da_Ix7-KGiecqj9yRrGwHM6T42-irPiU9OymbijoSWC-rnPJETByhxFT1rVD0YZXD3NnSfPTwsxi8S_lxINbG4",
+      "title": "Delta Force: 2nd Anniversary",
+      "app_id": "com.proxima.dfm",
+      "bundle_id": "com.proxima.dfm",
+      "developer": "Level Infinite",
+      "icon": "https://play-lh.googleusercontent.com/mreWsKLtZdlH8_BmhYuJEvBmh3s-goAXz4MRL4KpxEVFDJDj-KcUX0mVb2PxKnQqGpiSPQxLpuJ1CwLdLdQKyA",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.ig.screwdom&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.proxima.dfm&hl=ja&gl=jp"
     }
   ],
   "meta": {
