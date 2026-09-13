@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-13T18:00:07.290353+09:00",
-  "updated_at_display": "2026-09-13 18:00 JST",
+  "updated_at": "2026-09-13T19:00:08.102011+09:00",
+  "updated_at_display": "2026-09-13 19:00 JST",
   "ios": [
     {
       "rank": 1,
@@ -976,6 +976,16 @@
     },
     {
       "rank": 48,
+      "title": "プロ野球スピリッツA",
+      "app_id": "jp.konami.prospia",
+      "bundle_id": "jp.konami.prospia",
+      "developer": "KONAMI",
+      "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=jp.konami.prospia&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
       "title": "Screwdom 3D",
       "app_id": "com.ig.screwdom",
       "bundle_id": "com.ig.screwdom",
@@ -985,24 +995,14 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.ig.screwdom&hl=ja&gl=jp"
     },
     {
-      "rank": 49,
-      "title": "マッチファクトリー(Match Factory)!",
-      "app_id": "net.peakgames.match",
-      "bundle_id": "net.peakgames.match",
-      "developer": "Peak",
-      "icon": "https://play-lh.googleusercontent.com/TfYptHuK821z2ugqfa7JUomzdoWWV1jBuO1hNraCb0TNAD-zplUWditdZPndKzN50fqzdWBEUp81vMi-s0B4",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=net.peakgames.match&hl=ja&gl=jp"
-    },
-    {
       "rank": 50,
-      "title": "ナンプレ - ロジックパズルゲーム",
-      "app_id": "com.easybrain.sudoku.android",
-      "bundle_id": "com.easybrain.sudoku.android",
-      "developer": "Easybrain",
-      "icon": "https://play-lh.googleusercontent.com/8fEAh2dDpBBfcxPgj4s_iW7KEr46z1ppppPi3RHtdGcQay7a4K72mPXX5xyNDNI7C5tM0jS3wW4E5Q97uhN5rQ",
+      "title": "SDガンダム ジージェネレーション エターナル",
+      "app_id": "com.bandainamcoent.gget_JP",
+      "bundle_id": "com.bandainamcoent.gget_JP",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "icon": "https://play-lh.googleusercontent.com/WI-nOxNBdI82iuMwMpFjVWkTxs4Bh3dVmAQL8xwJ-U9120sfcbXLJWnn3X5IpBtdG8wzph-sobJyM0P484APwDA",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.easybrain.sudoku.android&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.gget_JP&hl=ja&gl=jp"
     }
   ],
   "meta": {
