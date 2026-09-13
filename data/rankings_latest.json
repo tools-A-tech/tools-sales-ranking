@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-14T00:00:10.909857+09:00",
-  "updated_at_display": "2026-09-14 00:00 JST",
+  "updated_at": "2026-09-14T01:00:07.587709+09:00",
+  "updated_at_display": "2026-09-14 01:00 JST",
   "ios": [
     {
       "rank": 1,
@@ -966,26 +966,6 @@
     },
     {
       "rank": 47,
-      "title": "プロ野球スピリッツA",
-      "app_id": "jp.konami.prospia",
-      "bundle_id": "jp.konami.prospia",
-      "developer": "KONAMI",
-      "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=jp.konami.prospia&hl=ja&gl=jp"
-    },
-    {
-      "rank": 48,
-      "title": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
-      "app_id": "com.sega.pjsekai",
-      "bundle_id": "com.sega.pjsekai",
-      "developer": "SEGA CORPORATION",
-      "icon": "https://play-lh.googleusercontent.com/pdv4ajv4O-ow2BVpWopiMy9XSHXTJSEzi1gjTeD-mg4V3bkM6dmu8qJv_-Poupg5mQ6wNXlhJRuXaH-8SE91",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.sega.pjsekai&hl=ja&gl=jp"
-    },
-    {
-      "rank": 49,
       "title": "キャンディークラッシュ (Candy Crush Saga)",
       "app_id": "com.king.candycrushsaga",
       "bundle_id": "com.king.candycrushsaga",
@@ -995,14 +975,34 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=ja&gl=jp"
     },
     {
-      "rank": 50,
-      "title": "ファイアーエムブレム ヒーローズ - 戦略RPGの金字塔",
-      "app_id": "com.nintendo.zaba",
-      "bundle_id": "com.nintendo.zaba",
-      "developer": "Nintendo Co., Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/-_BUqcuX8UPHqRrPj0CXgmxniigSAKhdYLaLWqC9PdNWVjkwu9wnI_hTXB69Ge3WtgeecDYN-rFAc0Xoj-lO-Q",
+      "rank": 48,
+      "title": "カラーブロック：爽快パズル(ColorBlock)",
+      "app_id": "com.puzzlegames.puzzlebrickslegend",
+      "bundle_id": "com.puzzlegames.puzzlebrickslegend",
+      "developer": "Ivy",
+      "icon": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.nintendo.zaba&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.puzzlegames.puzzlebrickslegend&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
+      "title": "Amaze GO! - 矢印 パズル",
+      "app_id": "com.oakever.arrows",
+      "bundle_id": "com.oakever.arrows",
+      "developer": "Oakever Games",
+      "icon": "https://play-lh.googleusercontent.com/cUEBnEgf_l_idsNVA0hLsKsNzDuDQ1YDfS1swQ9XxJocO-G5-5s1yU9vs9BurO7qrJCxLpEcNIZHvmxcI4aQrQ",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.oakever.arrows&hl=ja&gl=jp"
+    },
+    {
+      "rank": 50,
+      "title": "ネジマッチ: Screw Sort 3D ネジパズル ボルト",
+      "app_id": "screw.puzzle.match3.brain.puzz",
+      "bundle_id": "screw.puzzle.match3.brain.puzz",
+      "developer": "Astrasen Global",
+      "icon": "https://play-lh.googleusercontent.com/kE2jfaqpma0Qb8nZqYjM-kbuFfW38aUKT4DdEV4-lIeveOpdrypa54s_koHKPhbQj7zSr_wFTUacGwVVXiHSHA",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=screw.puzzle.match3.brain.puzz&hl=ja&gl=jp"
     }
   ],
   "meta": {
