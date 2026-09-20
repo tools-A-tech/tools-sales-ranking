@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-21T00:15:45.578565+09:00",
-  "updated_at_display": "2026-09-21 00:15 JST",
+  "updated_at": "2026-09-21T01:15:45.121239+09:00",
+  "updated_at_display": "2026-09-21 01:15 JST",
   "ios": [
     {
       "rank": 1,
@@ -956,46 +956,36 @@
     },
     {
       "rank": 46,
-      "title": "Meowdoku",
-      "app_id": "com.oakever.meowdoku",
-      "bundle_id": "com.oakever.meowdoku",
-      "developer": "Oakever Games",
-      "icon": "https://play-lh.googleusercontent.com/1vD3Jl37OTth18x__EkbpMZRAmDlGB5mlqKvveWumothf52-1HZXhAy5HGkGLzW_HYoz-rj2q0HBaxu5_8kyVQ",
+      "title": "Roblox (ロブロックス)",
+      "app_id": "com.roblox.client",
+      "bundle_id": "com.roblox.client",
+      "developer": "Roblox Corporation",
+      "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.oakever.meowdoku&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=ja&gl=jp"
     },
     {
       "rank": 47,
-      "title": "パズル&サバイバル",
-      "app_id": "com.global.ztmslg",
-      "bundle_id": "com.global.ztmslg",
-      "developer": "37GAMES",
-      "icon": "https://play-lh.googleusercontent.com/UmfIWa_ho96skhDbLQmY1b9SPKECDG_cMvohO3BmgcwrB8pvKbak4z_DLznBKSS0l9_6y1fA8cRVTxH5zTWE",
+      "title": "ブロスタ",
+      "app_id": "com.supercell.brawlstars",
+      "bundle_id": "com.supercell.brawlstars",
+      "developer": "Supercell",
+      "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.global.ztmslg&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=ja&gl=jp"
     },
     {
       "rank": 48,
-      "title": "Mob Control",
-      "app_id": "com.vincentb.MobControl",
-      "bundle_id": "com.vincentb.MobControl",
-      "developer": "VOODOO",
-      "icon": "https://play-lh.googleusercontent.com/nJoghcUfRMRF4PJbdTKwz_3Y5ESi8fZUyFc9TcQ5yjhlXaT6U_c852ESmXqpRyGbSO1PeYDyO8l90i0kq4N4Rg",
+      "title": "ブロックブラスト (Block Blast)",
+      "app_id": "com.block.juggle",
+      "bundle_id": "com.block.juggle",
+      "developer": "HungryStudio",
+      "icon": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ja&gl=jp"
     },
     {
       "rank": 49,
-      "title": "スネーククラッシュ (Snake Clash)",
-      "app_id": "io.supercent.linkedcubic",
-      "bundle_id": "io.supercent.linkedcubic",
-      "developer": "Supercent, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/IFZ89btnaAvGhze1EENTZdaH5gRrvTJTQYVGE9it8wIMpPtNwcDyzZbeNlzpAvUXyOioQRF2gHrTEeQZbgUpuOo",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic&hl=ja&gl=jp"
-    },
-    {
-      "rank": 50,
       "title": "チート勇者～インベントリ攻略ゲー～RPG",
       "app_id": "com.fiveminlab.overgeared.hero.backpack.merge",
       "bundle_id": "com.fiveminlab.overgeared.hero.backpack.merge",
@@ -1003,6 +993,16 @@
       "icon": "https://play-lh.googleusercontent.com/BdNxtuXsuPbWF8LC4qbsrWOQ8WPCnh6tJJUKktL8xHLlSHhdElFqS21asnVYGD43b6cI4j1t13WrPKtF5wfrlQ",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.fiveminlab.overgeared.hero.backpack.merge&hl=ja&gl=jp"
+    },
+    {
+      "rank": 50,
+      "title": "ソリティアクラシック - 日本、クラシックカードゲーム",
+      "app_id": "solitaire.patience.card.games.klondike.free",
+      "bundle_id": "solitaire.patience.card.games.klondike.free",
+      "developer": "Guru Puzzle Game",
+      "icon": "https://play-lh.googleusercontent.com/bM_0KDpM4BoiJ6ez7wGLoeAJhhxHdJp9inhGx1mDClXnyCcmyP0cZfuMHNMolP-tRzLhrRtZbt8gA6RrxkkyQg",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=solitaire.patience.card.games.klondike.free&hl=ja&gl=jp"
     }
   ],
   "meta": {
