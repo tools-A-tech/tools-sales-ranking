@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-21T13:15:46.238504+09:00",
-  "updated_at_display": "2026-09-21 13:15 JST",
+  "updated_at": "2026-09-21T14:15:46.478077+09:00",
+  "updated_at_display": "2026-09-21 14:15 JST",
   "ios": [
     {
       "rank": 1,
@@ -14,56 +14,6 @@
     },
     {
       "rank": 2,
-      "title": "ゴシップハーバー：マージ & ストーリー",
-      "app_id": "1623318294",
-      "bundle_id": "com.mergegame.icookie",
-      "developer": "Microfun Limited",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/c9/ad/8ac9adf5-5b74-0db3-f5cf-8225825fb173/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id1623318294"
-    },
-    {
-      "rank": 3,
-      "title": "ドラゴンボールZ ドッカンバトル",
-      "app_id": "951627670",
-      "bundle_id": "jp.co.bandainamcogames.BNGI0211",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/7f/e4/df7fe4ec-6ba2-9b0b-c34c-d738f16f44de/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id951627670"
-    },
-    {
-      "rank": 4,
-      "title": "ホロライブドリームス",
-      "app_id": "6756641135",
-      "bundle_id": "game.qualiarts.hololive.dreams.jp",
-      "developer": "QualiArts, Inc.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/83/99/95839920-e123-8a09-c065-369badd0e1fe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id6756641135"
-    },
-    {
-      "rank": 5,
-      "title": "学園アイドルマスター",
-      "app_id": "6446659989",
-      "bundle_id": "jp.co.bandainamcoent.BNEI0421",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/fc/ca/59fcca1a-c342-772e-6c38-a6c1b951c9d7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id6446659989"
-    },
-    {
-      "rank": 6,
-      "title": "モンスターストライク",
-      "app_id": "658511662",
-      "bundle_id": "jp.co.mixi.monsterstrike",
-      "developer": "XFLAG, Inc.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/00/0c/31000cbd-5ade-592b-8226-0c8c4af0188e/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id658511662"
-    },
-    {
-      "rank": 7,
       "title": "ホワイトアウト・サバイバル",
       "app_id": "6443575749",
       "bundle_id": "com.gof.global",
@@ -73,7 +23,27 @@
       "store_url": "https://apps.apple.com/jp/app/id6443575749"
     },
     {
-      "rank": 8,
+      "rank": 3,
+      "title": "ゴシップハーバー：マージ & ストーリー",
+      "app_id": "1623318294",
+      "bundle_id": "com.mergegame.icookie",
+      "developer": "Microfun Limited",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/c9/ad/8ac9adf5-5b74-0db3-f5cf-8225825fb173/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id1623318294"
+    },
+    {
+      "rank": 4,
+      "title": "ドラゴンボールZ ドッカンバトル",
+      "app_id": "951627670",
+      "bundle_id": "jp.co.bandainamcogames.BNGI0211",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/7f/e4/df7fe4ec-6ba2-9b0b-c34c-d738f16f44de/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id951627670"
+    },
+    {
+      "rank": 5,
       "title": "キングショット",
       "app_id": "6739554056",
       "bundle_id": "com.run.tower.defense",
@@ -83,17 +53,37 @@
       "store_url": "https://apps.apple.com/jp/app/id6739554056"
     },
     {
-      "rank": 9,
-      "title": "ロイヤルマッチ（Royal Match)",
-      "app_id": "1482155847",
-      "bundle_id": "com.dreamgames.royalmatch",
-      "developer": "Dream Games",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/9d/83/d99d834a-172e-0962-988c-5c95acc4ce97/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 6,
+      "title": "ホロライブドリームス",
+      "app_id": "6756641135",
+      "bundle_id": "game.qualiarts.hololive.dreams.jp",
+      "developer": "QualiArts, Inc.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/83/99/95839920-e123-8a09-c065-369badd0e1fe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id1482155847"
+      "store_url": "https://apps.apple.com/jp/app/id6756641135"
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "title": "モンスターストライク",
+      "app_id": "658511662",
+      "bundle_id": "jp.co.mixi.monsterstrike",
+      "developer": "XFLAG, Inc.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/00/0c/31000cbd-5ade-592b-8226-0c8c4af0188e/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id658511662"
+    },
+    {
+      "rank": 8,
+      "title": "学園アイドルマスター",
+      "app_id": "6446659989",
+      "bundle_id": "jp.co.bandainamcoent.BNEI0421",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/fc/ca/59fcca1a-c342-772e-6c38-a6c1b951c9d7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id6446659989"
+    },
+    {
+      "rank": 9,
       "title": "Pokémon GO",
       "app_id": "1094591345",
       "bundle_id": "com.nianticlabs.pokemongo",
@@ -103,14 +93,24 @@
       "store_url": "https://apps.apple.com/jp/app/id1094591345"
     },
     {
-      "rank": 11,
-      "title": "Fate/Grand Order",
-      "app_id": "1015521325",
-      "bundle_id": "com.aniplex.fategrandorder",
-      "developer": "Aniplex Inc.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/db/07/b1db0707-4fad-8318-78df-e08023fc8f89/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 10,
+      "title": "ロイヤルマッチ（Royal Match)",
+      "app_id": "1482155847",
+      "bundle_id": "com.dreamgames.royalmatch",
+      "developer": "Dream Games",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/9d/83/d99d834a-172e-0962-988c-5c95acc4ce97/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id1015521325"
+      "store_url": "https://apps.apple.com/jp/app/id1482155847"
+    },
+    {
+      "rank": 11,
+      "title": "パズル&サバイバル",
+      "app_id": "1517980891",
+      "bundle_id": "com.global.ztmslg.ios",
+      "developer": "BUILDING-BLOCKS NETWORK TECHNOLOGY CO.,LIMITED",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/05/74/b10574c5-01fc-6823-7757-72ec459ae4f4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id1517980891"
     },
     {
       "rank": 12,
@@ -124,6 +124,16 @@
     },
     {
       "rank": 13,
+      "title": "Fate/Grand Order",
+      "app_id": "1015521325",
+      "bundle_id": "com.aniplex.fategrandorder",
+      "developer": "Aniplex Inc.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/db/07/b1db0707-4fad-8318-78df-e08023fc8f89/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id1015521325"
+    },
+    {
+      "rank": 14,
       "title": "ウマ娘 プリティーダービー",
       "app_id": "1325457827",
       "bundle_id": "jp.co.cygames.umamusume",
@@ -133,7 +143,7 @@
       "store_url": "https://apps.apple.com/jp/app/id1325457827"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "ドラゴンクエストウォーク 歩く楽しみが増える位置情報ゲーム",
       "app_id": "1439417234",
       "bundle_id": "com.square-enix.DQwalkj",
@@ -143,47 +153,17 @@
       "store_url": "https://apps.apple.com/jp/app/id1439417234"
     },
     {
-      "rank": 15,
-      "title": "パズル&サバイバル",
-      "app_id": "1517980891",
-      "bundle_id": "com.global.ztmslg.ios",
-      "developer": "BUILDING-BLOCKS NETWORK TECHNOLOGY CO.,LIMITED",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/05/74/b10574c5-01fc-6823-7757-72ec459ae4f4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id1517980891"
-    },
-    {
       "rank": 16,
-      "title": "パズル＆ドラゴンズ",
-      "app_id": "493470467",
-      "bundle_id": "jp.gungho.pad",
-      "developer": "GungHo Online Entertainment, Inc.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/2e/e1/072ee1aa-accc-d0f0-9e4d-c3cd694a33f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "title": "Pokémon Sleep",
+      "app_id": "1579464667",
+      "bundle_id": "jp.pokemon.pokemonsleep",
+      "developer": "The Pokemon Company",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/92/1a/c8921a1f-55b9-38c3-41ef-ea280e9cf2f1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id493470467"
+      "store_url": "https://apps.apple.com/jp/app/id1579464667"
     },
     {
       "rank": 17,
-      "title": "ガーデンスケイプ (Gardenscapes)",
-      "app_id": "1105855019",
-      "bundle_id": "com.playrix.gardenscapes-m3-ios",
-      "developer": "Playrix",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/08/3f/10083f62-df73-399e-26b1-659a263ca8b5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id1105855019"
-    },
-    {
-      "rank": 18,
-      "title": "グルメ・ジャーニー",
-      "app_id": "6471045672",
-      "bundle_id": "com.fatmerge.global",
-      "developer": "Century Games Pte. Ltd.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/68/03/316803f0-6e20-a426-9847-632369a5fd53/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id6471045672"
-    },
-    {
-      "rank": 19,
       "title": "LINE ポコポコ：3マッチパズルゲーム",
       "app_id": "888615473",
       "bundle_id": "com.linecorp.LGPKPK",
@@ -193,7 +173,37 @@
       "store_url": "https://apps.apple.com/jp/app/id888615473"
     },
     {
+      "rank": 18,
+      "title": "パズル＆ドラゴンズ",
+      "app_id": "493470467",
+      "bundle_id": "jp.gungho.pad",
+      "developer": "GungHo Online Entertainment, Inc.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/2e/e1/072ee1aa-accc-d0f0-9e4d-c3cd694a33f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id493470467"
+    },
+    {
+      "rank": 19,
+      "title": "ガーデンスケイプ (Gardenscapes)",
+      "app_id": "1105855019",
+      "bundle_id": "com.playrix.gardenscapes-m3-ios",
+      "developer": "Playrix",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/08/3f/10083f62-df73-399e-26b1-659a263ca8b5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id1105855019"
+    },
+    {
       "rank": 20,
+      "title": "グルメ・ジャーニー",
+      "app_id": "6471045672",
+      "bundle_id": "com.fatmerge.global",
+      "developer": "Century Games Pte. Ltd.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/68/03/316803f0-6e20-a426-9847-632369a5fd53/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id6471045672"
+    },
+    {
+      "rank": 21,
       "title": "ラストウォー：サバイバル",
       "app_id": "6448786147",
       "bundle_id": "com.lastwar.ios",
@@ -201,16 +211,6 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/fb/1f/edfb1fd2-c963-681e-4661-9ce98f48f181/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
       "store_url": "https://apps.apple.com/jp/app/id6448786147"
-    },
-    {
-      "rank": 21,
-      "title": "Pokémon Sleep",
-      "app_id": "1579464667",
-      "bundle_id": "jp.pokemon.pokemonsleep",
-      "developer": "The Pokemon Company",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/92/1a/c8921a1f-55b9-38c3-41ef-ea280e9cf2f1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id1579464667"
     },
     {
       "rank": 22,
@@ -244,16 +244,6 @@
     },
     {
       "rank": 25,
-      "title": "勝利の女神：NIKKE",
-      "app_id": "1585915174",
-      "bundle_id": "com.proximabeta.nikke",
-      "developer": "Level Infinite",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/6f/89/f26f8907-8ad5-6a22-8ebc-4061737734c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id1585915174"
-    },
-    {
-      "rank": 26,
       "title": "崩壊：スターレイル",
       "app_id": "1599719154",
       "bundle_id": "com.HoYoverse.hkrpgoversea",
@@ -263,17 +253,17 @@
       "store_url": "https://apps.apple.com/jp/app/id1599719154"
     },
     {
-      "rank": 27,
-      "title": "モンスターハンターNow",
-      "app_id": "6445906110",
-      "bundle_id": "com.nianticlabs.monsterhunter",
-      "developer": "Scopely Explore, Inc.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/05/2a/14052a19-fb30-865c-bf4f-ccb99fb5f5a8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "rank": 26,
+      "title": "勝利の女神：NIKKE",
+      "app_id": "1585915174",
+      "bundle_id": "com.proximabeta.nikke",
+      "developer": "Level Infinite",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/6f/89/f26f8907-8ad5-6a22-8ebc-4061737734c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id6445906110"
+      "store_url": "https://apps.apple.com/jp/app/id1585915174"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "title": "Disney Solitaire ディズニー ソリティア",
       "app_id": "6475757306",
       "bundle_id": "com.superplaystudios.disneysolitairedreams",
@@ -283,17 +273,17 @@
       "store_url": "https://apps.apple.com/jp/app/id6475757306"
     },
     {
-      "rank": 29,
-      "title": "にゃんこ大戦争",
-      "app_id": "547145938",
-      "bundle_id": "jp.co.ponos.battlecats",
-      "developer": "ponos corporation",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/75/38/21753822-1174-a5eb-254a-6812ffbe4e95/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "rank": 28,
+      "title": "モンスターハンターNow",
+      "app_id": "6445906110",
+      "bundle_id": "com.nianticlabs.monsterhunter",
+      "developer": "Scopely Explore, Inc.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/05/2a/14052a19-fb30-865c-bf4f-ccb99fb5f5a8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id547145938"
+      "store_url": "https://apps.apple.com/jp/app/id6445906110"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "title": "タウンシップ (Township)",
       "app_id": "638689075",
       "bundle_id": "com.playrix.township-ios",
@@ -303,7 +293,7 @@
       "store_url": "https://apps.apple.com/jp/app/id638689075"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "title": "ONE PIECE バウンティラッシュ - アクションゲーム",
       "app_id": "1322310031",
       "bundle_id": "jp.co.bandainamcoent.BNEI0296",
@@ -311,6 +301,16 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/2f/3f/122f3f12-46ec-720e-06b1-08a936abec7b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
       "store_url": "https://apps.apple.com/jp/app/id1322310031"
+    },
+    {
+      "rank": 31,
+      "title": "にゃんこ大戦争",
+      "app_id": "547145938",
+      "bundle_id": "jp.co.ponos.battlecats",
+      "developer": "ponos corporation",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/75/38/21753822-1174-a5eb-254a-6812ffbe4e95/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id547145938"
     },
     {
       "rank": 32,
@@ -334,6 +334,16 @@
     },
     {
       "rank": 34,
+      "title": "モンスターサバイバル",
+      "app_id": "6741567125",
+      "bundle_id": "com.farlightgames.pgame.ios",
+      "developer": "Farlight Games",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/1f/fc/e41ffc44-a332-813b-4784-d3f74ce7c14b/AppIcon-Global-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id6741567125"
+    },
+    {
+      "rank": 35,
       "title": "ロイヤルキングダム (Royal Kingdom)",
       "app_id": "1606549505",
       "bundle_id": "com.dreamgames.royalkingdom",
@@ -343,7 +353,7 @@
       "store_url": "https://apps.apple.com/jp/app/id1606549505"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "title": "フィッシュダム(Fishdom)",
       "app_id": "664575829",
       "bundle_id": "com.playrix.fishdom-freeplay",
@@ -353,7 +363,17 @@
       "store_url": "https://apps.apple.com/jp/app/id664575829"
     },
     {
-      "rank": 36,
+      "rank": 37,
+      "title": "ハリウッドマージ",
+      "app_id": "6755455500",
+      "bundle_id": "com.hollywood.merge",
+      "developer": "VoyagerOne",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/f4/21/b7f4217e-8611-6844-a3ba-189fe14e0f3d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id6755455500"
+    },
+    {
+      "rank": 38,
       "title": "キングダム 頂天",
       "app_id": "6475892450",
       "bundle_id": "jp.rudel.pjshin",
@@ -363,17 +383,7 @@
       "store_url": "https://apps.apple.com/jp/app/id6475892450"
     },
     {
-      "rank": 37,
-      "title": "ラストZ：サバイバルシューティング",
-      "app_id": "6503272652",
-      "bundle_id": "com.readygo.barrel.ios",
-      "developer": "Omnilojo Pte Ltd",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/50/e0/1f50e0f2-be35-4004-fa36-f481140aa129/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id6503272652"
-    },
-    {
-      "rank": 38,
+      "rank": 39,
       "title": "パラノイズ",
       "app_id": "6639605332",
       "bundle_id": "com.zigzagame.paranoize",
@@ -381,16 +391,6 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/40/6b/fa406bcb-e305-a4f1-97ed-c0ed85ec8f24/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
       "store_url": "https://apps.apple.com/jp/app/id6639605332"
-    },
-    {
-      "rank": 39,
-      "title": "Pokémon Masters EX",
-      "app_id": "1442061397",
-      "bundle_id": "com.dena.12026418",
-      "developer": "DeNA Co., Ltd.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/3c/4b/8f3c4b2e-df97-e7fb-9611-25338cac5ac6/KenyaAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id1442061397"
     },
     {
       "rank": 40,
@@ -404,16 +404,36 @@
     },
     {
       "rank": 41,
-      "title": "ハリウッドマージ",
-      "app_id": "6755455500",
-      "bundle_id": "com.hollywood.merge",
-      "developer": "VoyagerOne",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/f4/21/b7f4217e-8611-6844-a3ba-189fe14e0f3d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "title": "ラストZ：サバイバルシューティング",
+      "app_id": "6503272652",
+      "bundle_id": "com.readygo.barrel.ios",
+      "developer": "Omnilojo Pte Ltd",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/50/e0/1f50e0f2-be35-4004-fa36-f481140aa129/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id6755455500"
+      "store_url": "https://apps.apple.com/jp/app/id6503272652"
     },
     {
       "rank": 42,
+      "title": "Pokémon Masters EX",
+      "app_id": "1442061397",
+      "bundle_id": "com.dena.12026418",
+      "developer": "DeNA Co., Ltd.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/3c/4b/8f3c4b2e-df97-e7fb-9611-25338cac5ac6/KenyaAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id1442061397"
+    },
+    {
+      "rank": 43,
+      "title": "トップロード",
+      "app_id": "6767834940",
+      "bundle_id": "com.topking.ios",
+      "developer": "GAME SPARK PTE. LTD.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/64/87/2d6487ba-6220-71de-6cce-ea32b57e2f22/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id6767834940"
+    },
+    {
+      "rank": 44,
       "title": "SDガンダム ジージェネレーション エターナル",
       "app_id": "6692611665",
       "bundle_id": "jp.co.bandainamcoent.BNEI0403",
@@ -421,26 +441,6 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/fa/10/86fa10e6-f0d4-1ca2-ff37-bf953a6b0317/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
       "store_url": "https://apps.apple.com/jp/app/id6692611665"
-    },
-    {
-      "rank": 43,
-      "title": "ブロスタ",
-      "app_id": "1229016807",
-      "bundle_id": "com.supercell.laser",
-      "developer": "Supercell",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/a7/00/eea700d3-6cec-f063-b86c-3dfd251c95bd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id1229016807"
-    },
-    {
-      "rank": 44,
-      "title": "Sky 星を紡ぐ子どもたち",
-      "app_id": "1462117269",
-      "bundle_id": "com.tgc.sky.ios",
-      "developer": "thatgamecompany",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/9f/6b/279f6bba-4092-85f0-0177-03c2f4c0433d/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id1462117269"
     },
     {
       "rank": 45,
@@ -454,46 +454,36 @@
     },
     {
       "rank": 46,
-      "title": "トップロード",
-      "app_id": "6767834940",
-      "bundle_id": "com.topking.ios",
-      "developer": "GAME SPARK PTE. LTD.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/64/87/2d6487ba-6220-71de-6cce-ea32b57e2f22/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "title": "ブロスタ",
+      "app_id": "1229016807",
+      "bundle_id": "com.supercell.laser",
+      "developer": "Supercell",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/a7/00/eea700d3-6cec-f063-b86c-3dfd251c95bd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id6767834940"
+      "store_url": "https://apps.apple.com/jp/app/id1229016807"
     },
     {
       "rank": 47,
-      "title": "ONE PIECE トレジャークルーズ",
-      "app_id": "824116884",
-      "bundle_id": "jp.co.bandainamcogames.NBGI0199",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/a4/48/50a4487e-1792-35f7-e741-2c2052c46c39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "title": "Sky 星を紡ぐ子どもたち",
+      "app_id": "1462117269",
+      "bundle_id": "com.tgc.sky.ios",
+      "developer": "thatgamecompany",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/9f/6b/279f6bba-4092-85f0-0177-03c2f4c0433d/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
       "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id824116884"
+      "store_url": "https://apps.apple.com/jp/app/id1462117269"
     },
     {
       "rank": 48,
-      "title": "モンスターサバイバル",
-      "app_id": "6741567125",
-      "bundle_id": "com.farlightgames.pgame.ios",
-      "developer": "Farlight Games",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/1f/fc/e41ffc44-a332-813b-4784-d3f74ce7c14b/AppIcon-Global-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "title": "キャンディークラッシュ",
+      "app_id": "553834731",
+      "bundle_id": "com.midasplayer.apps.candycrushsaga",
+      "developer": "King",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/de/33/8fde33a2-a5d3-ee30-cc04-36ec1ed1ef91/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id6741567125"
+      "store_url": "https://apps.apple.com/jp/app/id553834731"
     },
     {
       "rank": 49,
-      "title": "原神-スネージナヤ開幕",
-      "app_id": "1517783697",
-      "bundle_id": "com.miHoYo.GenshinImpact",
-      "developer": "COGNOSPHERE PTE. LTD.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/7c/a8/8d7ca8b3-b2b6-b321-269d-99ed904989ea/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id1517783697"
-    },
-    {
-      "rank": 50,
       "title": "マージクッキング テーマレストラン",
       "app_id": "1643509748",
       "bundle_id": "com.merge.cooking.theme.restaurant.food",
@@ -501,6 +491,16 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/22/6a/9c226abe-8aca-228d-a662-f6391f2b44f0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
       "store_url": "https://apps.apple.com/jp/app/id1643509748"
+    },
+    {
+      "rank": 50,
+      "title": "妖怪ウォッチ ぷにぷに",
+      "app_id": "1032346221",
+      "bundle_id": "com.Level5.YWP",
+      "developer": "Level-5 Inc.",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/c6/ce/6bc6ce84-a07e-91e6-94b8-124156636a9b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id1032346221"
     }
   ],
   "android": [
