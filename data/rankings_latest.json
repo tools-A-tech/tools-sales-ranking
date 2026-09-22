@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T00:15:46.239298+09:00",
-  "updated_at_display": "2026-09-23 00:15 JST",
+  "updated_at": "2026-09-23T01:15:45.946964+09:00",
+  "updated_at_display": "2026-09-23 01:15 JST",
   "ios": [
     {
       "rank": 1,
@@ -956,16 +956,6 @@
     },
     {
       "rank": 46,
-      "title": "学園アイドルマスター",
-      "app_id": "com.bandainamcoent.idolmaster_gakuen",
-      "bundle_id": "com.bandainamcoent.idolmaster_gakuen",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://play-lh.googleusercontent.com/ch_SGwCMoLElrzColmSthRPYxzv608YoyBx4tXY3ciM8Bg4fLxKhRHdeoqPSbygFruy62D9p5EdGAwLW8KGTfwI",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.idolmaster_gakuen&hl=ja&gl=jp"
-    },
-    {
-      "rank": 47,
       "title": "ブロックブラスト (Block Blast)",
       "app_id": "com.block.juggle",
       "bundle_id": "com.block.juggle",
@@ -975,14 +965,24 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ja&gl=jp"
     },
     {
-      "rank": 48,
-      "title": "Roblox (ロブロックス)",
-      "app_id": "com.roblox.client",
-      "bundle_id": "com.roblox.client",
-      "developer": "Roblox Corporation",
-      "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
+      "rank": 47,
+      "title": "Tile Explorer - トリプルマッチ",
+      "app_id": "com.oakever.tiletrip",
+      "bundle_id": "com.oakever.tiletrip",
+      "developer": "Oakever Games",
+      "icon": "https://play-lh.googleusercontent.com/wKjQKwVmmmszLHE3YfgRqiSZcDKHcnpGBeLDVs2PERYUq0B9c_LxpM8jOXYcdE-oVhPmXcWnfqUaBKR656TSBA",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=ja&gl=jp"
+    },
+    {
+      "rank": 48,
+      "title": "探し物ゲーム - 隠されているものを見つけよう",
+      "app_id": "find.out.hidden.objects.seek.puzzle.games.free",
+      "bundle_id": "find.out.hidden.objects.seek.puzzle.games.free",
+      "developer": "Guru Puzzle Game",
+      "icon": "https://play-lh.googleusercontent.com/gls8zJKZGTubhrZlWO4SyPHN4N4DRFud7yuspK5-QRtLbiu9UxkaOwa1dIwgz61S2nm1zIBZRNtXCrohZYZEJg",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=find.out.hidden.objects.seek.puzzle.games.free&hl=ja&gl=jp"
     },
     {
       "rank": 49,
@@ -996,13 +996,13 @@
     },
     {
       "rank": 50,
-      "title": "ONE PIECE バウンティラッシュ - アクションゲーム",
-      "app_id": "com.bandainamcoent.opbrjp",
-      "bundle_id": "com.bandainamcoent.opbrjp",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://play-lh.googleusercontent.com/N-cQRxsEqco6aWT29lG3BqSF1PjYYsks6C4qTORVn2NoUloJqa-XGdi2n9D3QeDi5wbeVp5_bBx-HKDTHz9ftmU",
+      "title": "マジックソート！ (Magic Sort !)",
+      "app_id": "com.grandgames.magicsort",
+      "bundle_id": "com.grandgames.magicsort",
+      "developer": "Grand Games A.Ş.",
+      "icon": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.opbrjp&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort&hl=ja&gl=jp"
     }
   ],
   "meta": {
