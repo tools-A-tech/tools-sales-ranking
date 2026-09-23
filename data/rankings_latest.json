@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T16:15:45.961565+09:00",
-  "updated_at_display": "2026-09-23 16:15 JST",
+  "updated_at": "2026-09-23T17:15:46.005559+09:00",
+  "updated_at_display": "2026-09-23 17:15 JST",
   "ios": [
     {
       "rank": 1,
@@ -966,16 +966,36 @@
     },
     {
       "rank": 47,
-      "title": "ホワイトアウト・サバイバル",
-      "app_id": "com.gof.global",
-      "bundle_id": "com.gof.global",
-      "developer": "Century Games PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
+      "title": "eFootball™",
+      "app_id": "jp.konami.pesam",
+      "bundle_id": "jp.konami.pesam",
+      "developer": "KONAMI",
+      "icon": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.gof.global&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=ja&gl=jp"
     },
     {
       "rank": 48,
+      "title": "セルサバイバー",
+      "app_id": "defense.roguelike.cell.shoot.survivor",
+      "bundle_id": "defense.roguelike.cell.shoot.survivor",
+      "developer": "Snap Brain Games",
+      "icon": "https://play-lh.googleusercontent.com/CK6BRHvrZ4ImMu3wTwmcn6ypzmKP4nZIww5_BUWRsCFsxSHvU0fOLZsi3C7VfiROeEfGiujwgdDA5yJ3VHC5",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=defense.roguelike.cell.shoot.survivor&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
+      "title": "ブロックブラスト (Block Blast)",
+      "app_id": "com.block.juggle",
+      "bundle_id": "com.block.juggle",
+      "developer": "HungryStudio",
+      "icon": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ja&gl=jp"
+    },
+    {
+      "rank": 50,
       "title": "Roblox (ロブロックス)",
       "app_id": "com.roblox.client",
       "bundle_id": "com.roblox.client",
@@ -983,26 +1003,6 @@
       "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=ja&gl=jp"
-    },
-    {
-      "rank": 49,
-      "title": "Meowdoku",
-      "app_id": "com.oakever.meowdoku",
-      "bundle_id": "com.oakever.meowdoku",
-      "developer": "Oakever Games",
-      "icon": "https://play-lh.googleusercontent.com/1vD3Jl37OTth18x__EkbpMZRAmDlGB5mlqKvveWumothf52-1HZXhAy5HGkGLzW_HYoz-rj2q0HBaxu5_8kyVQ",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.oakever.meowdoku&hl=ja&gl=jp"
-    },
-    {
-      "rank": 50,
-      "title": "キングショット",
-      "app_id": "com.run.tower.defense",
-      "bundle_id": "com.run.tower.defense",
-      "developer": "Century Games PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ja&gl=jp"
     }
   ],
   "meta": {
