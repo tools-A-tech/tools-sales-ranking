@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T05:15:45.755183+09:00",
-  "updated_at_display": "2026-09-25 05:15 JST",
+  "updated_at": "2026-09-25T06:15:45.768985+09:00",
+  "updated_at_display": "2026-09-25 06:15 JST",
   "ios": [
     {
       "rank": 1,
@@ -976,6 +976,16 @@
     },
     {
       "rank": 48,
+      "title": "eFootball™",
+      "app_id": "jp.konami.pesam",
+      "bundle_id": "jp.konami.pesam",
+      "developer": "KONAMI",
+      "icon": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
       "title": "原神-6周年",
       "app_id": "com.miHoYo.GenshinImpact",
       "bundle_id": "com.miHoYo.GenshinImpact",
@@ -985,24 +995,14 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&hl=ja&gl=jp"
     },
     {
-      "rank": 49,
-      "title": "ONE PIECE バウンティラッシュ - アクションゲーム",
-      "app_id": "com.bandainamcoent.opbrjp",
-      "bundle_id": "com.bandainamcoent.opbrjp",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://play-lh.googleusercontent.com/N-cQRxsEqco6aWT29lG3BqSF1PjYYsks6C4qTORVn2NoUloJqa-XGdi2n9D3QeDi5wbeVp5_bBx-HKDTHz9ftmU",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.opbrjp&hl=ja&gl=jp"
-    },
-    {
       "rank": 50,
-      "title": "ブロスタ",
-      "app_id": "com.supercell.brawlstars",
-      "bundle_id": "com.supercell.brawlstars",
-      "developer": "Supercell",
-      "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs",
+      "title": "ブラウンダスト２ 胸いっぱいのRPG",
+      "app_id": "com.neowizgames.game.browndust2",
+      "bundle_id": "com.neowizgames.game.browndust2",
+      "developer": "NEOWIZ",
+      "icon": "https://play-lh.googleusercontent.com/bWgKVWQ2qq0s7CtCTsOevzI4DFCrDJW8C9sIwEjo87sqlOMul8IHSSnfkDPBlznQodYMRBSgkLFRUxjJ70Nx4g",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.neowizgames.game.browndust2&hl=ja&gl=jp"
     }
   ],
   "meta": {
