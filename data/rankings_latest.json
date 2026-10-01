@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T08:14:31.629317+09:00",
-  "updated_at_display": "2026-10-01 08:14 JST",
+  "updated_at": "2026-10-01T09:14:33.001594+09:00",
+  "updated_at_display": "2026-10-01 09:14 JST",
   "ios": [
     {
       "rank": 1,
@@ -706,16 +706,6 @@
     },
     {
       "rank": 21,
-      "title": "マーシャのピザ屋さんごっこ",
-      "app_id": "com.devgame.masha.and.bear.pizzeria.games",
-      "bundle_id": "com.devgame.masha.and.bear.pizzeria.games",
-      "developer": "DEVGAME KIDS games",
-      "icon": "https://play-lh.googleusercontent.com/oZv-3Ob4JdeQLXQFmC-bTePxjfNU7PYRcuQe-tnUPLvbL1MdeWv-X1U6bF5SApbpKO6hfW2GsQPZsnxSVnG9",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.devgame.masha.and.bear.pizzeria.games&hl=ja&gl=jp"
-    },
-    {
-      "rank": 22,
       "title": "EA SPORTS FC™ サッカー Mobile 27",
       "app_id": "com.ea.gp.fifamobile",
       "bundle_id": "com.ea.gp.fifamobile",
@@ -723,6 +713,16 @@
       "icon": "https://play-lh.googleusercontent.com/uT1JkXWK9pv1DWWOuVebnsbATHMZmhG4LUDkvoXne9H2MDF1im00_-U4taZPifIBpJ47sA0i8IoCh5aEVuUG5JI",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=ja&gl=jp"
+    },
+    {
+      "rank": 22,
+      "title": "Colony Flow",
+      "app_id": "com.abi.colony.flow",
+      "bundle_id": "com.abi.colony.flow",
+      "developer": "ABI GAMES PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/K7-94t2sh19wsGm99A389QnBuVbTshv7_DRgnGOuGxBHJ-VHo0pcvrK1l_3rsbJcFHYjuxTt7AMPAihSWdnMy1I",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.abi.colony.flow&hl=ja&gl=jp"
     },
     {
       "rank": 23,
@@ -736,46 +736,26 @@
     },
     {
       "rank": 24,
-      "title": "大家さんになろう！",
-      "app_id": "com.shimmergames.tenants.gp",
-      "bundle_id": "com.shimmergames.tenants.gp",
-      "developer": "ShimmerGames",
-      "icon": "https://play-lh.googleusercontent.com/rvY87vYxtOyvxoeYdCZPaG_EmRceD2Pl7-ZiLd_-EhXzCNImrbk1n2PKvx8IOxmK3QMF_Knh_t-EV2rkGLVG",
+      "title": "ベビーパンダからの応急処置のアドバイス",
+      "app_id": "com.sinyee.babybus.ambulance",
+      "bundle_id": "com.sinyee.babybus.ambulance",
+      "developer": "BabyBus",
+      "icon": "https://play-lh.googleusercontent.com/RfuYuQi0fbCtb8Hg7CeoVNOJPDcSt9RAy32llqmVFufdWnRBFbTM52yeomK896l6n1niJPnT5MtXeqgRgzd7YA",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.shimmergames.tenants.gp&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.ambulance&hl=ja&gl=jp"
     },
     {
       "rank": 25,
-      "title": "8 Ball Pool",
-      "app_id": "com.miniclip.eightballpool",
-      "bundle_id": "com.miniclip.eightballpool",
-      "developer": "Miniclip.com",
-      "icon": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
+      "title": "Scritchy Scratchy",
+      "app_id": "com.fundaygames.scritchyscratchy",
+      "bundle_id": "com.fundaygames.scritchyscratchy",
+      "developer": "Funday Games ApS",
+      "icon": "https://play-lh.googleusercontent.com/JK9gt3Lbe5Z8Z2Anztd6wH0FbDywD8CCDirlxDu5gcQ2GmIz_cUWs2YBHNteFKO04UDz_B9pzYeQuoJ8EZZtCw",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.fundaygames.scritchyscratchy&hl=ja&gl=jp"
     },
     {
       "rank": 26,
-      "title": "Meowdoku",
-      "app_id": "com.oakever.meowdoku",
-      "bundle_id": "com.oakever.meowdoku",
-      "developer": "Oakever Games",
-      "icon": "https://play-lh.googleusercontent.com/1vD3Jl37OTth18x__EkbpMZRAmDlGB5mlqKvveWumothf52-1HZXhAy5HGkGLzW_HYoz-rj2q0HBaxu5_8kyVQ",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.oakever.meowdoku&hl=ja&gl=jp"
-    },
-    {
-      "rank": 27,
-      "title": "おしゃべり猫のトーキング・トム",
-      "app_id": "com.outfit7.talkingtom",
-      "bundle_id": "com.outfit7.talkingtom",
-      "developer": "Outfit7 Limited",
-      "icon": "https://play-lh.googleusercontent.com/m2H0K49W3XwG5N3nM4VvqHxPwdvb3-ExNhsSof2FU0o5OmG2UtsocAX6-HSTajJHCqKo8a1Gh6v-hrkfVfmWlA",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.outfit7.talkingtom&hl=ja&gl=jp"
-    },
-    {
-      "rank": 28,
       "title": "ハングリーシャークエボリューション：大食いサメのサバイバル",
       "app_id": "com.fgol.HungrySharkEvolution",
       "bundle_id": "com.fgol.HungrySharkEvolution",
@@ -785,7 +765,37 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution&hl=ja&gl=jp"
     },
     {
+      "rank": 27,
+      "title": "ブロッククラフト3D (Block Craft)：建設ゲーム",
+      "app_id": "com.fungames.blockcraft",
+      "bundle_id": "com.fungames.blockcraft",
+      "developer": "Wildlife Studios",
+      "icon": "https://play-lh.googleusercontent.com/cW5-ehIemeFEMYScpxS_tUf9aSmvxcT3Yo-a2-_CisAuSf1XzGY0DvbktsKkNFUNn9twLAJgzmXvsgdr4MqCXw",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=ja&gl=jp"
+    },
+    {
+      "rank": 28,
+      "title": "マーシャのピザ屋さんごっこ",
+      "app_id": "com.devgame.masha.and.bear.pizzeria.games",
+      "bundle_id": "com.devgame.masha.and.bear.pizzeria.games",
+      "developer": "DEVGAME KIDS games",
+      "icon": "https://play-lh.googleusercontent.com/oZv-3Ob4JdeQLXQFmC-bTePxjfNU7PYRcuQe-tnUPLvbL1MdeWv-X1U6bF5SApbpKO6hfW2GsQPZsnxSVnG9",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.devgame.masha.and.bear.pizzeria.games&hl=ja&gl=jp"
+    },
+    {
       "rank": 29,
+      "title": "Pines Peak: マッチ & マージゲーム",
+      "app_id": "com.vizorapps.merge",
+      "bundle_id": "com.vizorapps.merge",
+      "developer": "VIZOR APPS LTD.",
+      "icon": "https://play-lh.googleusercontent.com/UoXdA72zj9COWscdqypevzJbBKnsrTaQ9qp3QA3OSO6j2BnKdH8L_8ufT5uoVo8MAbYL7YgrB0cfQzr4xwcD",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.vizorapps.merge&hl=ja&gl=jp"
+    },
+    {
+      "rank": 30,
       "title": "Bus Fever Party: バスのゲーム",
       "app_id": "gridplus.busjam.carpuzzle",
       "bundle_id": "gridplus.busjam.carpuzzle",
@@ -793,16 +803,6 @@
       "icon": "https://play-lh.googleusercontent.com/P5X4m-dDF31hnhlQvGE1L3MAJonj8KmnQQxj4nQl77Eg8kI2K-XFLu3UGStPC7hgP7VMrTf8ieurxA-rqdukwQ",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=gridplus.busjam.carpuzzle&hl=ja&gl=jp"
-    },
-    {
-      "rank": 30,
-      "title": "Baby Panda's Town: びょういん",
-      "app_id": "com.sinyee.babybus.townhospital",
-      "bundle_id": "com.sinyee.babybus.townhospital",
-      "developer": "BabyBus",
-      "icon": "https://play-lh.googleusercontent.com/ZBZ6e78gyLkzP4P-G9tsH14kZOlR52QpP30VJ2zmkvj_Nih82LG3nLugNEyswTHEDsyiBQv_7Po2toYt2Mg6heE",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.townhospital&hl=ja&gl=jp"
     },
     {
       "rank": 31,
@@ -966,43 +966,43 @@
     },
     {
       "rank": 47,
-      "title": "ホワイトアウト・サバイバル",
-      "app_id": "com.gof.global",
-      "bundle_id": "com.gof.global",
-      "developer": "Century Games PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
+      "title": "Pokémon TCG Pocket",
+      "app_id": "jp.pokemon.pokemontcgp",
+      "bundle_id": "jp.pokemon.pokemontcgp",
+      "developer": "The Pokémon Company",
+      "icon": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.gof.global&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp&hl=ja&gl=jp"
     },
     {
       "rank": 48,
-      "title": "魔法少女まどかマギカ Magia Exedra",
-      "app_id": "com.aniplex.magia.exedra.jp",
-      "bundle_id": "com.aniplex.magia.exedra.jp",
-      "developer": "Aniplex Inc.",
-      "icon": "https://play-lh.googleusercontent.com/7V0cKFHLRopYXDoWRC1E4RsAkqlxb_KkiC-1fe9vEG68YOHIDDsNZjQq2mwK4Wt4ghZbZsUQ-zijyAM6-arpWQ",
+      "title": "Tap Tile：トリプルタイルマッチ",
+      "app_id": "com.nebula.tiles",
+      "bundle_id": "com.nebula.tiles",
+      "developer": "Nebula  Studio",
+      "icon": "https://play-lh.googleusercontent.com/5HW3dlzybd3avrILco5uG-8PnxCFbcMBQG7iu9rNOGMVYu4n8R89iIXd93f9mhYD5bK5ODU_9iRO5j7vMgYa",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.aniplex.magia.exedra.jp&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.nebula.tiles&hl=ja&gl=jp"
     },
     {
       "rank": 49,
-      "title": "魔法のタイルズ3 - ピアノ曲 & ゲーム",
-      "app_id": "com.youmusic.magictiles",
-      "bundle_id": "com.youmusic.magictiles",
-      "developer": "AMANOTES PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/AHmha0RTMkNchGnLfchmuFzdC0EVE9WRxVjNXIGJDUhknEMmucwFdW9noBSinYdq_sdITW1LKqNE_nlhfjRR",
+      "title": "Delta Force: 2nd Anniversary",
+      "app_id": "com.proxima.dfm",
+      "bundle_id": "com.proxima.dfm",
+      "developer": "Level Infinite",
+      "icon": "https://play-lh.googleusercontent.com/mreWsKLtZdlH8_BmhYuJEvBmh3s-goAXz4MRL4KpxEVFDJDj-KcUX0mVb2PxKnQqGpiSPQxLpuJ1CwLdLdQKyA",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.proxima.dfm&hl=ja&gl=jp"
     },
     {
       "rank": 50,
-      "title": "ヒーローウォーズ：アライアンス — 放置系ロールプレイング",
-      "app_id": "com.nexters.herowars",
-      "bundle_id": "com.nexters.herowars",
-      "developer": "NEXTERS GLOBAL LTD",
-      "icon": "https://play-lh.googleusercontent.com/FtCFQxVWKIbe0kL2_bLpQp5We65COlUifnATqedJ1HVDybkcIHaf-kacHHabSBrJICGKOKwSJVFy8BVR1Oht",
+      "title": "崩壊：スターレイル",
+      "app_id": "com.HoYoverse.hkrpgoversea",
+      "bundle_id": "com.HoYoverse.hkrpgoversea",
+      "developer": "COGNOSPHERE PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.nexters.herowars&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea&hl=ja&gl=jp"
     }
   ],
   "meta": {
