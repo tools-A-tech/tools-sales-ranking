@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T03:14:31.437859+09:00",
-  "updated_at_display": "2026-10-03 03:14 JST",
+  "updated_at": "2026-10-03T04:14:31.275449+09:00",
+  "updated_at_display": "2026-10-03 04:14 JST",
   "ios": [
     {
       "rank": 1,
@@ -966,36 +966,16 @@
     },
     {
       "rank": 47,
-      "title": "ちいかわぽけっと",
-      "app_id": "jp.co.applibot.chiikawapocket",
-      "bundle_id": "jp.co.applibot.chiikawapocket",
-      "developer": "Applibot, Inc.",
-      "icon": "https://play-lh.googleusercontent.com/8d6HI7_csQLralz0Ffc5sdw39nnNDrjEfJkKp9-4nOAinG5SCoC4AdgmLcGhXJsyYAjo8YcaZ6OQOoG2-SxXBA",
+      "title": "トゥーンブラスト (Toon Blast)",
+      "app_id": "net.peakgames.toonblast",
+      "bundle_id": "net.peakgames.toonblast",
+      "developer": "Peak",
+      "icon": "https://play-lh.googleusercontent.com/j3O3Pyk08XAv4iA4p-Irerfos8g-tLxQ3r42zlScMRsjjgnyQGeE1mqcH3aSY9wA2k6l8fBqpqEaIQfIG2gLLQ",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=jp.co.applibot.chiikawapocket&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=net.peakgames.toonblast&hl=ja&gl=jp"
     },
     {
       "rank": 48,
-      "title": "Merge Fashion(マージファッション):マージ",
-      "app_id": "com.infiniplay.merge.fashion.romance.story",
-      "bundle_id": "com.infiniplay.merge.fashion.romance.story",
-      "developer": "Infiniplay-Game",
-      "icon": "https://play-lh.googleusercontent.com/_GpMLVDaOi8THx-J4w7JNfDUiXBNUaHTCg5zvAqWEvtsNRLJLLx4EHUoea6JBGkjZdlgJCO4NeLH1H_UTYY3zMY",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.infiniplay.merge.fashion.romance.story&hl=ja&gl=jp"
-    },
-    {
-      "rank": 49,
-      "title": "Level Devil - NOT A Troll Game",
-      "app_id": "com.unept.leveldevil",
-      "bundle_id": "com.unept.leveldevil",
-      "developer": "WebVentures B.V.",
-      "icon": "https://play-lh.googleusercontent.com/0UCmyr2ZdfeC_aLzd8Npm6mGWW5wuEhZYeCieU-1ODLIW4JwyvqfoQdxnT8GHPCEITwm5bJCx-OSTrnWH0yS",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.unept.leveldevil&hl=ja&gl=jp"
-    },
-    {
-      "rank": 50,
       "title": "放置少女 - 百花繚乱の萌姫たち",
       "app_id": "jp.glee.girl",
       "bundle_id": "jp.glee.girl",
@@ -1003,6 +983,26 @@
       "icon": "https://play-lh.googleusercontent.com/fkp_VLPLnTcgHIdZutQCvIJhEy5BkpetWeKonidaYW8HrnM-ASjALh2tK5xkku3jJFc6gMY1LF7caAthHTBBFg",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=jp.glee.girl&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
+      "title": "Pikmin Bloom",
+      "app_id": "com.nianticlabs.pikmin",
+      "bundle_id": "com.nianticlabs.pikmin",
+      "developer": "Scopely Explore, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/enPlIC1ZZK9sDkvhGNX0ufiBB440DICiif9eDre4gFgdOCjuUZJGAUDMh6kkyCIxEJMKH__c2GTQGdoRLCRT",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pikmin&hl=ja&gl=jp"
+    },
+    {
+      "rank": 50,
+      "title": "ロイヤルクッキング：料理ゲーム",
+      "app_id": "com.matryoshka.royal.cooking.kitchen.madness",
+      "bundle_id": "com.matryoshka.royal.cooking.kitchen.madness",
+      "developer": "Matryoshka",
+      "icon": "https://play-lh.googleusercontent.com/CmmDmcIQ2A-pl1vmjzpC3r_cTEOhctrHlmptW7T4tqnaX9ix8L242d8rstJGXxAMAyXcVIrDfMKcaQeaEJBg",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.matryoshka.royal.cooking.kitchen.madness&hl=ja&gl=jp"
     }
   ],
   "meta": {
