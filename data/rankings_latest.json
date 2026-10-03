@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T09:14:31.329996+09:00",
-  "updated_at_display": "2026-10-03 09:14 JST",
+  "updated_at": "2026-10-03T10:14:31.517086+09:00",
+  "updated_at_display": "2026-10-03 10:14 JST",
   "ios": [
     {
       "rank": 1,
@@ -526,6 +526,16 @@
     },
     {
       "rank": 3,
+      "title": "ガーデンスケイプ(Gardenscapes)",
+      "app_id": "com.playrix.gardenscapes",
+      "bundle_id": "com.playrix.gardenscapes",
+      "developer": "Playrix",
+      "icon": "https://play-lh.googleusercontent.com/Vu_BoGFdNORUCsqu8yyDPg7Re53M06VMyeBRq9a0tuRNLJWFV3glfdoI08mJuVLvwA_tokJqK3elHiK0yBFNGjo",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.playrix.gardenscapes&hl=ja&gl=jp"
+    },
+    {
+      "rank": 4,
       "title": "フィッシュダム(Fishdom)",
       "app_id": "com.playrix.fishdomdd.gplay",
       "bundle_id": "com.playrix.fishdomdd.gplay",
@@ -535,7 +545,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.playrix.fishdomdd.gplay&hl=ja&gl=jp"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "ドゥームズデイ：アンデッドブライド",
       "app_id": "com.igg.android.doomsdaylastsurvivors",
       "bundle_id": "com.igg.android.doomsdaylastsurvivors",
@@ -545,7 +555,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.igg.android.doomsdaylastsurvivors&hl=ja&gl=jp"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "モバイル·レジェンド: Bang Bang",
       "app_id": "com.mobile.legends",
       "bundle_id": "com.mobile.legends",
@@ -555,7 +565,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=ja&gl=jp"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "ホームスケイプ (Homescapes)",
       "app_id": "com.playrix.homescapes",
       "bundle_id": "com.playrix.homescapes",
@@ -565,7 +575,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.playrix.homescapes&hl=ja&gl=jp"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "クラッシュ・ロワイヤル (Clash Royale)",
       "app_id": "com.supercell.clashroyale",
       "bundle_id": "com.supercell.clashroyale",
@@ -575,7 +585,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=ja&gl=jp"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "ローグウィズデッド",
       "app_id": "net.room6.horizon",
       "bundle_id": "net.room6.horizon",
@@ -585,7 +595,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=net.room6.horizon&hl=ja&gl=jp"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "アスファルト:Legends",
       "app_id": "com.gameloft.android.ANMP.GloftA9HM",
       "bundle_id": "com.gameloft.android.ANMP.GloftA9HM",
@@ -595,7 +605,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM&hl=ja&gl=jp"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "スロットセブン：ジャックポットワールド、パチスロ、カジノ",
       "app_id": "com.grandegames.slots.dafu.casino",
       "bundle_id": "com.grandegames.slots.dafu.casino",
@@ -605,7 +615,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.grandegames.slots.dafu.casino&hl=ja&gl=jp"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "eFootball™ウイコレ CHAMPION SQUADS",
       "app_id": "jp.konami.wecc",
       "bundle_id": "jp.konami.wecc",
@@ -615,7 +625,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=jp.konami.wecc&hl=ja&gl=jp"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "ミステリー探偵ジューン:間違いを探して謎を解け！",
       "app_id": "net.wooga.junes_journey_hidden_object_mystery_game",
       "bundle_id": "net.wooga.junes_journey_hidden_object_mystery_game",
@@ -625,7 +635,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=net.wooga.junes_journey_hidden_object_mystery_game&hl=ja&gl=jp"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "ウエスタン農場 (クロンダイクの冒険)",
       "app_id": "com.vizorapps.klondike",
       "bundle_id": "com.vizorapps.klondike",
@@ -635,7 +645,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.vizorapps.klondike&hl=ja&gl=jp"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "ファミリーファームの冒険®",
       "app_id": "com.farmadventure.global",
       "bundle_id": "com.farmadventure.global",
@@ -645,7 +655,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.farmadventure.global&hl=ja&gl=jp"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "title": "Goodville ファームゲームの冒険",
       "app_id": "com.goodville.goodgame",
       "bundle_id": "com.goodville.goodgame",
@@ -655,7 +665,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.goodville.goodgame&hl=ja&gl=jp"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "フルハウスカジノ ~スロットゲーム & ジャックポットビンゴ",
       "app_id": "com.memoriki.fullhousecasino",
       "bundle_id": "com.memoriki.fullhousecasino",
@@ -665,7 +675,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.memoriki.fullhousecasino&hl=ja&gl=jp"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "ソードアート・オンライン インテグラル・ファクター",
       "app_id": "com.bandainamcoent.saoif",
       "bundle_id": "com.bandainamcoent.saoif",
@@ -675,7 +685,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.saoif&hl=ja&gl=jp"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "ダービースタリオン マスターズ [競馬ゲーム]",
       "app_id": "jp.co.drecom.dabimas",
       "bundle_id": "jp.co.drecom.dabimas",
@@ -685,7 +695,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=jp.co.drecom.dabimas&hl=ja&gl=jp"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "クッキーラン：キングダム",
       "app_id": "com.devsisters.ck",
       "bundle_id": "com.devsisters.ck",
@@ -693,16 +703,6 @@
       "icon": "https://play-lh.googleusercontent.com/J1zzZf_Clyg51sikuBbfTMD_sGVK64Ki5vyVtn3MmkUUzQ-AxKWq2-WuVDnpkrpai6Icun3wXspttadNAxy4djI",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.devsisters.ck&hl=ja&gl=jp"
-    },
-    {
-      "rank": 20,
-      "title": "Jurassic World™: ザ·ゲーム",
-      "app_id": "com.ludia.jurassicworld",
-      "bundle_id": "com.ludia.jurassicworld",
-      "developer": "Ludia Games Inc.",
-      "icon": "https://play-lh.googleusercontent.com/obiQeqlWHyppvZ26pl26hPcGHBoClvXrX_UlSwY_GARaEh_YgWbpcyOqGQ_mi_5YIh4ILPyzUYc9AjEk1NX6Cg",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.ludia.jurassicworld&hl=ja&gl=jp"
     },
     {
       "rank": 21,
@@ -716,26 +716,6 @@
     },
     {
       "rank": 22,
-      "title": "ガーデンスケイプ(Gardenscapes)",
-      "app_id": "com.playrix.gardenscapes",
-      "bundle_id": "com.playrix.gardenscapes",
-      "developer": "Playrix",
-      "icon": "https://play-lh.googleusercontent.com/Vu_BoGFdNORUCsqu8yyDPg7Re53M06VMyeBRq9a0tuRNLJWFV3glfdoI08mJuVLvwA_tokJqK3elHiK0yBFNGjo",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.playrix.gardenscapes&hl=ja&gl=jp"
-    },
-    {
-      "rank": 23,
-      "title": "EA SPORTS FC™ サッカー Mobile 27",
-      "app_id": "com.ea.gp.fifamobile",
-      "bundle_id": "com.ea.gp.fifamobile",
-      "developer": "ELECTRONIC ARTS",
-      "icon": "https://play-lh.googleusercontent.com/uT1JkXWK9pv1DWWOuVebnsbATHMZmhG4LUDkvoXne9H2MDF1im00_-U4taZPifIBpJ47sA0i8IoCh5aEVuUG5JI",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=ja&gl=jp"
-    },
-    {
-      "rank": 24,
       "title": "ブロッククラフト3D (Block Craft)：建設ゲーム",
       "app_id": "com.fungames.blockcraft",
       "bundle_id": "com.fungames.blockcraft",
@@ -745,7 +725,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.fungames.blockcraft&hl=ja&gl=jp"
     },
     {
-      "rank": 25,
+      "rank": 23,
       "title": "ロイヤルマッチ Royal Match",
       "app_id": "com.dreamgames.royalmatch",
       "bundle_id": "com.dreamgames.royalmatch",
@@ -755,17 +735,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=ja&gl=jp"
     },
     {
-      "rank": 26,
-      "title": "Pokémon TCG Pocket",
-      "app_id": "jp.pokemon.pokemontcgp",
-      "bundle_id": "jp.pokemon.pokemontcgp",
-      "developer": "The Pokémon Company",
-      "icon": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp&hl=ja&gl=jp"
-    },
-    {
-      "rank": 27,
+      "rank": 24,
       "title": "遊戯王 デュエルリンクス",
       "app_id": "jp.konami.duellinks",
       "bundle_id": "jp.konami.duellinks",
@@ -775,17 +745,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=jp.konami.duellinks&hl=ja&gl=jp"
     },
     {
-      "rank": 28,
-      "title": "Bus Fever Party: バスのゲーム",
-      "app_id": "gridplus.busjam.carpuzzle",
-      "bundle_id": "gridplus.busjam.carpuzzle",
-      "developer": "Lumi Games",
-      "icon": "https://play-lh.googleusercontent.com/P5X4m-dDF31hnhlQvGE1L3MAJonj8KmnQQxj4nQl77Eg8kI2K-XFLu3UGStPC7hgP7VMrTf8ieurxA-rqdukwQ",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=gridplus.busjam.carpuzzle&hl=ja&gl=jp"
-    },
-    {
-      "rank": 29,
+      "rank": 25,
       "title": "数で塗り絵 - 塗り絵ブック＆パズルゲーム",
       "app_id": "com.oakever.paintbynumber",
       "bundle_id": "com.oakever.paintbynumber",
@@ -795,7 +755,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.oakever.paintbynumber&hl=ja&gl=jp"
     },
     {
-      "rank": 30,
+      "rank": 26,
       "title": "Football Strike: Online Soccer",
       "app_id": "com.miniclip.footballstrike",
       "bundle_id": "com.miniclip.footballstrike",
@@ -805,7 +765,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.miniclip.footballstrike&hl=ja&gl=jp"
     },
     {
-      "rank": 31,
+      "rank": 27,
       "title": "アニモ",
       "app_id": "com.x.aniimos",
       "bundle_id": "com.x.aniimos",
@@ -815,7 +775,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.x.aniimos&hl=ja&gl=jp"
     },
     {
-      "rank": 32,
+      "rank": 28,
       "title": "ARES: THE IRON VANGUARD",
       "app_id": "com.com2usholdings.agwiv.android.google.global.normal",
       "bundle_id": "com.com2usholdings.agwiv.android.google.global.normal",
@@ -825,7 +785,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.com2usholdings.agwiv.android.google.global.normal&hl=ja&gl=jp"
     },
     {
-      "rank": 33,
+      "rank": 29,
       "title": "Smash Hit",
       "app_id": "com.mediocre.smashhit",
       "bundle_id": "com.mediocre.smashhit",
@@ -835,7 +795,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.mediocre.smashhit&hl=ja&gl=jp"
     },
     {
-      "rank": 34,
+      "rank": 30,
       "title": "思い出レストラン　〜心にしみる昭和シリーズ〜",
       "app_id": "jp.co.gagex.rigel",
       "bundle_id": "jp.co.gagex.rigel",
@@ -845,7 +805,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=jp.co.gagex.rigel&hl=ja&gl=jp"
     },
     {
-      "rank": 35,
+      "rank": 31,
       "title": "The White Door / ホワイトドア",
       "app_id": "air.com.RustyLake.WhiteDoor",
       "bundle_id": "air.com.RustyLake.WhiteDoor",
@@ -855,7 +815,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=air.com.RustyLake.WhiteDoor&hl=ja&gl=jp"
     },
     {
-      "rank": 36,
+      "rank": 32,
       "title": "orange",
       "app_id": "air.com.bartbonte.orange",
       "bundle_id": "air.com.bartbonte.orange",
@@ -865,7 +825,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=air.com.bartbonte.orange&hl=ja&gl=jp"
     },
     {
-      "rank": 37,
+      "rank": 33,
       "title": "Machinarium （マシナリウム）",
       "app_id": "air.net.machinarium.Machinarium.GP",
       "bundle_id": "air.net.machinarium.Machinarium.GP",
@@ -875,7 +835,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=air.net.machinarium.Machinarium.GP&hl=ja&gl=jp"
     },
     {
-      "rank": 38,
+      "rank": 34,
       "title": "Samorost 3 (サモロスト3)",
       "app_id": "amanita_design.samorost3.GP",
       "bundle_id": "amanita_design.samorost3.GP",
@@ -885,7 +845,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=amanita_design.samorost3.GP&hl=ja&gl=jp"
     },
     {
-      "rank": 39,
+      "rank": 35,
       "title": "Bird Alone",
       "app_id": "com.GeorgeBatchelor.BirdAlone",
       "bundle_id": "com.GeorgeBatchelor.BirdAlone",
@@ -895,7 +855,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.GeorgeBatchelor.BirdAlone&hl=ja&gl=jp"
     },
     {
-      "rank": 40,
+      "rank": 36,
       "title": "G30 - 記憶の迷路",
       "app_id": "com.IvanKovalov.G30Android",
       "bundle_id": "com.IvanKovalov.G30Android",
@@ -905,7 +865,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.IvanKovalov.G30Android&hl=ja&gl=jp"
     },
     {
-      "rank": 41,
+      "rank": 37,
       "title": "Prune",
       "app_id": "com.Polyculture.Prune",
       "bundle_id": "com.Polyculture.Prune",
@@ -915,7 +875,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.Polyculture.Prune&hl=ja&gl=jp"
     },
     {
-      "rank": 42,
+      "rank": 38,
       "title": "The Past Within",
       "app_id": "com.RustyLake.ThePastWithin",
       "bundle_id": "com.RustyLake.ThePastWithin",
@@ -925,7 +885,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.RustyLake.ThePastWithin&hl=ja&gl=jp"
     },
     {
-      "rank": 43,
+      "rank": 39,
       "title": "Please, Touch The Artwork",
       "app_id": "com.StudioWaterzooi.PleaseTouchTheArtwork",
       "bundle_id": "com.StudioWaterzooi.PleaseTouchTheArtwork",
@@ -935,7 +895,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.StudioWaterzooi.PleaseTouchTheArtwork&hl=ja&gl=jp"
     },
     {
-      "rank": 44,
+      "rank": 40,
       "title": "Hidden Folks",
       "app_id": "com.adriaandejongh.hiddenfolks",
       "bundle_id": "com.adriaandejongh.hiddenfolks",
@@ -945,7 +905,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.adriaandejongh.hiddenfolks&hl=ja&gl=jp"
     },
     {
-      "rank": 45,
+      "rank": 41,
       "title": "République",
       "app_id": "com.camouflaj.republique",
       "bundle_id": "com.camouflaj.republique",
@@ -955,7 +915,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.camouflaj.republique&hl=ja&gl=jp"
     },
     {
-      "rank": 46,
+      "rank": 42,
       "title": "AZNANA",
       "app_id": "com.caracolu.aznana",
       "bundle_id": "com.caracolu.aznana",
@@ -965,7 +925,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.caracolu.aznana&hl=ja&gl=jp"
     },
     {
-      "rank": 47,
+      "rank": 43,
       "title": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
       "app_id": "com.sega.pjsekai",
       "bundle_id": "com.sega.pjsekai",
@@ -975,17 +935,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.sega.pjsekai&hl=ja&gl=jp"
     },
     {
-      "rank": 48,
-      "title": "ネジマッチ: Screw Sort 3D ネジパズル ボルト",
-      "app_id": "screw.puzzle.match3.brain.puzz",
-      "bundle_id": "screw.puzzle.match3.brain.puzz",
-      "developer": "Astrasen Global",
-      "icon": "https://play-lh.googleusercontent.com/kE2jfaqpma0Qb8nZqYjM-kbuFfW38aUKT4DdEV4-lIeveOpdrypa54s_koHKPhbQj7zSr_wFTUacGwVVXiHSHA",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=screw.puzzle.match3.brain.puzz&hl=ja&gl=jp"
-    },
-    {
-      "rank": 49,
+      "rank": 44,
       "title": "Minecraft: クラフト、創造、サバイバル​",
       "app_id": "com.mojang.minecraftpe",
       "bundle_id": "com.mojang.minecraftpe",
@@ -995,14 +945,64 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=ja&gl=jp"
     },
     {
-      "rank": 50,
-      "title": "ブロックブラスト (Block Blast)",
-      "app_id": "com.block.juggle",
-      "bundle_id": "com.block.juggle",
-      "developer": "HungryStudio",
-      "icon": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
+      "rank": 45,
+      "title": "ONE PIECE バウンティラッシュ - アクションゲーム",
+      "app_id": "com.bandainamcoent.opbrjp",
+      "bundle_id": "com.bandainamcoent.opbrjp",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "icon": "https://play-lh.googleusercontent.com/N-cQRxsEqco6aWT29lG3BqSF1PjYYsks6C4qTORVn2NoUloJqa-XGdi2n9D3QeDi5wbeVp5_bBx-HKDTHz9ftmU",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.opbrjp&hl=ja&gl=jp"
+    },
+    {
+      "rank": 46,
+      "title": "ブロスタ",
+      "app_id": "com.supercell.brawlstars",
+      "bundle_id": "com.supercell.brawlstars",
+      "developer": "Supercell",
+      "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=ja&gl=jp"
+    },
+    {
+      "rank": 47,
+      "title": "にゃんこ大戦争",
+      "app_id": "jp.co.ponos.battlecats",
+      "bundle_id": "jp.co.ponos.battlecats",
+      "developer": "PONOS Corporation",
+      "icon": "https://play-lh.googleusercontent.com/_zq2tHsoecoSDTyxqZr9VdehQ2If63W2YXKzM10feM192S9uLsY7RNWOyKN5UXAWQL3bSBnC2tIp5bvlBNmn8Q",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=jp.co.ponos.battlecats&hl=ja&gl=jp"
+    },
+    {
+      "rank": 48,
+      "title": "ONE PIECE トレジャークルーズ",
+      "app_id": "com.namcobandaigames.spmoja010",
+      "bundle_id": "com.namcobandaigames.spmoja010",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "icon": "https://play-lh.googleusercontent.com/dn_lUDclwmGkLuyXUaZGAfiSZ2laqmFN-2kEhiziyzOi_2I_fryeQsGHot_HnNPg5_zS6zp7CtiTIZDCZeIHVw",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.namcobandaigames.spmoja010&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
+      "title": "ドラゴンボールZ ドッカンバトル",
+      "app_id": "com.bandainamcogames.dbzdokkan",
+      "bundle_id": "com.bandainamcogames.dbzdokkan",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "icon": "https://play-lh.googleusercontent.com/AjC0FM5Y7Y-Nte45TKgOmvKZlfXPj3u9_CCLnWwzgDJfTTOziul3L4NqqzwupcdF7P4xgrwc1N_X0jRKwOSlf8M",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.bandainamcogames.dbzdokkan&hl=ja&gl=jp"
+    },
+    {
+      "rank": 50,
+      "title": "プロ野球スピリッツA",
+      "app_id": "jp.konami.prospia",
+      "bundle_id": "jp.konami.prospia",
+      "developer": "KONAMI",
+      "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=jp.konami.prospia&hl=ja&gl=jp"
     }
   ],
   "meta": {
