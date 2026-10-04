@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-05T04:14:30.897955+09:00",
-  "updated_at_display": "2026-10-05 04:14 JST",
+  "updated_at": "2026-10-05T05:14:31.177831+09:00",
+  "updated_at_display": "2026-10-05 05:14 JST",
   "ios": [
     {
       "rank": 1,
@@ -976,6 +976,16 @@
     },
     {
       "rank": 48,
+      "title": "LINE ポコポコ：3マッチパズルゲーム",
+      "app_id": "com.linecorp.LGPKPK",
+      "bundle_id": "com.linecorp.LGPKPK",
+      "developer": "LINE (LY Corporation)",
+      "icon": "https://play-lh.googleusercontent.com/v0W3T0HVaLU5iC4VCGf2HklHeFftZa7OAJunwgCJgo6dYM03dB3xvjQEmU4wNFVeqlsNgR_pr6EUMd_UWJWxRw",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.linecorp.LGPKPK&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
       "title": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
       "app_id": "com.sega.pjsekai",
       "bundle_id": "com.sega.pjsekai",
@@ -985,24 +995,14 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.sega.pjsekai&hl=ja&gl=jp"
     },
     {
-      "rank": 49,
-      "title": "ロイヤルマッチ Royal Match",
-      "app_id": "com.dreamgames.royalmatch",
-      "bundle_id": "com.dreamgames.royalmatch",
-      "developer": "Dream Games, Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=ja&gl=jp"
-    },
-    {
       "rank": 50,
-      "title": "荒野行動-スマホ版バトロワ",
-      "app_id": "com.netease.ko",
-      "bundle_id": "com.netease.ko",
-      "developer": "NetEase Games",
-      "icon": "https://play-lh.googleusercontent.com/67LMdiIq4uC-imFkkxmro_rzRlU5kbkxcq4wQHEcIy-TmvGlz2GGpa2WAuNSPvD0fsy7B5JaXkQM7VfqAo2yzbI",
+      "title": "Block Crush: ブロックブラストパズル",
+      "app_id": "com.wood.block.sudoku.puzzle.bm",
+      "bundle_id": "com.wood.block.sudoku.puzzle.bm",
+      "developer": "Wonderful  Studio",
+      "icon": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.netease.ko&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=ja&gl=jp"
     }
   ],
   "meta": {
