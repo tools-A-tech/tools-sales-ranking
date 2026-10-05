@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-05T08:14:31.239773+09:00",
-  "updated_at_display": "2026-10-05 08:14 JST",
+  "updated_at": "2026-10-05T09:14:30.957883+09:00",
+  "updated_at_display": "2026-10-05 09:14 JST",
   "ios": [
     {
       "rank": 1,
@@ -966,26 +966,6 @@
     },
     {
       "rank": 47,
-      "title": "ドラゴンボールZ ドッカンバトル",
-      "app_id": "com.bandainamcogames.dbzdokkan",
-      "bundle_id": "com.bandainamcogames.dbzdokkan",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://play-lh.googleusercontent.com/AjC0FM5Y7Y-Nte45TKgOmvKZlfXPj3u9_CCLnWwzgDJfTTOziul3L4NqqzwupcdF7P4xgrwc1N_X0jRKwOSlf8M",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.bandainamcogames.dbzdokkan&hl=ja&gl=jp"
-    },
-    {
-      "rank": 48,
-      "title": "LINE ポコポコ：3マッチパズルゲーム",
-      "app_id": "com.linecorp.LGPKPK",
-      "bundle_id": "com.linecorp.LGPKPK",
-      "developer": "LINE (LY Corporation)",
-      "icon": "https://play-lh.googleusercontent.com/v0W3T0HVaLU5iC4VCGf2HklHeFftZa7OAJunwgCJgo6dYM03dB3xvjQEmU4wNFVeqlsNgR_pr6EUMd_UWJWxRw",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.linecorp.LGPKPK&hl=ja&gl=jp"
-    },
-    {
-      "rank": 49,
       "title": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
       "app_id": "com.sega.pjsekai",
       "bundle_id": "com.sega.pjsekai",
@@ -995,14 +975,34 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.sega.pjsekai&hl=ja&gl=jp"
     },
     {
-      "rank": 50,
-      "title": "Block Crush: ブロックブラストパズル",
-      "app_id": "com.wood.block.sudoku.puzzle.bm",
-      "bundle_id": "com.wood.block.sudoku.puzzle.bm",
-      "developer": "Wonderful  Studio",
-      "icon": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw",
+      "rank": 48,
+      "title": "ブロックブラスト (Block Blast)",
+      "app_id": "com.block.juggle",
+      "bundle_id": "com.block.juggle",
+      "developer": "HungryStudio",
+      "icon": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
+      "title": "荒野行動-スマホ版バトロワ",
+      "app_id": "com.netease.ko",
+      "bundle_id": "com.netease.ko",
+      "developer": "NetEase Games",
+      "icon": "https://play-lh.googleusercontent.com/67LMdiIq4uC-imFkkxmro_rzRlU5kbkxcq4wQHEcIy-TmvGlz2GGpa2WAuNSPvD0fsy7B5JaXkQM7VfqAo2yzbI",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.netease.ko&hl=ja&gl=jp"
+    },
+    {
+      "rank": 50,
+      "title": "Pikmin Bloom",
+      "app_id": "com.nianticlabs.pikmin",
+      "bundle_id": "com.nianticlabs.pikmin",
+      "developer": "Scopely Explore, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/enPlIC1ZZK9sDkvhGNX0ufiBB440DICiif9eDre4gFgdOCjuUZJGAUDMh6kkyCIxEJMKH__c2GTQGdoRLCRT",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pikmin&hl=ja&gl=jp"
     }
   ],
   "meta": {
