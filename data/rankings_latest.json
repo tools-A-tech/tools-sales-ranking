@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T08:14:31.156619+09:00",
-  "updated_at_display": "2026-10-06 08:14 JST",
+  "updated_at": "2026-10-06T09:14:31.350670+09:00",
+  "updated_at_display": "2026-10-06 09:14 JST",
   "ios": [
     {
       "rank": 1,
@@ -966,16 +966,26 @@
     },
     {
       "rank": 47,
-      "title": "Tile Explorer - トリプルマッチ",
-      "app_id": "com.oakever.tiletrip",
-      "bundle_id": "com.oakever.tiletrip",
-      "developer": "Oakever Games",
-      "icon": "https://play-lh.googleusercontent.com/wKjQKwVmmmszLHE3YfgRqiSZcDKHcnpGBeLDVs2PERYUq0B9c_LxpM8jOXYcdE-oVhPmXcWnfqUaBKR656TSBA",
+      "title": "魔法のタイルズ3 - ピアノ曲 & ゲーム",
+      "app_id": "com.youmusic.magictiles",
+      "bundle_id": "com.youmusic.magictiles",
+      "developer": "AMANOTES PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/AHmha0RTMkNchGnLfchmuFzdC0EVE9WRxVjNXIGJDUhknEMmucwFdW9noBSinYdq_sdITW1LKqNE_nlhfjRR",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=ja&gl=jp"
     },
     {
       "rank": 48,
+      "title": "セルサバイバー",
+      "app_id": "defense.roguelike.cell.shoot.survivor",
+      "bundle_id": "defense.roguelike.cell.shoot.survivor",
+      "developer": "Snap Brain Games",
+      "icon": "https://play-lh.googleusercontent.com/CK6BRHvrZ4ImMu3wTwmcn6ypzmKP4nZIww5_BUWRsCFsxSHvU0fOLZsi3C7VfiROeEfGiujwgdDA5yJ3VHC5",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=defense.roguelike.cell.shoot.survivor&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
       "title": "Pikmin Bloom",
       "app_id": "com.nianticlabs.pikmin",
       "bundle_id": "com.nianticlabs.pikmin",
@@ -985,24 +995,14 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pikmin&hl=ja&gl=jp"
     },
     {
-      "rank": 49,
-      "title": "隠しオブジェクトゲーム：探してみよう",
-      "app_id": "hidden.object.find.seek.search.mystery.puzzle.games.free",
-      "bundle_id": "hidden.object.find.seek.search.mystery.puzzle.games.free",
-      "developer": "NimbleMind Network Inc.",
-      "icon": "https://play-lh.googleusercontent.com/aU5cRfKBseUekxo6lo2nX_eJJbuar98S29siT9j0uWX-3GIxfaAsh2wWdw36AE2Y9hWUsrTWsACftUUj3zFkRV0",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=hidden.object.find.seek.search.mystery.puzzle.games.free&hl=ja&gl=jp"
-    },
-    {
       "rank": 50,
-      "title": "鳴潮",
-      "app_id": "com.kurogame.wutheringwaves.global",
-      "bundle_id": "com.kurogame.wutheringwaves.global",
-      "developer": "HK KURO GAMES LIMITED",
-      "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
+      "title": "ブロックブラスト (Block Blast)",
+      "app_id": "com.block.juggle",
+      "bundle_id": "com.block.juggle",
+      "developer": "HungryStudio",
+      "icon": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ja&gl=jp"
     }
   ],
   "meta": {
