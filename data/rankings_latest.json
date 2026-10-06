@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T22:14:32.694979+09:00",
-  "updated_at_display": "2026-10-06 22:14 JST",
+  "updated_at": "2026-10-06T23:14:31.576509+09:00",
+  "updated_at_display": "2026-10-06 23:14 JST",
   "ios": [
     {
       "rank": 1,
@@ -966,36 +966,6 @@
     },
     {
       "rank": 47,
-      "title": "トゥーンブラスト (Toon Blast)",
-      "app_id": "net.peakgames.toonblast",
-      "bundle_id": "net.peakgames.toonblast",
-      "developer": "Peak",
-      "icon": "https://play-lh.googleusercontent.com/j3O3Pyk08XAv4iA4p-Irerfos8g-tLxQ3r42zlScMRsjjgnyQGeE1mqcH3aSY9wA2k6l8fBqpqEaIQfIG2gLLQ",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=net.peakgames.toonblast&hl=ja&gl=jp"
-    },
-    {
-      "rank": 48,
-      "title": "Arrows - パズルエスケープ",
-      "app_id": "com.ecffri.arrows",
-      "bundle_id": "com.ecffri.arrows",
-      "developer": "Lessmore GmbH",
-      "icon": "https://play-lh.googleusercontent.com/lMmSA4L1MNUvZ3w4c_T10tJvrptwAdObx8WxAzn5SuboyQtrwMPy1Grqqlgg6qBpgf4PQWvk7QPsiPy6R5ZIQQ",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=ja&gl=jp"
-    },
-    {
-      "rank": 49,
-      "title": "荒野行動-スマホ版バトロワ",
-      "app_id": "com.netease.ko",
-      "bundle_id": "com.netease.ko",
-      "developer": "NetEase Games",
-      "icon": "https://play-lh.googleusercontent.com/67LMdiIq4uC-imFkkxmro_rzRlU5kbkxcq4wQHEcIy-TmvGlz2GGpa2WAuNSPvD0fsy7B5JaXkQM7VfqAo2yzbI",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.netease.ko&hl=ja&gl=jp"
-    },
-    {
-      "rank": 50,
       "title": "Minecraft: クラフト、創造、サバイバル​",
       "app_id": "com.mojang.minecraftpe",
       "bundle_id": "com.mojang.minecraftpe",
@@ -1003,6 +973,36 @@
       "icon": "https://play-lh.googleusercontent.com/tI4StRSPVhpGJH5R013naszLUawOjao1ya8FvyaNO7XY_cJFHFqo1EFaEJv_7zz3rRJ5lEpLiw14ZqQLCOYc",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=ja&gl=jp"
+    },
+    {
+      "rank": 48,
+      "title": "Roblox (ロブロックス)",
+      "app_id": "com.roblox.client",
+      "bundle_id": "com.roblox.client",
+      "developer": "Roblox Corporation",
+      "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
+      "title": "ゴシップハーバー：マージ & ストーリー",
+      "app_id": "com.mergegames.gossipharbor",
+      "bundle_id": "com.mergegames.gossipharbor",
+      "developer": "Microfun Limited",
+      "icon": "https://play-lh.googleusercontent.com/VEmJnv1zUKIcst7pnOOqEFBXItThIbTzS29wxDEhJ9vPnXxNEHJAOkclrUMYFBR9essYJKDhkm-lPR95161D",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=ja&gl=jp"
+    },
+    {
+      "rank": 50,
+      "title": "ハリウッドマージ",
+      "app_id": "com.hollywood.merge",
+      "bundle_id": "com.hollywood.merge",
+      "developer": "VoyagerOne IE",
+      "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.hollywood.merge&hl=ja&gl=jp"
     }
   ],
   "meta": {
