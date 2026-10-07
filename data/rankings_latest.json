@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T12:14:32.376341+09:00",
-  "updated_at_display": "2026-10-07 12:14 JST",
+  "updated_at": "2026-10-07T13:14:31.483143+09:00",
+  "updated_at_display": "2026-10-07 13:14 JST",
   "ios": [
     {
       "rank": 1,
@@ -28,7 +28,7 @@
       "app_id": "951627670",
       "bundle_id": "jp.co.bandainamcogames.BNGI0211",
       "developer": "Bandai Namco Entertainment Inc.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/7f/e4/df7fe4ec-6ba2-9b0b-c34c-d738f16f44de/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/5f/82/fd5f826e-eabc-c46d-224d-11e1ac0f1437/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "platform": "ios",
       "store_url": "https://apps.apple.com/jp/app/id951627670"
     },
@@ -338,7 +338,7 @@
       "app_id": "6746180100",
       "bundle_id": "jp.konami.suikoden.starleap",
       "developer": "KONAMI",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/ae/0c/02ae0c1f-3b44-ac32-a686-e7566993083a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/9f/a5/9f9fa5db-04aa-97dc-b8a7-03663390c593/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
       "store_url": "https://apps.apple.com/jp/app/id6746180100"
     },
@@ -966,16 +966,6 @@
     },
     {
       "rank": 47,
-      "title": "荒野行動-スマホ版バトロワ",
-      "app_id": "com.netease.ko",
-      "bundle_id": "com.netease.ko",
-      "developer": "NetEase Games",
-      "icon": "https://play-lh.googleusercontent.com/67LMdiIq4uC-imFkkxmro_rzRlU5kbkxcq4wQHEcIy-TmvGlz2GGpa2WAuNSPvD0fsy7B5JaXkQM7VfqAo2yzbI",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.netease.ko&hl=ja&gl=jp"
-    },
-    {
-      "rank": 48,
       "title": "Food Hunt: Pixel Puzzle",
       "app_id": "com.vigafun.funfinity.foodhunt",
       "bundle_id": "com.vigafun.funfinity.foodhunt",
@@ -985,7 +975,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.vigafun.funfinity.foodhunt&hl=ja&gl=jp"
     },
     {
-      "rank": 49,
+      "rank": 48,
       "title": "Double Tile! タイルマッチパズル",
       "app_id": "com.hungrystudio.mahjong",
       "bundle_id": "com.hungrystudio.mahjong",
@@ -995,7 +985,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.hungrystudio.mahjong&hl=ja&gl=jp"
     },
     {
-      "rank": 50,
+      "rank": 49,
       "title": "ブレインテスト(Brain Test)：ひっかけパズル",
       "app_id": "com.unicostudio.braintest",
       "bundle_id": "com.unicostudio.braintest",
@@ -1003,6 +993,16 @@
       "icon": "https://play-lh.googleusercontent.com/LAs19uR6zoIFbFPugcmg25pNP1H8nDdnusVffUDtWO_-BLurQ6cvQJvLYZbp8lWMtGLWDT6csN2yQZ-PFfk",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.unicostudio.braintest&hl=ja&gl=jp"
+    },
+    {
+      "rank": 50,
+      "title": "商品ソーティング：マッチ3パズル",
+      "app_id": "com.fc.goods.sort.matching.puzzle.triplemaster",
+      "bundle_id": "com.fc.goods.sort.matching.puzzle.triplemaster",
+      "developer": "FALCON GAMES",
+      "icon": "https://play-lh.googleusercontent.com/TP0q6fikzaVREtbaCRQd_7Q5vr55uWETNLOtbvVpQo2RFGZHaQlPoZZDpLs8YjDAjjBggxGSzANRMueGU-fqmg",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.fc.goods.sort.matching.puzzle.triplemaster&hl=ja&gl=jp"
     }
   ],
   "meta": {
