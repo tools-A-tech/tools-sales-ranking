@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T04:14:32.437793+09:00",
-  "updated_at_display": "2026-10-11 04:14 JST",
+  "updated_at": "2026-10-11T05:14:31.534344+09:00",
+  "updated_at_display": "2026-10-11 05:14 JST",
   "ios": [
     {
       "rank": 1,
@@ -976,6 +976,16 @@
     },
     {
       "rank": 48,
+      "title": "eFootball™",
+      "app_id": "jp.konami.pesam",
+      "bundle_id": "jp.konami.pesam",
+      "developer": "KONAMI",
+      "icon": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
       "title": "ミステリータウン：マージゲーム (Mystery Town)",
       "app_id": "com.cedargames.mysterytown",
       "bundle_id": "com.cedargames.mysterytown",
@@ -985,24 +995,14 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.cedargames.mysterytown&hl=ja&gl=jp"
     },
     {
-      "rank": 49,
-      "title": "マスパズル - クロスマス",
-      "app_id": "math.puzzle.games.crossmath.number.puzzles.free",
-      "bundle_id": "math.puzzle.games.crossmath.number.puzzles.free",
-      "developer": "Guru Puzzle Game",
-      "icon": "https://play-lh.googleusercontent.com/VKJwh3JGIBwNEkl7HNZkZO0k2fbMgQRUiCeYlbfSiwMQJx-PNV-Z4FVCnC5tLPi75UVpJxIwfkJ_H1o_4q3U",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=math.puzzle.games.crossmath.number.puzzles.free&hl=ja&gl=jp"
-    },
-    {
       "rank": 50,
-      "title": "ブロックブラスト (Block Blast)",
-      "app_id": "com.block.juggle",
-      "bundle_id": "com.block.juggle",
-      "developer": "HungryStudio",
-      "icon": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
+      "title": "ネジマッチ: Screw Sort 3D ネジパズル ボルト",
+      "app_id": "screw.puzzle.match3.brain.puzz",
+      "bundle_id": "screw.puzzle.match3.brain.puzz",
+      "developer": "Astrasen Global",
+      "icon": "https://play-lh.googleusercontent.com/c4jisi5dyymyq5DDT6m6EqOqCG0zf3gkg1Ch8MgZkMrF2PvFxQzrpC4mAgWMbbGUUKrfXlBQYpW8g26LHCPVgg",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=screw.puzzle.match3.brain.puzz&hl=ja&gl=jp"
     }
   ],
   "meta": {
