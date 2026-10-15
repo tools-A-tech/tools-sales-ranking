@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T04:41:09.517814+09:00",
-  "updated_at_display": "2026-10-16 04:41 JST",
+  "updated_at": "2026-10-16T05:41:07.327818+09:00",
+  "updated_at_display": "2026-10-16 05:41 JST",
   "ios": [
     {
       "rank": 1,
@@ -936,6 +936,16 @@
     },
     {
       "rank": 44,
+      "title": "バブルポップ オリジン！パズルゲーム",
+      "app_id": "com.puzzle1studio.go.bubblepoporiginpuzzlegame",
+      "bundle_id": "com.puzzle1studio.go.bubblepoporiginpuzzlegame",
+      "developer": "Puzzle1Studio",
+      "icon": "https://play-lh.googleusercontent.com/T5hXCgT8D541h9ExhMYFaKBf1Bl2HCRNFYVrSrP6hB-8jxbsCRI6C2vgZWCi1xcYLur73MHv60haSUH8wWVs6Q",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.puzzle1studio.go.bubblepoporiginpuzzlegame&hl=ja&gl=jp"
+    },
+    {
+      "rank": 45,
       "title": "My Cat - ペットネコと猫のゲーム",
       "app_id": "cat.game.liftapp",
       "bundle_id": "cat.game.liftapp",
@@ -945,7 +955,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=cat.game.liftapp&hl=ja&gl=jp"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "title": "タワークラフト 3D - 放置建設ゲーム",
       "app_id": "com.quantumgames.skyscraper",
       "bundle_id": "com.quantumgames.skyscraper",
@@ -955,7 +965,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.quantumgames.skyscraper&hl=ja&gl=jp"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "title": "マイ・トーキング・トム",
       "app_id": "com.outfit7.mytalkingtomfree",
       "bundle_id": "com.outfit7.mytalkingtomfree",
@@ -965,7 +975,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=ja&gl=jp"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "title": "Subway Surfers",
       "app_id": "com.kiloo.subwaysurf",
       "bundle_id": "com.kiloo.subwaysurf",
@@ -975,27 +985,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=ja&gl=jp"
     },
     {
-      "rank": 48,
-      "title": "フォートナイト",
-      "app_id": "com.epicgames.fortnite",
-      "bundle_id": "com.epicgames.fortnite",
-      "developer": "Epic Games, Inc",
-      "icon": "https://play-lh.googleusercontent.com/SW0gBjHobk7naDwy2S33Vwsny_J69SfGYRORFtuJaZH3iY2kY2gWV-KYcet4sRwVzD0eYfugY0VIQR7YL4ehtw",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.epicgames.fortnite&hl=ja&gl=jp"
-    },
-    {
       "rank": 49,
-      "title": "ゴシップハーバー：マージ & ストーリー",
-      "app_id": "com.mergegames.gossipharbor",
-      "bundle_id": "com.mergegames.gossipharbor",
-      "developer": "Microfun Limited",
-      "icon": "https://play-lh.googleusercontent.com/VEmJnv1zUKIcst7pnOOqEFBXItThIbTzS29wxDEhJ9vPnXxNEHJAOkclrUMYFBR9essYJKDhkm-lPR95161D",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=ja&gl=jp"
-    },
-    {
-      "rank": 50,
       "title": "eFootball™",
       "app_id": "jp.konami.pesam",
       "bundle_id": "jp.konami.pesam",
@@ -1003,6 +993,16 @@
       "icon": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=ja&gl=jp"
+    },
+    {
+      "rank": 50,
+      "title": "フォートナイト",
+      "app_id": "com.epicgames.fortnite",
+      "bundle_id": "com.epicgames.fortnite",
+      "developer": "Epic Games, Inc",
+      "icon": "https://play-lh.googleusercontent.com/SW0gBjHobk7naDwy2S33Vwsny_J69SfGYRORFtuJaZH3iY2kY2gWV-KYcet4sRwVzD0eYfugY0VIQR7YL4ehtw",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.epicgames.fortnite&hl=ja&gl=jp"
     }
   ],
   "meta": {
