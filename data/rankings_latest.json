@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T08:41:05.911459+09:00",
-  "updated_at_display": "2026-10-21 08:41 JST",
+  "updated_at": "2026-10-21T09:41:09.328225+09:00",
+  "updated_at_display": "2026-10-21 09:41 JST",
   "ios": [
     {
       "rank": 1,
@@ -966,6 +966,16 @@
     },
     {
       "rank": 47,
+      "title": "Masha and the Bear: 友だち",
+      "app_id": "com.devgame.masha.and.bear.my.friends",
+      "bundle_id": "com.devgame.masha.and.bear.my.friends",
+      "developer": "DEVGAME KIDS games",
+      "icon": "https://play-lh.googleusercontent.com/rN2Pp10h1J5TRWceOJ_fnSpGSw1LsfPv264IzslTAfWxIzbiqP-bWe9AjSOCAEKQ1VlE3W5K4CHJmlkpWWRiKw",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.devgame.masha.and.bear.my.friends&hl=ja&gl=jp"
+    },
+    {
+      "rank": 48,
       "title": "タワークラフト 3D - 放置建設ゲーム",
       "app_id": "com.quantumgames.skyscraper",
       "bundle_id": "com.quantumgames.skyscraper",
@@ -975,7 +985,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.quantumgames.skyscraper&hl=ja&gl=jp"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "title": "マイ・トーキング・トム",
       "app_id": "com.outfit7.mytalkingtomfree",
       "bundle_id": "com.outfit7.mytalkingtomfree",
@@ -985,24 +995,14 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=ja&gl=jp"
     },
     {
-      "rank": 49,
-      "title": "Subway Surfers",
-      "app_id": "com.kiloo.subwaysurf",
-      "bundle_id": "com.kiloo.subwaysurf",
-      "developer": "SYBO Games",
-      "icon": "https://play-lh.googleusercontent.com/-DbqO1c0wNGdHFHGpHBeKqTGlVSyeMGCXv3n_ZSpDRSJUZZPMI1_XjcJEEmgllezYtLI7QdkC-gt6mhgbxsD",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=ja&gl=jp"
-    },
-    {
       "rank": 50,
-      "title": "Mob Control",
-      "app_id": "com.vincentb.MobControl",
-      "bundle_id": "com.vincentb.MobControl",
-      "developer": "VOODOO",
-      "icon": "https://play-lh.googleusercontent.com/nJoghcUfRMRF4PJbdTKwz_3Y5ESi8fZUyFc9TcQ5yjhlXaT6U_c852ESmXqpRyGbSO1PeYDyO8l90i0kq4N4Rg",
+      "title": "ヴィータ麻雀(Vita Mahjong)",
+      "app_id": "com.vitastudio.mahjong",
+      "bundle_id": "com.vitastudio.mahjong",
+      "developer": "Vita Studio.",
+      "icon": "https://play-lh.googleusercontent.com/BNIddF8pcNI9TcF1EVgDrPMPitRuCHlVSdS0fq_J1LOB-Sf11owqzgDfqlHEFhJuQZvhvuCItqFjBlGsSM_OJw",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=ja&gl=jp"
     }
   ],
   "meta": {
