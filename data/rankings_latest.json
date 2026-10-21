@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T19:41:06.937624+09:00",
-  "updated_at_display": "2026-10-21 19:41 JST",
+  "updated_at": "2026-10-21T20:41:10.365374+09:00",
+  "updated_at_display": "2026-10-21 20:41 JST",
   "ios": [
     {
       "rank": 1,
@@ -128,7 +128,7 @@
       "app_id": "6448786147",
       "bundle_id": "com.lastwar.ios",
       "developer": "FUNFLY PTE. LTD.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/a6/44/eca64405-ce1f-477c-6937-c5fd4bdbebac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/42/74/0f427456-baf7-7ec8-b265-2a0f0f007da0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
       "store_url": "https://apps.apple.com/jp/app/id6448786147"
     },
@@ -606,16 +606,6 @@
     },
     {
       "rank": 11,
-      "title": "eFootball™ウイコレ CHAMPION SQUADS",
-      "app_id": "jp.konami.wecc",
-      "bundle_id": "jp.konami.wecc",
-      "developer": "KONAMI",
-      "icon": "https://play-lh.googleusercontent.com/uvaRNAr5rHRq9wFGjPEEBGDMIP9pgWOMj4cPNTM4dosust2m4vUVcD_En5WE5wLewHCNJZwskc8n2zE_uhf_",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=jp.konami.wecc&hl=ja&gl=jp"
-    },
-    {
-      "rank": 12,
       "title": "スロットセブン：ジャックポットワールド、パチスロ、カジノ",
       "app_id": "com.grandegames.slots.dafu.casino",
       "bundle_id": "com.grandegames.slots.dafu.casino",
@@ -623,6 +613,16 @@
       "icon": "https://play-lh.googleusercontent.com/5Bb3wxtmMoHOXg071Yfdj79yRvfRQzG5YimX5L6S6I5f5TeYXiLVXBaypgrAXQeRtZupPhjXr0QI0-FrRU4CMQ",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.grandegames.slots.dafu.casino&hl=ja&gl=jp"
+    },
+    {
+      "rank": 12,
+      "title": "eFootball™ウイコレ CHAMPION SQUADS",
+      "app_id": "jp.konami.wecc",
+      "bundle_id": "jp.konami.wecc",
+      "developer": "KONAMI",
+      "icon": "https://play-lh.googleusercontent.com/uvaRNAr5rHRq9wFGjPEEBGDMIP9pgWOMj4cPNTM4dosust2m4vUVcD_En5WE5wLewHCNJZwskc8n2zE_uhf_",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=jp.konami.wecc&hl=ja&gl=jp"
     },
     {
       "rank": 13,
@@ -646,16 +646,6 @@
     },
     {
       "rank": 15,
-      "title": "Goodville ファームゲームの冒険",
-      "app_id": "com.goodville.goodgame",
-      "bundle_id": "com.goodville.goodgame",
-      "developer": "Goodville AG",
-      "icon": "https://play-lh.googleusercontent.com/0XzGTlzbqVjBNTXKkI_gxYX2eNrwBfQT8lm_3HwT64niSd4FCCGVghABWBezagr5hNR6jlIuNYpsX4YeVlE9",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.goodville.goodgame&hl=ja&gl=jp"
-    },
-    {
-      "rank": 16,
       "title": "ファミリーファームの冒険®",
       "app_id": "com.farmadventure.global",
       "bundle_id": "com.farmadventure.global",
@@ -663,6 +653,16 @@
       "icon": "https://play-lh.googleusercontent.com/B1yuzozlebZIRgXPlRjgLcu7tpK4zOZ3Agny0-v4sXDikRzQ5DH8Wgg8cCkg2d5hoivnQkh4baDFk4iZRM_9RH8",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.farmadventure.global&hl=ja&gl=jp"
+    },
+    {
+      "rank": 16,
+      "title": "Goodville ファームゲームの冒険",
+      "app_id": "com.goodville.goodgame",
+      "bundle_id": "com.goodville.goodgame",
+      "developer": "Goodville AG",
+      "icon": "https://play-lh.googleusercontent.com/0XzGTlzbqVjBNTXKkI_gxYX2eNrwBfQT8lm_3HwT64niSd4FCCGVghABWBezagr5hNR6jlIuNYpsX4YeVlE9",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.goodville.goodgame&hl=ja&gl=jp"
     },
     {
       "rank": 17,
@@ -706,166 +706,6 @@
     },
     {
       "rank": 21,
-      "title": "刀剣乱舞ぱずぎり",
-      "app_id": "com.dmm.games.touken.puzzle",
-      "bundle_id": "com.dmm.games.touken.puzzle",
-      "developer": "DMMGAMES",
-      "icon": "https://play-lh.googleusercontent.com/XafLOHcjCYAsqXIVq1SWG-fr_TOLhP11J0lLI4zp63HOADXCLkTjE4RmypEm3JiYDReGyytF9vzC3-U623DEiQ",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.dmm.games.touken.puzzle&hl=ja&gl=jp"
-    },
-    {
-      "rank": 22,
-      "title": "The Operator",
-      "app_id": "com.Bureau81.OPERATOR",
-      "bundle_id": "com.Bureau81.OPERATOR",
-      "developer": "Bureau 81",
-      "icon": "https://play-lh.googleusercontent.com/klDpPmfiq7TCmpyw5FY4pEHsAiQgNMjscnYySSPdcFzqSdCZWkjLur7NgNepjDQ6j9R701nQZY1WlVrDF66pGA",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.Bureau81.OPERATOR&hl=ja&gl=jp"
-    },
-    {
-      "rank": 23,
-      "title": "9 Kings 9 キングス",
-      "app_id": "com.playdigious.ninekings",
-      "bundle_id": "com.playdigious.ninekings",
-      "developer": "Playdigious",
-      "icon": "https://play-lh.googleusercontent.com/SGhfKIaIyLJv-EPFMrdUs3Bf29jUfq4RkSvP723fRrhLk3v4M-nwSZpoUV3V4NEfdbQJixu2BqWBPzfkxmFgotQ",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.playdigious.ninekings&hl=ja&gl=jp"
-    },
-    {
-      "rank": 24,
-      "title": "バトモン対決",
-      "app_id": "com.batomon.showdown",
-      "bundle_id": "com.batomon.showdown",
-      "developer": "berrymint",
-      "icon": "https://play-lh.googleusercontent.com/aoHQJmD4R_vvS9dWjjloMSgwX5zulBeRf7JrKofCHZchJQVvN_zxR_oITVPjvdoSltkPambad60pkvj5TsDfXw",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.batomon.showdown&hl=ja&gl=jp"
-    },
-    {
-      "rank": 25,
-      "title": "グリムアーケード：お宝強奪",
-      "app_id": "com.funovus.alternatekeep",
-      "bundle_id": "com.funovus.alternatekeep",
-      "developer": "Funovus",
-      "icon": "https://play-lh.googleusercontent.com/t-Q-ImplsZoko2ZZ5PwzER66Fjwp6S96P83ue4EKYdF2PfF0cNzTOIG_qUh5oY7jHvTPB9fP9-jcfk6lJWVw0w",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.funovus.alternatekeep&hl=ja&gl=jp"
-    },
-    {
-      "rank": 26,
-      "title": "Kingdom Rush 6: Genesis TD",
-      "app_id": "com.ironhidegames.android.kingdomrush6.genesis",
-      "bundle_id": "com.ironhidegames.android.kingdomrush6.genesis",
-      "developer": "Ironhide Games",
-      "icon": "https://play-lh.googleusercontent.com/OEcpMNaiFRCca12qpIQWR8jGJCxPrRQsly00833YrzDh65hpTzVe2c1lBwReZku2j6ApAvWRC9Zz19X92Q8Dqg",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrush6.genesis&hl=ja&gl=jp"
-    },
-    {
-      "rank": 27,
-      "title": "Dream Match®",
-      "app_id": "com.letsfun.game.dreammatch",
-      "bundle_id": "com.letsfun.game.dreammatch",
-      "developer": "LETS FUN - publisher of match 3 puzzle game",
-      "icon": "https://play-lh.googleusercontent.com/hbE7LgOqKKjYvtnDestzUc9lIoIMKD4ubMJt_Vj3r7mkx_PV8Owh-w_OsmIFpBrKUGGmWGob4flxR3SrtRNg",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.letsfun.game.dreammatch&hl=ja&gl=jp"
-    },
-    {
-      "rank": 28,
-      "title": "Roblox (ロブロックス)",
-      "app_id": "com.roblox.client",
-      "bundle_id": "com.roblox.client",
-      "developer": "Roblox Corporation",
-      "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=ja&gl=jp"
-    },
-    {
-      "rank": 29,
-      "title": "アングリーバード 2 (Angry Birds 2)",
-      "app_id": "com.rovio.baba",
-      "bundle_id": "com.rovio.baba",
-      "developer": "Rovio Entertainment Oy",
-      "icon": "https://play-lh.googleusercontent.com/XrA1acf-l1YT0jw0QTxWqpJLE_TYSgdGpWE1vrEepFpA2128Zx4to0ARPvKFdhT5vAc0LHHC7xAAwa8aABIFeg",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.rovio.baba&hl=ja&gl=jp"
-    },
-    {
-      "rank": 30,
-      "title": "Toca Boca World",
-      "app_id": "com.tocaboca.tocalifeworld",
-      "bundle_id": "com.tocaboca.tocalifeworld",
-      "developer": "Toca Boca",
-      "icon": "https://play-lh.googleusercontent.com/RbCkY3iXSo5b4GcS176iPu1sE27MnakJV7iW6VbiOYBXrP_ekoq7IeNKGddS9q-C93g1H-KpQ-a5BJHq1OdL",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld&hl=ja&gl=jp"
-    },
-    {
-      "rank": 31,
-      "title": "アイテム探しゲーム：Find & Go",
-      "app_id": "com.gurupuzzle.find.go.hidden.objects",
-      "bundle_id": "com.gurupuzzle.find.go.hidden.objects",
-      "developer": "Guru Puzzle Game",
-      "icon": "https://play-lh.googleusercontent.com/p51TvVIQbWa6G1aeQnZZETFCV_DXxBkdnk5xmvX8cxqkD_A9HVQmCC-f-cKnS0uu31Zg_9eW1uzXPuHuJpMT",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.gurupuzzle.find.go.hidden.objects&hl=ja&gl=jp"
-    },
-    {
-      "rank": 32,
-      "title": "バブルポップ オリジン！パズルゲーム",
-      "app_id": "com.puzzle1studio.go.bubblepoporiginpuzzlegame",
-      "bundle_id": "com.puzzle1studio.go.bubblepoporiginpuzzlegame",
-      "developer": "Puzzle1Studio",
-      "icon": "https://play-lh.googleusercontent.com/T5hXCgT8D541h9ExhMYFaKBf1Bl2HCRNFYVrSrP6hB-8jxbsCRI6C2vgZWCi1xcYLur73MHv60haSUH8wWVs6Q",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.puzzle1studio.go.bubblepoporiginpuzzlegame&hl=ja&gl=jp"
-    },
-    {
-      "rank": 33,
-      "title": "My Cat - ペットネコと猫のゲーム",
-      "app_id": "cat.game.liftapp",
-      "bundle_id": "cat.game.liftapp",
-      "developer": "Appsyoulove",
-      "icon": "https://play-lh.googleusercontent.com/WQHI6fkMfjAgDOq2c8buE5fWNKcQJPUqly38HDvF5WAdEuk_j-SW2czK5wOMlfXB3OTo3UFUHT8W6e9fQeXp",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=cat.game.liftapp&hl=ja&gl=jp"
-    },
-    {
-      "rank": 34,
-      "title": "Masha and the Bear: 友だち",
-      "app_id": "com.devgame.masha.and.bear.my.friends",
-      "bundle_id": "com.devgame.masha.and.bear.my.friends",
-      "developer": "DEVGAME KIDS games",
-      "icon": "https://play-lh.googleusercontent.com/rN2Pp10h1J5TRWceOJ_fnSpGSw1LsfPv264IzslTAfWxIzbiqP-bWe9AjSOCAEKQ1VlE3W5K4CHJmlkpWWRiKw",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.devgame.masha.and.bear.my.friends&hl=ja&gl=jp"
-    },
-    {
-      "rank": 35,
-      "title": "タワークラフト 3D - 放置建設ゲーム",
-      "app_id": "com.quantumgames.skyscraper",
-      "bundle_id": "com.quantumgames.skyscraper",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/Gsali6Mn1xz1NXqUUecH4d6ILVneUeXFMWSYbg-fhQR-QaYIQb4QP-DQqcFHb4qyDSNcdfPACsVZpUS_zJb4",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.quantumgames.skyscraper&hl=ja&gl=jp"
-    },
-    {
-      "rank": 36,
-      "title": "マイ・トーキング・トム",
-      "app_id": "com.outfit7.mytalkingtomfree",
-      "bundle_id": "com.outfit7.mytalkingtomfree",
-      "developer": "Outfit7 Limited",
-      "icon": "https://play-lh.googleusercontent.com/WcyzKmezd5XQgLqdSch8N0PungS1iXsHTq8R1wzCY35YuFNnvhSIVQRmVia1Uw1ivJwSpbDrzRmaELKlEKUDCw",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=ja&gl=jp"
-    },
-    {
-      "rank": 37,
       "title": "Smash Hit",
       "app_id": "com.mediocre.smashhit",
       "bundle_id": "com.mediocre.smashhit",
@@ -875,7 +715,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.mediocre.smashhit&hl=ja&gl=jp"
     },
     {
-      "rank": 38,
+      "rank": 22,
       "title": "思い出レストラン　〜心にしみる昭和シリーズ〜",
       "app_id": "jp.co.gagex.rigel",
       "bundle_id": "jp.co.gagex.rigel",
@@ -885,7 +725,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=jp.co.gagex.rigel&hl=ja&gl=jp"
     },
     {
-      "rank": 39,
+      "rank": 23,
       "title": "アルトのオデッセイ",
       "app_id": "com.noodlecake.altosodyssey",
       "bundle_id": "com.noodlecake.altosodyssey",
@@ -895,7 +735,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.noodlecake.altosodyssey&hl=ja&gl=jp"
     },
     {
-      "rank": 40,
+      "rank": 24,
       "title": "The White Door / ホワイトドア",
       "app_id": "air.com.RustyLake.WhiteDoor",
       "bundle_id": "air.com.RustyLake.WhiteDoor",
@@ -905,7 +745,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=air.com.RustyLake.WhiteDoor&hl=ja&gl=jp"
     },
     {
-      "rank": 41,
+      "rank": 25,
       "title": "orange",
       "app_id": "air.com.bartbonte.orange",
       "bundle_id": "air.com.bartbonte.orange",
@@ -915,7 +755,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=air.com.bartbonte.orange&hl=ja&gl=jp"
     },
     {
-      "rank": 42,
+      "rank": 26,
       "title": "Machinarium （マシナリウム）",
       "app_id": "air.net.machinarium.Machinarium.GP",
       "bundle_id": "air.net.machinarium.Machinarium.GP",
@@ -925,7 +765,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=air.net.machinarium.Machinarium.GP&hl=ja&gl=jp"
     },
     {
-      "rank": 43,
+      "rank": 27,
       "title": "Samorost 3 (サモロスト3)",
       "app_id": "amanita_design.samorost3.GP",
       "bundle_id": "amanita_design.samorost3.GP",
@@ -935,7 +775,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=amanita_design.samorost3.GP&hl=ja&gl=jp"
     },
     {
-      "rank": 44,
+      "rank": 28,
       "title": "Bird Alone",
       "app_id": "com.GeorgeBatchelor.BirdAlone",
       "bundle_id": "com.GeorgeBatchelor.BirdAlone",
@@ -945,7 +785,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.GeorgeBatchelor.BirdAlone&hl=ja&gl=jp"
     },
     {
-      "rank": 45,
+      "rank": 29,
       "title": "G30 - 記憶の迷路",
       "app_id": "com.IvanKovalov.G30Android",
       "bundle_id": "com.IvanKovalov.G30Android",
@@ -955,7 +795,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.IvanKovalov.G30Android&hl=ja&gl=jp"
     },
     {
-      "rank": 46,
+      "rank": 30,
       "title": "Prune",
       "app_id": "com.Polyculture.Prune",
       "bundle_id": "com.Polyculture.Prune",
@@ -965,7 +805,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.Polyculture.Prune&hl=ja&gl=jp"
     },
     {
-      "rank": 47,
+      "rank": 31,
       "title": "The Past Within",
       "app_id": "com.RustyLake.ThePastWithin",
       "bundle_id": "com.RustyLake.ThePastWithin",
@@ -975,7 +815,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.RustyLake.ThePastWithin&hl=ja&gl=jp"
     },
     {
-      "rank": 48,
+      "rank": 32,
       "title": "Please, Touch The Artwork",
       "app_id": "com.StudioWaterzooi.PleaseTouchTheArtwork",
       "bundle_id": "com.StudioWaterzooi.PleaseTouchTheArtwork",
@@ -985,7 +825,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.StudioWaterzooi.PleaseTouchTheArtwork&hl=ja&gl=jp"
     },
     {
-      "rank": 49,
+      "rank": 33,
       "title": "Hidden Folks",
       "app_id": "com.adriaandejongh.hiddenfolks",
       "bundle_id": "com.adriaandejongh.hiddenfolks",
@@ -995,7 +835,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.adriaandejongh.hiddenfolks&hl=ja&gl=jp"
     },
     {
-      "rank": 50,
+      "rank": 34,
       "title": "République",
       "app_id": "com.camouflaj.republique",
       "bundle_id": "com.camouflaj.republique",
@@ -1003,6 +843,166 @@
       "icon": "https://play-lh.googleusercontent.com/YayKzfBEww7obl8ckpOGwGUL8F5j7DMX_j3ERJCoY3gCpSBVMycPMKeb16DHbHLpLmij-SFZCaf_wMmtKGqz3g",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.camouflaj.republique&hl=ja&gl=jp"
+    },
+    {
+      "rank": 35,
+      "title": "AZNANA",
+      "app_id": "com.caracolu.aznana",
+      "bundle_id": "com.caracolu.aznana",
+      "developer": "Caramel Column Inc.",
+      "icon": "https://play-lh.googleusercontent.com/i7Lz8MuuF6yQtuyPCz8ir8Iu4IyBTQgqNCYUxCug-xuHCKcbNJyEPHmwGaDS8F2MBsTvfM-vowVTndA7dd42Tw",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.caracolu.aznana&hl=ja&gl=jp"
+    },
+    {
+      "rank": 36,
+      "title": "ああ、おやつ！",
+      "app_id": "com.crevasse.ohsnack",
+      "bundle_id": "com.crevasse.ohsnack",
+      "developer": "Tepes Ovidiu",
+      "icon": "https://play-lh.googleusercontent.com/q_pVNt1HpChlYBNRrUQLizrN8hs90iArI8kRAWMr9W-l2c4QmdaWQ7x6ICUvv_W0a3vwEKD8dm42RcF6Z4Kc7w",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.crevasse.ohsnack&hl=ja&gl=jp"
+    },
+    {
+      "rank": 37,
+      "title": "Dogpile",
+      "app_id": "com.footgames.dogpile",
+      "bundle_id": "com.footgames.dogpile",
+      "developer": "Foot Games",
+      "icon": "https://play-lh.googleusercontent.com/TwNdQMsztWIbLe2SWGbRnD_g8iTdZ8Dsca0TTTFIx8oJZpWOnalLxL3pXZEaTHK4N7-BKNNgYKvxxJ5fx_66yzM",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.footgames.dogpile&hl=ja&gl=jp"
+    },
+    {
+      "rank": 38,
+      "title": "ドレッドロックのダンジョン",
+      "app_id": "com.goongames.DungeonsofDreadrock",
+      "bundle_id": "com.goongames.DungeonsofDreadrock",
+      "developer": "Christoph Minnameier",
+      "icon": "https://play-lh.googleusercontent.com/SYNR15pxUpY1O-JKR0FdN9Wj11b0Vl2xQptWkdac2e_6bI77VeUx2u0BS6U-V80wpkDuhsz6fl3XylRWxZHlKg",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.goongames.DungeonsofDreadrock&hl=ja&gl=jp"
+    },
+    {
+      "rank": 39,
+      "title": "エンドリング - エクスティンクション イズ フォーエバー",
+      "app_id": "com.hg.endling",
+      "bundle_id": "com.hg.endling",
+      "developer": "THQ Nordic Mobileㅤ",
+      "icon": "https://play-lh.googleusercontent.com/T3r-Dtp6T-00dQJH6fWe5FhfIRueNO9V2brLSkwlAks47UfRgc8hGLwt2A8qw3WpS47YmecrlCVkQo_MoYMBZg",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.hg.endling&hl=ja&gl=jp"
+    },
+    {
+      "rank": 40,
+      "title": "Roblox (ロブロックス)",
+      "app_id": "com.roblox.client",
+      "bundle_id": "com.roblox.client",
+      "developer": "Roblox Corporation",
+      "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=ja&gl=jp"
+    },
+    {
+      "rank": 41,
+      "title": "アングリーバード 2 (Angry Birds 2)",
+      "app_id": "com.rovio.baba",
+      "bundle_id": "com.rovio.baba",
+      "developer": "Rovio Entertainment Oy",
+      "icon": "https://play-lh.googleusercontent.com/XrA1acf-l1YT0jw0QTxWqpJLE_TYSgdGpWE1vrEepFpA2128Zx4to0ARPvKFdhT5vAc0LHHC7xAAwa8aABIFeg",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.rovio.baba&hl=ja&gl=jp"
+    },
+    {
+      "rank": 42,
+      "title": "Toca Boca World",
+      "app_id": "com.tocaboca.tocalifeworld",
+      "bundle_id": "com.tocaboca.tocalifeworld",
+      "developer": "Toca Boca",
+      "icon": "https://play-lh.googleusercontent.com/RbCkY3iXSo5b4GcS176iPu1sE27MnakJV7iW6VbiOYBXrP_ekoq7IeNKGddS9q-C93g1H-KpQ-a5BJHq1OdL",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld&hl=ja&gl=jp"
+    },
+    {
+      "rank": 43,
+      "title": "Tile Park: 癒やしのパズル",
+      "app_id": "funvent.tilepark",
+      "bundle_id": "funvent.tilepark",
+      "developer": "Funvent Studios Fzco",
+      "icon": "https://play-lh.googleusercontent.com/Yj-2NQYEKx8vSw55C9kWR3MKW_ihL9VSJl1Qx0icdRhmDEKqydLJ4yX7v_mn1yP8YpwEnXS2Y9865zTWJrQ7Ig",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=funvent.tilepark&hl=ja&gl=jp"
+    },
+    {
+      "rank": 44,
+      "title": "アイテム探しゲーム：Find & Go",
+      "app_id": "com.gurupuzzle.find.go.hidden.objects",
+      "bundle_id": "com.gurupuzzle.find.go.hidden.objects",
+      "developer": "Guru Puzzle Game",
+      "icon": "https://play-lh.googleusercontent.com/p51TvVIQbWa6G1aeQnZZETFCV_DXxBkdnk5xmvX8cxqkD_A9HVQmCC-f-cKnS0uu31Zg_9eW1uzXPuHuJpMT",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.gurupuzzle.find.go.hidden.objects&hl=ja&gl=jp"
+    },
+    {
+      "rank": 45,
+      "title": "バブルポップ オリジン！パズルゲーム",
+      "app_id": "com.puzzle1studio.go.bubblepoporiginpuzzlegame",
+      "bundle_id": "com.puzzle1studio.go.bubblepoporiginpuzzlegame",
+      "developer": "Puzzle1Studio",
+      "icon": "https://play-lh.googleusercontent.com/T5hXCgT8D541h9ExhMYFaKBf1Bl2HCRNFYVrSrP6hB-8jxbsCRI6C2vgZWCi1xcYLur73MHv60haSUH8wWVs6Q",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.puzzle1studio.go.bubblepoporiginpuzzlegame&hl=ja&gl=jp"
+    },
+    {
+      "rank": 46,
+      "title": "My Cat - ペットネコと猫のゲーム",
+      "app_id": "cat.game.liftapp",
+      "bundle_id": "cat.game.liftapp",
+      "developer": "Appsyoulove",
+      "icon": "https://play-lh.googleusercontent.com/WQHI6fkMfjAgDOq2c8buE5fWNKcQJPUqly38HDvF5WAdEuk_j-SW2czK5wOMlfXB3OTo3UFUHT8W6e9fQeXp",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=cat.game.liftapp&hl=ja&gl=jp"
+    },
+    {
+      "rank": 47,
+      "title": "Masha and the Bear: 友だち",
+      "app_id": "com.devgame.masha.and.bear.my.friends",
+      "bundle_id": "com.devgame.masha.and.bear.my.friends",
+      "developer": "DEVGAME KIDS games",
+      "icon": "https://play-lh.googleusercontent.com/rN2Pp10h1J5TRWceOJ_fnSpGSw1LsfPv264IzslTAfWxIzbiqP-bWe9AjSOCAEKQ1VlE3W5K4CHJmlkpWWRiKw",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.devgame.masha.and.bear.my.friends&hl=ja&gl=jp"
+    },
+    {
+      "rank": 48,
+      "title": "タワークラフト 3D - 放置建設ゲーム",
+      "app_id": "com.quantumgames.skyscraper",
+      "bundle_id": "com.quantumgames.skyscraper",
+      "developer": "CASUAL AZUR GAMES",
+      "icon": "https://play-lh.googleusercontent.com/Gsali6Mn1xz1NXqUUecH4d6ILVneUeXFMWSYbg-fhQR-QaYIQb4QP-DQqcFHb4qyDSNcdfPACsVZpUS_zJb4",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.quantumgames.skyscraper&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
+      "title": "マイ・トーキング・トム",
+      "app_id": "com.outfit7.mytalkingtomfree",
+      "bundle_id": "com.outfit7.mytalkingtomfree",
+      "developer": "Outfit7 Limited",
+      "icon": "https://play-lh.googleusercontent.com/WcyzKmezd5XQgLqdSch8N0PungS1iXsHTq8R1wzCY35YuFNnvhSIVQRmVia1Uw1ivJwSpbDrzRmaELKlEKUDCw",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=ja&gl=jp"
+    },
+    {
+      "rank": 50,
+      "title": "数独 - 毎日ナンプレを解いて気軽に頭の体操",
+      "app_id": "com.gamovation.sudoku",
+      "bundle_id": "com.gamovation.sudoku",
+      "developer": "GamoVation",
+      "icon": "https://play-lh.googleusercontent.com/hBHSiqg_XtmPSz50CFMoG1rFPKQUwIvsQOjAgqkGhVCmZRFEFRp4Cj2Hs_VnTU7RxHnD94zZNuZYmvEzWJ_HVg",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.gamovation.sudoku&hl=ja&gl=jp"
     }
   ],
   "meta": {
