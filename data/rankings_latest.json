@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T11:41:06.104477+09:00",
-  "updated_at_display": "2026-10-22 11:41 JST",
+  "updated_at": "2026-10-22T12:41:08.543086+09:00",
+  "updated_at_display": "2026-10-22 12:41 JST",
   "ios": [
     {
       "rank": 1,
@@ -78,7 +78,7 @@
       "app_id": "6502326151",
       "bundle_id": "com.smilegate.chaoszero.stove.ios",
       "developer": "Smilegate, Inc.",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/b4/03/63b403f8-905b-a833-378e-a985f6f6d407/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/c8/8b/68c88b02-fc6a-0340-a219-11205cdad9dd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "platform": "ios",
       "store_url": "https://apps.apple.com/jp/app/id6502326151"
     },
@@ -338,7 +338,7 @@
       "app_id": "6741567125",
       "bundle_id": "com.farlightgames.pgame.ios",
       "developer": "Farlight Games",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/73/6a/a2736ac2-fe62-9bc3-0419-c35945a9fc05/AppIcon-Global-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/cc/61/afcc616b-e488-c3a4-b8f4-a48daa48c078/AppIcon-Global-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "platform": "ios",
       "store_url": "https://apps.apple.com/jp/app/id6741567125"
     },
@@ -936,6 +936,16 @@
     },
     {
       "rank": 44,
+      "title": "アイテム探しゲーム：Find & Go",
+      "app_id": "com.gurupuzzle.find.go.hidden.objects",
+      "bundle_id": "com.gurupuzzle.find.go.hidden.objects",
+      "developer": "Guru Puzzle Game",
+      "icon": "https://play-lh.googleusercontent.com/p51TvVIQbWa6G1aeQnZZETFCV_DXxBkdnk5xmvX8cxqkD_A9HVQmCC-f-cKnS0uu31Zg_9eW1uzXPuHuJpMT",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.gurupuzzle.find.go.hidden.objects&hl=ja&gl=jp"
+    },
+    {
+      "rank": 45,
       "title": "バブルポップ オリジン！パズルゲーム",
       "app_id": "com.puzzle1studio.go.bubblepoporiginpuzzlegame",
       "bundle_id": "com.puzzle1studio.go.bubblepoporiginpuzzlegame",
@@ -945,7 +955,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.puzzle1studio.go.bubblepoporiginpuzzlegame&hl=ja&gl=jp"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "title": "My Cat - ペットネコと猫のゲーム",
       "app_id": "cat.game.liftapp",
       "bundle_id": "cat.game.liftapp",
@@ -955,7 +965,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=cat.game.liftapp&hl=ja&gl=jp"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "title": "Masha and the Bear: 友だち",
       "app_id": "com.devgame.masha.and.bear.my.friends",
       "bundle_id": "com.devgame.masha.and.bear.my.friends",
@@ -965,7 +975,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.devgame.masha.and.bear.my.friends&hl=ja&gl=jp"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "title": "タワークラフト 3D - 放置建設ゲーム",
       "app_id": "com.quantumgames.skyscraper",
       "bundle_id": "com.quantumgames.skyscraper",
@@ -975,7 +985,17 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.quantumgames.skyscraper&hl=ja&gl=jp"
     },
     {
-      "rank": 48,
+      "rank": 49,
+      "title": "マイ・トーキング・トム",
+      "app_id": "com.outfit7.mytalkingtomfree",
+      "bundle_id": "com.outfit7.mytalkingtomfree",
+      "developer": "Outfit7 Limited",
+      "icon": "https://play-lh.googleusercontent.com/WcyzKmezd5XQgLqdSch8N0PungS1iXsHTq8R1wzCY35YuFNnvhSIVQRmVia1Uw1ivJwSpbDrzRmaELKlEKUDCw",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree&hl=ja&gl=jp"
+    },
+    {
+      "rank": 50,
       "title": "ロイヤルマッチ Royal Match",
       "app_id": "com.dreamgames.royalmatch",
       "bundle_id": "com.dreamgames.royalmatch",
@@ -983,26 +1003,6 @@
       "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=ja&gl=jp"
-    },
-    {
-      "rank": 49,
-      "title": "ぷよぷよ!!クエスト(ぷよクエ) 楽しい！爽快パズルゲーム",
-      "app_id": "com.sega.PuyoQuest",
-      "bundle_id": "com.sega.PuyoQuest",
-      "developer": "SEGA CORPORATION",
-      "icon": "https://play-lh.googleusercontent.com/2BYpzCS8z9JbN8ahGBxImMMpwgo_EeVilsCJJsJcEI5B9-t7_Cu-3k3KdvLjAD0br4SaPugaaWOkevmdrwv6VA",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.sega.PuyoQuest&hl=ja&gl=jp"
-    },
-    {
-      "rank": 50,
-      "title": "Minecraft: クラフト、創造、サバイバル​",
-      "app_id": "com.mojang.minecraftpe",
-      "bundle_id": "com.mojang.minecraftpe",
-      "developer": "Mojang",
-      "icon": "https://play-lh.googleusercontent.com/tI4StRSPVhpGJH5R013naszLUawOjao1ya8FvyaNO7XY_cJFHFqo1EFaEJv_7zz3rRJ5lEpLiw14ZqQLCOYc",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=ja&gl=jp"
     }
   ],
   "meta": {
