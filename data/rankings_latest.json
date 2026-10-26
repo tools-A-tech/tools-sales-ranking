@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T02:41:06.721793+09:00",
-  "updated_at_display": "2026-10-27 02:41 JST",
+  "updated_at": "2026-10-27T03:41:06.748965+09:00",
+  "updated_at_display": "2026-10-27 03:41 JST",
   "ios": [
     {
       "rank": 1,
@@ -88,7 +88,7 @@
       "app_id": "1482155847",
       "bundle_id": "com.dreamgames.royalmatch",
       "developer": "Dream Games",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/eb/eb/3eebebdf-ffbd-cacb-bf5a-91043c63e344/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/85/fc/0385fc2f-21d2-0f0e-eec6-b0074492816a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
       "store_url": "https://apps.apple.com/jp/app/id1482155847"
     },
@@ -896,13 +896,13 @@
     },
     {
       "rank": 40,
-      "title": "アングリーバード 2 (Angry Birds 2)",
-      "app_id": "com.rovio.baba",
-      "bundle_id": "com.rovio.baba",
-      "developer": "Rovio Entertainment Oy",
-      "icon": "https://play-lh.googleusercontent.com/XrA1acf-l1YT0jw0QTxWqpJLE_TYSgdGpWE1vrEepFpA2128Zx4to0ARPvKFdhT5vAc0LHHC7xAAwa8aABIFeg",
+      "title": "Roblox (ロブロックス)",
+      "app_id": "com.roblox.client",
+      "bundle_id": "com.roblox.client",
+      "developer": "Roblox Corporation",
+      "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.rovio.baba&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=ja&gl=jp"
     },
     {
       "rank": 41,
@@ -986,16 +986,6 @@
     },
     {
       "rank": 49,
-      "title": "サッカースーパースター(Soccer Superstar)",
-      "app_id": "com.soccer.score.star",
-      "bundle_id": "com.soccer.score.star",
-      "developer": "Real Freestyle Soccer",
-      "icon": "https://play-lh.googleusercontent.com/MdoTVASukr_V4kJr04Q8VyQa9VXk7IUKZszDVBWgA1GUrwOXlrH0cIjQnVIvklg-jjYUXdxEwZCxtLl6hn25",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.soccer.score.star&hl=ja&gl=jp"
-    },
-    {
-      "rank": 50,
       "title": "ブロックブラスト (Block Blast)",
       "app_id": "com.block.juggle",
       "bundle_id": "com.block.juggle",
@@ -1003,6 +993,16 @@
       "icon": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ja&gl=jp"
+    },
+    {
+      "rank": 50,
+      "title": "刀剣乱舞ぱずぎり",
+      "app_id": "com.dmm.games.touken.puzzle",
+      "bundle_id": "com.dmm.games.touken.puzzle",
+      "developer": "DMMGAMES",
+      "icon": "https://play-lh.googleusercontent.com/XafLOHcjCYAsqXIVq1SWG-fr_TOLhP11J0lLI4zp63HOADXCLkTjE4RmypEm3JiYDReGyytF9vzC3-U623DEiQ",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.dmm.games.touken.puzzle&hl=ja&gl=jp"
     }
   ],
   "meta": {
