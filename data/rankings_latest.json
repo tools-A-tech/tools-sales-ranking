@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T19:41:07.385029+09:00",
-  "updated_at_display": "2026-10-26 19:41 JST",
+  "updated_at": "2026-10-26T20:41:07.443173+09:00",
+  "updated_at_display": "2026-10-26 20:41 JST",
   "ios": [
     {
       "rank": 1,
@@ -546,6 +546,16 @@
     },
     {
       "rank": 5,
+      "title": "フィッシュダム(Fishdom)",
+      "app_id": "com.playrix.fishdomdd.gplay",
+      "bundle_id": "com.playrix.fishdomdd.gplay",
+      "developer": "Playrix",
+      "icon": "https://play-lh.googleusercontent.com/JrsX1K8iBig6HRQxouWSRM-DlxPyJGBGK33TE1WEqBajbLtEu13mPPeXoWQIrQrfSFR3he8tbtx-D2xCEXMJMQ",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.playrix.fishdomdd.gplay&hl=ja&gl=jp"
+    },
+    {
+      "rank": 6,
       "title": "モバイル·レジェンド: Bang Bang",
       "app_id": "com.mobile.legends",
       "bundle_id": "com.mobile.legends",
@@ -555,7 +565,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=ja&gl=jp"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "ホームスケイプ (Homescapes)",
       "app_id": "com.playrix.homescapes",
       "bundle_id": "com.playrix.homescapes",
@@ -565,7 +575,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.playrix.homescapes&hl=ja&gl=jp"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "クラッシュ・ロワイヤル (Clash Royale)",
       "app_id": "com.supercell.clashroyale",
       "bundle_id": "com.supercell.clashroyale",
@@ -573,16 +583,6 @@
       "icon": "https://play-lh.googleusercontent.com/z0rspJKftanEI7MA4WOdypbaaHfeKy4UjoawRGKf4Ys3v6LrrcleZWOfms7XK-J33Oqyfm3DlFd4Z_eKWafVFg",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=ja&gl=jp"
-    },
-    {
-      "rank": 8,
-      "title": "ローグウィズデッド: 1000時間遊べるドット絵放置RPG",
-      "app_id": "net.room6.horizon",
-      "bundle_id": "net.room6.horizon",
-      "developer": "room6",
-      "icon": "https://play-lh.googleusercontent.com/uGQ1VgVqOAnZex3IqW2iOS1xiUpHW17dzFQgwMdgM1QW_lnEI_4eBlE8yzG52IXeW85pBts0Rs8zI3s8NKV3SXs",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=net.room6.horizon&hl=ja&gl=jp"
     },
     {
       "rank": 9,
@@ -596,6 +596,16 @@
     },
     {
       "rank": 10,
+      "title": "ローグウィズデッド: 1000時間遊べるドット絵放置RPG",
+      "app_id": "net.room6.horizon",
+      "bundle_id": "net.room6.horizon",
+      "developer": "room6",
+      "icon": "https://play-lh.googleusercontent.com/uGQ1VgVqOAnZex3IqW2iOS1xiUpHW17dzFQgwMdgM1QW_lnEI_4eBlE8yzG52IXeW85pBts0Rs8zI3s8NKV3SXs",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=net.room6.horizon&hl=ja&gl=jp"
+    },
+    {
+      "rank": 11,
       "title": "スロットセブン：ジャックポットワールド、パチスロ、カジノ",
       "app_id": "com.grandegames.slots.dafu.casino",
       "bundle_id": "com.grandegames.slots.dafu.casino",
@@ -605,7 +615,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.grandegames.slots.dafu.casino&hl=ja&gl=jp"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "eFootball™ウイコレ CHAMPION SQUADS",
       "app_id": "jp.konami.wecc",
       "bundle_id": "jp.konami.wecc",
@@ -615,7 +625,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=jp.konami.wecc&hl=ja&gl=jp"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "ミステリー探偵ジューン:間違いを探して謎を解け！",
       "app_id": "net.wooga.junes_journey_hidden_object_mystery_game",
       "bundle_id": "net.wooga.junes_journey_hidden_object_mystery_game",
@@ -625,7 +635,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=net.wooga.junes_journey_hidden_object_mystery_game&hl=ja&gl=jp"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "アスファルト:Legends",
       "app_id": "com.gameloft.android.ANMP.GloftA9HM",
       "bundle_id": "com.gameloft.android.ANMP.GloftA9HM",
@@ -635,7 +645,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM&hl=ja&gl=jp"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "Goodville ファームゲームの冒険",
       "app_id": "com.goodville.goodgame",
       "bundle_id": "com.goodville.goodgame",
@@ -645,7 +655,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.goodville.goodgame&hl=ja&gl=jp"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "title": "ファミリーファームの冒険®",
       "app_id": "com.farmadventure.global",
       "bundle_id": "com.farmadventure.global",
@@ -655,7 +665,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.farmadventure.global&hl=ja&gl=jp"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "ダービースタリオン マスターズ [競馬ゲーム]",
       "app_id": "jp.co.drecom.dabimas",
       "bundle_id": "jp.co.drecom.dabimas",
@@ -665,7 +675,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=jp.co.drecom.dabimas&hl=ja&gl=jp"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "クッキーラン：キングダム",
       "app_id": "com.devsisters.ck",
       "bundle_id": "com.devsisters.ck",
@@ -675,7 +685,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.devsisters.ck&hl=ja&gl=jp"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "フルハウスカジノ ~スロットゲーム & ジャックポットビンゴ",
       "app_id": "com.memoriki.fullhousecasino",
       "bundle_id": "com.memoriki.fullhousecasino",
@@ -685,7 +695,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.memoriki.fullhousecasino&hl=ja&gl=jp"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "ソードアート・オンライン インテグラル・ファクター",
       "app_id": "com.bandainamcoent.saoif",
       "bundle_id": "com.bandainamcoent.saoif",
@@ -693,16 +703,6 @@
       "icon": "https://play-lh.googleusercontent.com/mF54S3cIbqLYpITnPvWvoBpRFIM8u1VIpjXSMt84pY9cwZ9QNj-9J6h8yKvK4Yz4aMa9SDLwr-rxmKaIXZOht9s",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.saoif&hl=ja&gl=jp"
-    },
-    {
-      "rank": 20,
-      "title": "エグリプト 世界に一体だけのモンスターを育成して戦うRPG",
-      "app_id": "com.KyuzanInc.Eggrypt",
-      "bundle_id": "com.KyuzanInc.Eggrypt",
-      "developer": "Kyuzan Inc.",
-      "icon": "https://play-lh.googleusercontent.com/SvHAO-9nBP5jxTw0OxagxuMg6BQ7gaMkVO8qNXyVxhDG93sCtPnShUTTcrjeiYGBATXAbhtpYtqYa5frxC_ayv8",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.KyuzanInc.Eggrypt&hl=ja&gl=jp"
     },
     {
       "rank": 21,
@@ -976,33 +976,33 @@
     },
     {
       "rank": 48,
-      "title": "ブロスタ",
-      "app_id": "com.supercell.brawlstars",
-      "bundle_id": "com.supercell.brawlstars",
-      "developer": "Supercell",
-      "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs",
+      "title": "ロイヤルマッチ Royal Match",
+      "app_id": "com.dreamgames.royalmatch",
+      "bundle_id": "com.dreamgames.royalmatch",
+      "developer": "Dream Games, Ltd.",
+      "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=ja&gl=jp"
     },
     {
       "rank": 49,
-      "title": "キタキタ王様",
-      "app_id": "com.efun.jpwlxq",
-      "bundle_id": "com.efun.jpwlxq",
-      "developer": "EFUN COMPANY LIMITED",
-      "icon": "https://play-lh.googleusercontent.com/Tlhi5Z83quBhHfqHUbeKpk3REscVwNqmGYoWTRFkNiOd5fWI6SjlD5WWqH04dhQulAS6j9ce7X3ma97AttUUWQ",
+      "title": "ネジ3Dパズル：ピンを外すゲーム",
+      "app_id": "com.kiwifun.game.android.screw.master",
+      "bundle_id": "com.kiwifun.game.android.screw.master",
+      "developer": "Kiwi Fun",
+      "icon": "https://play-lh.googleusercontent.com/0Sl30wScl-7qh_ZkJNhw48uUho6Kp6V7GwKrb6FJ4Vrh3LxGoHSLogk-217f5qt_e2HLKr1QfqS8LIiq1U7K0g",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.efun.jpwlxq&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.kiwifun.game.android.screw.master&hl=ja&gl=jp"
     },
     {
       "rank": 50,
-      "title": "刀剣乱舞ぱずぎり",
-      "app_id": "com.dmm.games.touken.puzzle",
-      "bundle_id": "com.dmm.games.touken.puzzle",
-      "developer": "DMMGAMES",
-      "icon": "https://play-lh.googleusercontent.com/XafLOHcjCYAsqXIVq1SWG-fr_TOLhP11J0lLI4zp63HOADXCLkTjE4RmypEm3JiYDReGyytF9vzC3-U623DEiQ",
+      "title": "数独 - 毎日ナンプレを解いて気軽に頭の体操",
+      "app_id": "com.gamovation.sudoku",
+      "bundle_id": "com.gamovation.sudoku",
+      "developer": "GamoVation",
+      "icon": "https://play-lh.googleusercontent.com/hBHSiqg_XtmPSz50CFMoG1rFPKQUwIvsQOjAgqkGhVCmZRFEFRp4Cj2Hs_VnTU7RxHnD94zZNuZYmvEzWJ_HVg",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.dmm.games.touken.puzzle&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.gamovation.sudoku&hl=ja&gl=jp"
     }
   ],
   "meta": {
