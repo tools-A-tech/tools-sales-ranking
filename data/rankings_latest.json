@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T09:41:06.886639+09:00",
-  "updated_at_display": "2026-10-28 09:41 JST",
+  "updated_at": "2026-10-28T10:41:05.887092+09:00",
+  "updated_at_display": "2026-10-28 10:41 JST",
   "ios": [
     {
       "rank": 1,
@@ -208,7 +208,7 @@
       "app_id": "6479970832",
       "bundle_id": "jp.pokemon.pokemontcgp",
       "developer": "The Pokemon Company",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/43/93/07439340-4dc9-321c-c9cd-e4e39e401e25/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/bd/44/8bbd4426-3b01-1df8-57ae-f43ecf06fa0c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "platform": "ios",
       "store_url": "https://apps.apple.com/jp/app/id6479970832"
     },
@@ -976,26 +976,6 @@
     },
     {
       "rank": 48,
-      "title": "ブロックパズル",
-      "app_id": "blockpuzzle.new1010.jewelgames.puzzlegames",
-      "bundle_id": "blockpuzzle.new1010.jewelgames.puzzlegames",
-      "developer": "Block Puzzle Jewel Games",
-      "icon": "https://play-lh.googleusercontent.com/cKuZBcryC1TKSKqTZjIOrbU7Us2nlClzRyhzfgAGIDLfwupCsgnf3mPrG62A6jR4AjCeudhvGmBcDOQXH5St",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=blockpuzzle.new1010.jewelgames.puzzlegames&hl=ja&gl=jp"
-    },
-    {
-      "rank": 49,
-      "title": "Solar Smash",
-      "app_id": "com.paradyme.solarsmash",
-      "bundle_id": "com.paradyme.solarsmash",
-      "developer": "Paradyme Games",
-      "icon": "https://play-lh.googleusercontent.com/CEQ7m2k4DA1fh8QKk8ArK5bfQM6_rL0pUHo9XAPslrWloX1AbQ2M6v7uOGQmUm6TtZSGlfvK4LGtB1O5lA551g",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.paradyme.solarsmash&hl=ja&gl=jp"
-    },
-    {
-      "rank": 50,
       "title": "ブロックブラスト (Block Blast)",
       "app_id": "com.block.juggle",
       "bundle_id": "com.block.juggle",
@@ -1003,6 +983,26 @@
       "icon": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
+      "title": "リング回転 (Rotate Rings)",
+      "app_id": "com.nebula.rotaterings",
+      "bundle_id": "com.nebula.rotaterings",
+      "developer": "Nebula  Studio",
+      "icon": "https://play-lh.googleusercontent.com/DPjwBJC12pcLpMvNxcgIneiJk07hdOtRR7LhZ8-TT7sbJXQ7n6jk0LnCFMwg_vLPHY0WuLH8vWAiqFZmsL0HuQ",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.nebula.rotaterings&hl=ja&gl=jp"
+    },
+    {
+      "rank": 50,
+      "title": "モンスターストライク",
+      "app_id": "jp.co.mixi.monsterstrike",
+      "bundle_id": "jp.co.mixi.monsterstrike",
+      "developer": "XFLAG, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/2ikMhd0cqdaNWwQDD6Ts0BMMbYsR_OtZzmBnGxbd86Lknr_ZqAWE7bNE_JPWpQhTP86kwKN4CQpJWdrkfRPsog",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=jp.co.mixi.monsterstrike&hl=ja&gl=jp"
     }
   ],
   "meta": {
