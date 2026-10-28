@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29T04:41:06.763638+09:00",
-  "updated_at_display": "2026-10-29 04:41 JST",
+  "updated_at": "2026-10-29T05:41:07.017721+09:00",
+  "updated_at_display": "2026-10-29 05:41 JST",
   "ios": [
     {
       "rank": 1,
@@ -926,16 +926,6 @@
     },
     {
       "rank": 43,
-      "title": "アイテム探しゲーム：Find & Go",
-      "app_id": "com.gurupuzzle.find.go.hidden.objects",
-      "bundle_id": "com.gurupuzzle.find.go.hidden.objects",
-      "developer": "Guru Puzzle Game",
-      "icon": "https://play-lh.googleusercontent.com/p51TvVIQbWa6G1aeQnZZETFCV_DXxBkdnk5xmvX8cxqkD_A9HVQmCC-f-cKnS0uu31Zg_9eW1uzXPuHuJpMT",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.gurupuzzle.find.go.hidden.objects&hl=ja&gl=jp"
-    },
-    {
-      "rank": 44,
       "title": "バブルポップ オリジン！パズルゲーム",
       "app_id": "com.puzzle1studio.go.bubblepoporiginpuzzlegame",
       "bundle_id": "com.puzzle1studio.go.bubblepoporiginpuzzlegame",
@@ -945,7 +935,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.puzzle1studio.go.bubblepoporiginpuzzlegame&hl=ja&gl=jp"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "My Cat - ペットネコと猫のゲーム",
       "app_id": "cat.game.liftapp",
       "bundle_id": "cat.game.liftapp",
@@ -955,7 +945,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=cat.game.liftapp&hl=ja&gl=jp"
     },
     {
-      "rank": 46,
+      "rank": 45,
       "title": "Masha and the Bear: 友だち",
       "app_id": "com.devgame.masha.and.bear.my.friends",
       "bundle_id": "com.devgame.masha.and.bear.my.friends",
@@ -965,7 +955,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.devgame.masha.and.bear.my.friends&hl=ja&gl=jp"
     },
     {
-      "rank": 47,
+      "rank": 46,
       "title": "タワークラフト 3D - 放置建設ゲーム",
       "app_id": "com.quantumgames.skyscraper",
       "bundle_id": "com.quantumgames.skyscraper",
@@ -975,7 +965,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.quantumgames.skyscraper&hl=ja&gl=jp"
     },
     {
-      "rank": 48,
+      "rank": 47,
       "title": "ブロックブラスト (Block Blast)",
       "app_id": "com.block.juggle",
       "bundle_id": "com.block.juggle",
@@ -985,17 +975,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=ja&gl=jp"
     },
     {
-      "rank": 49,
-      "title": "リング回転 (Rotate Rings)",
-      "app_id": "com.nebula.rotaterings",
-      "bundle_id": "com.nebula.rotaterings",
-      "developer": "Nebula  Studio",
-      "icon": "https://play-lh.googleusercontent.com/DPjwBJC12pcLpMvNxcgIneiJk07hdOtRR7LhZ8-TT7sbJXQ7n6jk0LnCFMwg_vLPHY0WuLH8vWAiqFZmsL0HuQ",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.nebula.rotaterings&hl=ja&gl=jp"
-    },
-    {
-      "rank": 50,
+      "rank": 48,
       "title": "ロイヤルキングダム (Royal Kingdom)",
       "app_id": "com.dreamgames.royalkingdom",
       "bundle_id": "com.dreamgames.royalkingdom",
@@ -1003,6 +983,26 @@
       "icon": "https://play-lh.googleusercontent.com/_paT_ghq77nAR6AIu5kaSWbcyOsnho6rTPHWPTvQ9VlSmNaDTd1E8hrKBs1Em5Ec3YuzOcCxIhDeju51HqrXb6w",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
+      "title": "Fish Sort Puzzle: 魚ゲーム",
+      "app_id": "triple.sorting.bubble.fish.match",
+      "bundle_id": "triple.sorting.bubble.fish.match",
+      "developer": "Shycheese",
+      "icon": "https://play-lh.googleusercontent.com/dgMZwGC0LUHkTxbiCaLIupC40ZtxjfOOfMNFWzBuMhq5HCneA4mhgoHCzRARa_SY0o19o5cWy6VCxInppIMXQA",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=triple.sorting.bubble.fish.match&hl=ja&gl=jp"
+    },
+    {
+      "rank": 50,
+      "title": "ヴィータ麻雀(Vita Mahjong)",
+      "app_id": "com.vitastudio.mahjong",
+      "bundle_id": "com.vitastudio.mahjong",
+      "developer": "Vita Studio.",
+      "icon": "https://play-lh.googleusercontent.com/4GP15PbhBh3MPvGid4Kk90uXyRZl1BrPls7a4x-o37EEsDYHLx902jdkWEr2PRWhzwhInuOxvuFTpHn2gxgNtw",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=ja&gl=jp"
     }
   ],
   "meta": {
