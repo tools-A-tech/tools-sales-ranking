@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29T10:41:06.188239+09:00",
-  "updated_at_display": "2026-10-29 10:41 JST",
+  "updated_at": "2026-10-29T11:41:06.210057+09:00",
+  "updated_at_display": "2026-10-29 11:41 JST",
   "ios": [
     {
       "rank": 1,
@@ -438,7 +438,7 @@
       "app_id": "888615473",
       "bundle_id": "com.linecorp.LGPKPK",
       "developer": "LINE Corporation",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/a3/13/04a313a3-1340-0cd9-a9fe-c79c3c1b90d8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/30/3a/75303af8-ad45-6fb6-559f-dfa1e2981fd6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "platform": "ios",
       "store_url": "https://apps.apple.com/jp/app/id888615473"
     },
@@ -956,6 +956,16 @@
     },
     {
       "rank": 46,
+      "title": "ナンプレブラスト (Sudoku Blast)",
+      "app_id": "com.mathbrain.sudoku",
+      "bundle_id": "com.mathbrain.sudoku",
+      "developer": "HungryStudio",
+      "icon": "https://play-lh.googleusercontent.com/sp79oH5LKbZkDwPzJCvAobaajOEwafsBU7Mj01wxl2bhdGUnMfGZco1GAKgQZtrQ-pMJ-ERT8FlZliirn5V8bQ",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.mathbrain.sudoku&hl=ja&gl=jp"
+    },
+    {
+      "rank": 47,
       "title": "Masha and the Bear: 友だち",
       "app_id": "com.devgame.masha.and.bear.my.friends",
       "bundle_id": "com.devgame.masha.and.bear.my.friends",
@@ -963,16 +973,6 @@
       "icon": "https://play-lh.googleusercontent.com/rN2Pp10h1J5TRWceOJ_fnSpGSw1LsfPv264IzslTAfWxIzbiqP-bWe9AjSOCAEKQ1VlE3W5K4CHJmlkpWWRiKw",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.devgame.masha.and.bear.my.friends&hl=ja&gl=jp"
-    },
-    {
-      "rank": 47,
-      "title": "タワークラフト 3D - 放置建設ゲーム",
-      "app_id": "com.quantumgames.skyscraper",
-      "bundle_id": "com.quantumgames.skyscraper",
-      "developer": "CASUAL AZUR GAMES",
-      "icon": "https://play-lh.googleusercontent.com/Gsali6Mn1xz1NXqUUecH4d6ILVneUeXFMWSYbg-fhQR-QaYIQb4QP-DQqcFHb4qyDSNcdfPACsVZpUS_zJb4",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.quantumgames.skyscraper&hl=ja&gl=jp"
     },
     {
       "rank": 48,
@@ -996,13 +996,13 @@
     },
     {
       "rank": 50,
-      "title": "ロイヤルキングダム (Royal Kingdom)",
-      "app_id": "com.dreamgames.royalkingdom",
-      "bundle_id": "com.dreamgames.royalkingdom",
-      "developer": "Dream Games, Ltd.",
-      "icon": "https://play-lh.googleusercontent.com/_paT_ghq77nAR6AIu5kaSWbcyOsnho6rTPHWPTvQ9VlSmNaDTd1E8hrKBs1Em5Ec3YuzOcCxIhDeju51HqrXb6w",
+      "title": "モンスターストライク",
+      "app_id": "jp.co.mixi.monsterstrike",
+      "bundle_id": "jp.co.mixi.monsterstrike",
+      "developer": "XFLAG, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/2ikMhd0cqdaNWwQDD6Ts0BMMbYsR_OtZzmBnGxbd86Lknr_ZqAWE7bNE_JPWpQhTP86kwKN4CQpJWdrkfRPsog",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=jp.co.mixi.monsterstrike&hl=ja&gl=jp"
     }
   ],
   "meta": {
