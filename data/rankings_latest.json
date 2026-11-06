@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T08:41:05.337640+09:00",
-  "updated_at_display": "2026-11-06 08:41 JST",
+  "updated_at": "2026-11-06T09:41:05.655236+09:00",
+  "updated_at_display": "2026-11-06 09:41 JST",
   "ios": [
     {
       "rank": 1,
@@ -756,16 +756,6 @@
     },
     {
       "rank": 26,
-      "title": "ナンプレブラスト (Sudoku Blast)",
-      "app_id": "com.mathbrain.sudoku",
-      "bundle_id": "com.mathbrain.sudoku",
-      "developer": "HungryStudio",
-      "icon": "https://play-lh.googleusercontent.com/sp79oH5LKbZkDwPzJCvAobaajOEwafsBU7Mj01wxl2bhdGUnMfGZco1GAKgQZtrQ-pMJ-ERT8FlZliirn5V8bQ",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.mathbrain.sudoku&hl=ja&gl=jp"
-    },
-    {
-      "rank": 27,
       "title": "タワークラフト 3D - 放置建設ゲーム",
       "app_id": "com.quantumgames.skyscraper",
       "bundle_id": "com.quantumgames.skyscraper",
@@ -775,7 +765,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.quantumgames.skyscraper&hl=ja&gl=jp"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "title": "Subway Surfers",
       "app_id": "com.kiloo.subwaysurf",
       "bundle_id": "com.kiloo.subwaysurf",
@@ -785,7 +775,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=ja&gl=jp"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "title": "お買い物ごっこ遊び！BabyBusの知育アプリ",
       "app_id": "com.sinyee.babybus.shopping",
       "bundle_id": "com.sinyee.babybus.shopping",
@@ -795,7 +785,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.shopping&hl=ja&gl=jp"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "title": "8 Ball Pool",
       "app_id": "com.miniclip.eightballpool",
       "bundle_id": "com.miniclip.eightballpool",
@@ -803,6 +793,16 @@
       "icon": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=ja&gl=jp"
+    },
+    {
+      "rank": 30,
+      "title": "ファルコン小隊：スペースシューティング",
+      "app_id": "invaders.os.galaxy.space.shooter.attack.classic",
+      "bundle_id": "invaders.os.galaxy.space.shooter.attack.classic",
+      "developer": "1SOFT",
+      "icon": "https://play-lh.googleusercontent.com/0v3gBXo05gnc449ro3cAOlfHPz_YJtDT1ejNEkU_t_VdJNVQ-WOICXJYcNpZfsw3AvKr-Go1ZSuPGYeFLT31",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=invaders.os.galaxy.space.shooter.attack.classic&hl=ja&gl=jp"
     },
     {
       "rank": 31,
@@ -996,13 +996,13 @@
     },
     {
       "rank": 50,
-      "title": "原神",
-      "app_id": "com.miHoYo.GenshinImpact",
-      "bundle_id": "com.miHoYo.GenshinImpact",
-      "developer": "COGNOSPHERE PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/YQqyKaXX-63krqsfIzUEJWUWLINxcb5tbS6QVySdxbS7eZV7YB2dUjUvX27xA0TIGtfxQ5v-tQjwlT5tTB-O",
+      "title": "キングショット",
+      "app_id": "com.run.tower.defense",
+      "bundle_id": "com.run.tower.defense",
+      "developer": "Century Games PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ja&gl=jp"
     }
   ],
   "meta": {
