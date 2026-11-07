@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T20:41:08.827105+09:00",
-  "updated_at_display": "2026-11-07 20:41 JST",
+  "updated_at": "2026-11-07T21:41:18.255946+09:00",
+  "updated_at_display": "2026-11-07 21:41 JST",
   "ios": [
     {
       "rank": 1,
@@ -636,16 +636,6 @@
     },
     {
       "rank": 14,
-      "title": "アスファルト:Legends",
-      "app_id": "com.gameloft.android.ANMP.GloftA9HM",
-      "bundle_id": "com.gameloft.android.ANMP.GloftA9HM",
-      "developer": "Gameloft SE",
-      "icon": "https://play-lh.googleusercontent.com/53ngsanoIl6vcppIwZD2LGMcjT9j5beVN_GakLncwrIr7WjTXYs6lnaSef-zlKmWr2NaaoSmMs1qQjtyXgLnSiw",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM&hl=ja&gl=jp"
-    },
-    {
-      "rank": 15,
       "title": "ファミリーファームの冒険®",
       "app_id": "com.farmadventure.global",
       "bundle_id": "com.farmadventure.global",
@@ -653,6 +643,16 @@
       "icon": "https://play-lh.googleusercontent.com/B1yuzozlebZIRgXPlRjgLcu7tpK4zOZ3Agny0-v4sXDikRzQ5DH8Wgg8cCkg2d5hoivnQkh4baDFk4iZRM_9RH8",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.farmadventure.global&hl=ja&gl=jp"
+    },
+    {
+      "rank": 15,
+      "title": "アスファルト:Legends",
+      "app_id": "com.gameloft.android.ANMP.GloftA9HM",
+      "bundle_id": "com.gameloft.android.ANMP.GloftA9HM",
+      "developer": "Gameloft SE",
+      "icon": "https://play-lh.googleusercontent.com/53ngsanoIl6vcppIwZD2LGMcjT9j5beVN_GakLncwrIr7WjTXYs6lnaSef-zlKmWr2NaaoSmMs1qQjtyXgLnSiw",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM&hl=ja&gl=jp"
     },
     {
       "rank": 16,
@@ -776,6 +776,16 @@
     },
     {
       "rank": 28,
+      "title": "eFootball™",
+      "app_id": "jp.konami.pesam",
+      "bundle_id": "jp.konami.pesam",
+      "developer": "KONAMI",
+      "icon": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=ja&gl=jp"
+    },
+    {
+      "rank": 29,
       "title": "お買い物ごっこ遊び！BabyBusの知育アプリ",
       "app_id": "com.sinyee.babybus.shopping",
       "bundle_id": "com.sinyee.babybus.shopping",
@@ -785,7 +795,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.shopping&hl=ja&gl=jp"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "title": "8 Ball Pool",
       "app_id": "com.miniclip.eightballpool",
       "bundle_id": "com.miniclip.eightballpool",
@@ -793,16 +803,6 @@
       "icon": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=ja&gl=jp"
-    },
-    {
-      "rank": 30,
-      "title": "魔法のタイルズ3 - ピアノ曲 & ゲーム",
-      "app_id": "com.youmusic.magictiles",
-      "bundle_id": "com.youmusic.magictiles",
-      "developer": "AMANOTES PTE. LTD.",
-      "icon": "https://play-lh.googleusercontent.com/AHmha0RTMkNchGnLfchmuFzdC0EVE9WRxVjNXIGJDUhknEMmucwFdW9noBSinYdq_sdITW1LKqNE_nlhfjRR",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles&hl=ja&gl=jp"
     },
     {
       "rank": 31,
@@ -996,13 +996,13 @@
     },
     {
       "rank": 50,
-      "title": "ナンプレ - 大人気アプリ",
-      "app_id": "easy.sudoku.puzzle.solver.free",
-      "bundle_id": "easy.sudoku.puzzle.solver.free",
-      "developer": "Oakever Games",
-      "icon": "https://play-lh.googleusercontent.com/5fwa6KT5cglDIrpPgr09W5IUz22dW8GIZ1fxHedRocpWFLMsWqXyCPTRPT3ezj8W2FIWdkzSiMvzGx3DHBTlkQ",
+      "title": "ヴィータ麻雀(Vita Mahjong)",
+      "app_id": "com.vitastudio.mahjong",
+      "bundle_id": "com.vitastudio.mahjong",
+      "developer": "Vita Studio.",
+      "icon": "https://play-lh.googleusercontent.com/BDC1lh81kCAMpQX_QeRTnmSH_QoVjUdDKs_igX91n-b1Kdw9WIl96Rgbi1MimXd4uE2jf40bAkaSrtg7ws2Beg",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=easy.sudoku.puzzle.solver.free&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=ja&gl=jp"
     }
   ],
   "meta": {
