@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-22T09:40:23.010781+09:00",
-  "updated_at_display": "2026-11-22 09:40 JST",
+  "updated_at": "2026-11-22T10:40:22.334232+09:00",
+  "updated_at_display": "2026-11-22 10:40 JST",
   "ios": [
     {
       "rank": 1,
@@ -976,6 +976,16 @@
     },
     {
       "rank": 48,
+      "title": "にゃんこ大戦争",
+      "app_id": "jp.co.ponos.battlecats",
+      "bundle_id": "jp.co.ponos.battlecats",
+      "developer": "PONOS Corporation",
+      "icon": "https://play-lh.googleusercontent.com/mdStROmKj3ZBINHq2QUBJoknFrZmaCOnrZJ4sZs5QbFjM1sG16SPkTzd7LbjJ_bJC2In5b2-yvtA8GDDaniF",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=jp.co.ponos.battlecats&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
       "title": "ONE PIECE バウンティラッシュ - アクションゲーム",
       "app_id": "com.bandainamcoent.opbrjp",
       "bundle_id": "com.bandainamcoent.opbrjp",
@@ -985,24 +995,14 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.opbrjp&hl=ja&gl=jp"
     },
     {
-      "rank": 49,
-      "title": "ブロスタ",
-      "app_id": "com.supercell.brawlstars",
-      "bundle_id": "com.supercell.brawlstars",
-      "developer": "Supercell",
-      "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=ja&gl=jp"
-    },
-    {
       "rank": 50,
-      "title": "勝利の女神：NIKKE",
-      "app_id": "com.proximabeta.nikke",
-      "bundle_id": "com.proximabeta.nikke",
-      "developer": "Level Infinite",
-      "icon": "https://play-lh.googleusercontent.com/hXb0wwJYOJ7GwnzP29SbOIlDGSXWn7yOwgXnn4OBt1nfNgMpvcmSfwnNpeJ8B4n3AP73kyxeXnHTdhddfR6huw",
+      "title": "モンスターストライク",
+      "app_id": "jp.co.mixi.monsterstrike",
+      "bundle_id": "jp.co.mixi.monsterstrike",
+      "developer": "XFLAG, Inc.",
+      "icon": "https://play-lh.googleusercontent.com/ymrd9gr1V3uQFKFWUtjRq6gxqrzV4FbCH6iIms84LUF1iVTwfzfZzrBWtZVY1UFoPe3cIxmjmow6NOr73OZv3Q",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.proximabeta.nikke&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=jp.co.mixi.monsterstrike&hl=ja&gl=jp"
     }
   ],
   "meta": {
