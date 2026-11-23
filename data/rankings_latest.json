@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T05:40:22.138502+09:00",
-  "updated_at_display": "2026-11-24 05:40 JST",
+  "updated_at": "2026-11-24T06:40:39.976668+09:00",
+  "updated_at_display": "2026-11-24 06:40 JST",
   "ios": [
     {
       "rank": 1,
@@ -986,16 +986,6 @@
     },
     {
       "rank": 49,
-      "title": "マッチファクトリー(Match Factory)!",
-      "app_id": "net.peakgames.match",
-      "bundle_id": "net.peakgames.match",
-      "developer": "Peak",
-      "icon": "https://play-lh.googleusercontent.com/TfYptHuK821z2ugqfa7JUomzdoWWV1jBuO1hNraCb0TNAD-zplUWditdZPndKzN50fqzdWBEUp81vMi-s0B4",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=net.peakgames.match&hl=ja&gl=jp"
-    },
-    {
-      "rank": 50,
       "title": "モンスターストライク",
       "app_id": "jp.co.mixi.monsterstrike",
       "bundle_id": "jp.co.mixi.monsterstrike",
@@ -1003,6 +993,16 @@
       "icon": "https://play-lh.googleusercontent.com/ymrd9gr1V3uQFKFWUtjRq6gxqrzV4FbCH6iIms84LUF1iVTwfzfZzrBWtZVY1UFoPe3cIxmjmow6NOr73OZv3Q",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=jp.co.mixi.monsterstrike&hl=ja&gl=jp"
+    },
+    {
+      "rank": 50,
+      "title": "にゃんこ大戦争",
+      "app_id": "jp.co.ponos.battlecats",
+      "bundle_id": "jp.co.ponos.battlecats",
+      "developer": "PONOS Corporation",
+      "icon": "https://play-lh.googleusercontent.com/mdStROmKj3ZBINHq2QUBJoknFrZmaCOnrZJ4sZs5QbFjM1sG16SPkTzd7LbjJ_bJC2In5b2-yvtA8GDDaniF",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=jp.co.ponos.battlecats&hl=ja&gl=jp"
     }
   ],
   "meta": {
