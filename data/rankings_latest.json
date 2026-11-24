@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T19:40:23.499577+09:00",
-  "updated_at_display": "2026-11-24 19:40 JST",
+  "updated_at": "2026-11-24T20:40:23.972586+09:00",
+  "updated_at_display": "2026-11-24 20:40 JST",
   "ios": [
     {
       "rank": 1,
@@ -976,6 +976,16 @@
     },
     {
       "rank": 48,
+      "title": "キングショット",
+      "app_id": "com.run.tower.defense",
+      "bundle_id": "com.run.tower.defense",
+      "developer": "Century Games PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
       "title": "雀魂‐じゃんたま‐",
       "app_id": "com.YoStarJP.MajSoul",
       "bundle_id": "com.YoStarJP.MajSoul",
@@ -985,24 +995,14 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.YoStarJP.MajSoul&hl=ja&gl=jp"
     },
     {
-      "rank": 49,
-      "title": "ロードモバイル:戦略戦争バトルゲーム – ストラテジーRPG",
-      "app_id": "com.igg.android.lordsmobile",
-      "bundle_id": "com.igg.android.lordsmobile",
-      "developer": "IGG.COM",
-      "icon": "https://play-lh.googleusercontent.com/9gTDGNC_Ly7dWNWcfZtnBKdIY8a9REzuWMCC89ycYugXGvWgAPDo4GgnyitrX2LpMqE-1yb_2CDFugre9QVKfg",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.igg.android.lordsmobile&hl=ja&gl=jp"
-    },
-    {
       "rank": 50,
-      "title": "モンスターハンターアウトランダーズ",
-      "app_id": "com.tencent.mhadv",
-      "bundle_id": "com.tencent.mhadv",
-      "developer": "Level Infinite",
-      "icon": "https://play-lh.googleusercontent.com/B4uYewhDjtnfuwQShUr2EMiptP5GlTOFk6tlWtVMXucGz9GBWboePEzEVVHm_lM16BZLIpi9cRbhZikcrxjmQQ",
+      "title": "ナンプレ - ロジックパズルゲーム",
+      "app_id": "com.easybrain.sudoku.android",
+      "bundle_id": "com.easybrain.sudoku.android",
+      "developer": "Easybrain",
+      "icon": "https://play-lh.googleusercontent.com/8fEAh2dDpBBfcxPgj4s_iW7KEr46z1ppppPi3RHtdGcQay7a4K72mPXX5xyNDNI7C5tM0jS3wW4E5Q97uhN5rQ",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.tencent.mhadv&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.easybrain.sudoku.android&hl=ja&gl=jp"
     }
   ],
   "meta": {
