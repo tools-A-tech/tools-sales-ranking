@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-25T08:40:20.013901+09:00",
-  "updated_at_display": "2026-11-25 08:40 JST",
+  "updated_at": "2026-11-25T09:40:20.507155+09:00",
+  "updated_at_display": "2026-11-25 09:40 JST",
   "ios": [
     {
       "rank": 1,
@@ -966,16 +966,36 @@
     },
     {
       "rank": 47,
-      "title": "ブロスタ",
-      "app_id": "com.supercell.brawlstars",
-      "bundle_id": "com.supercell.brawlstars",
-      "developer": "Supercell",
-      "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs",
+      "title": "Mob Control",
+      "app_id": "com.vincentb.MobControl",
+      "bundle_id": "com.vincentb.MobControl",
+      "developer": "VOODOO",
+      "icon": "https://play-lh.googleusercontent.com/nJoghcUfRMRF4PJbdTKwz_3Y5ESi8fZUyFc9TcQ5yjhlXaT6U_c852ESmXqpRyGbSO1PeYDyO8l90i0kq4N4Rg",
       "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=ja&gl=jp"
+      "store_url": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=ja&gl=jp"
     },
     {
       "rank": 48,
+      "title": "キングショット",
+      "app_id": "com.run.tower.defense",
+      "bundle_id": "com.run.tower.defense",
+      "developer": "Century Games PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
+      "title": "ミステリータウン：マージゲーム (Mystery Town)",
+      "app_id": "com.cedargames.mysterytown",
+      "bundle_id": "com.cedargames.mysterytown",
+      "developer": "Cedar Games Studio",
+      "icon": "https://play-lh.googleusercontent.com/MT_uOyA-JgP0Z2wlE1Y8zbJO4sXgjBSYYplnvragTP3KvcEvTO_q2wyks0Leu5bWpxPj4T6c_wvOl6yuexivNw",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.cedargames.mysterytown&hl=ja&gl=jp"
+    },
+    {
+      "rank": 50,
       "title": "BINGO BLITZ™️ - ビンゴゲーム",
       "app_id": "air.com.buffalo_studios.newflashbingo",
       "bundle_id": "air.com.buffalo_studios.newflashbingo",
@@ -983,26 +1003,6 @@
       "icon": "https://play-lh.googleusercontent.com/hdcObg2DtOEp-sM7hntSzApTjQyoibpnoAz_rSUHwYa7xGg8hn5g-Lo0YvbD309HiEh_5ZKR6QgisOXbFK2B",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=air.com.buffalo_studios.newflashbingo&hl=ja&gl=jp"
-    },
-    {
-      "rank": 49,
-      "title": "モンスターハンターアウトランダーズ",
-      "app_id": "com.tencent.mhadv",
-      "bundle_id": "com.tencent.mhadv",
-      "developer": "Level Infinite",
-      "icon": "https://play-lh.googleusercontent.com/B4uYewhDjtnfuwQShUr2EMiptP5GlTOFk6tlWtVMXucGz9GBWboePEzEVVHm_lM16BZLIpi9cRbhZikcrxjmQQ",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.tencent.mhadv&hl=ja&gl=jp"
-    },
-    {
-      "rank": 50,
-      "title": "ディズニー スパークリンク・スターズ",
-      "app_id": "com.colyinc.sparklinkstars",
-      "bundle_id": "com.colyinc.sparklinkstars",
-      "developer": "coly Inc.",
-      "icon": "https://play-lh.googleusercontent.com/LDqem1t0tn__NKd54Y44cdP_vqh-sKBdnaAvSSNPKHOjgVspk5-qhXVkatBX5KqEfnC4Krpkm15HQEl2rlcS7Q",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=com.colyinc.sparklinkstars&hl=ja&gl=jp"
     }
   ],
   "meta": {
