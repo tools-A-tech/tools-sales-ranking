@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-28T14:40:19.601262+09:00",
-  "updated_at_display": "2026-11-28 14:40 JST",
+  "updated_at": "2026-11-28T15:40:19.990372+09:00",
+  "updated_at_display": "2026-11-28 15:40 JST",
   "ios": [
     {
       "rank": 1,
@@ -424,16 +424,6 @@
     },
     {
       "rank": 43,
-      "title": "ハートピアスローライフ",
-      "app_id": "6746151928",
-      "bundle_id": "com.xd.xdtglobal",
-      "developer": "XD (HK) Limited",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/8b/e4/348be4c2-b208-594d-8559-b70acf6b40a0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "platform": "ios",
-      "store_url": "https://apps.apple.com/jp/app/id6746151928"
-    },
-    {
-      "rank": 44,
       "title": "ホームスケイプ (Homescapes)",
       "app_id": "1195621598",
       "bundle_id": "com.playrix.gardenscapes-sweethome",
@@ -443,7 +433,7 @@
       "store_url": "https://apps.apple.com/jp/app/id1195621598"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "ハリウッドマージ",
       "app_id": "6755455500",
       "bundle_id": "com.hollywood.merge",
@@ -453,7 +443,7 @@
       "store_url": "https://apps.apple.com/jp/app/id6755455500"
     },
     {
-      "rank": 46,
+      "rank": 45,
       "title": "荒野行動-スマホ版バトロワ",
       "app_id": "1312031248",
       "bundle_id": "com.netease.ko",
@@ -463,7 +453,7 @@
       "store_url": "https://apps.apple.com/jp/app/id1312031248"
     },
     {
-      "rank": 47,
+      "rank": 46,
       "title": "ドラゴンクエストウォーク 歩く楽しみが増える位置情報ゲーム",
       "app_id": "1439417234",
       "bundle_id": "com.square-enix.DQwalkj",
@@ -473,7 +463,7 @@
       "store_url": "https://apps.apple.com/jp/app/id1439417234"
     },
     {
-      "rank": 48,
+      "rank": 47,
       "title": "勝利の女神：NIKKE",
       "app_id": "1585915174",
       "bundle_id": "com.proximabeta.nikke",
@@ -483,7 +473,7 @@
       "store_url": "https://apps.apple.com/jp/app/id1585915174"
     },
     {
-      "rank": 49,
+      "rank": 48,
       "title": "ロイヤルキングダム (Royal Kingdom)",
       "app_id": "1606549505",
       "bundle_id": "com.dreamgames.royalkingdom",
@@ -493,7 +483,7 @@
       "store_url": "https://apps.apple.com/jp/app/id1606549505"
     },
     {
-      "rank": 50,
+      "rank": 49,
       "title": "タウンシップ (Township)",
       "app_id": "638689075",
       "bundle_id": "com.playrix.township-ios",
@@ -501,6 +491,16 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/1b/52/311b52d8-1de2-5561-cad2-4c4643ac1fb0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "platform": "ios",
       "store_url": "https://apps.apple.com/jp/app/id638689075"
+    },
+    {
+      "rank": 50,
+      "title": "トリッカル・もちもちほっペ大作戦",
+      "app_id": "6479391944",
+      "bundle_id": "com.bilibili.trickcal",
+      "developer": "BILIBILI HK LIMITED",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/dc/00/c4dc00ed-ef86-686b-0446-bbd6da0239b9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "platform": "ios",
+      "store_url": "https://apps.apple.com/jp/app/id6479391944"
     }
   ],
   "android": [
@@ -976,6 +976,16 @@
     },
     {
       "rank": 48,
+      "title": "崩壊：スターレイル",
+      "app_id": "com.HoYoverse.hkrpgoversea",
+      "bundle_id": "com.HoYoverse.hkrpgoversea",
+      "developer": "COGNOSPHERE PTE. LTD.",
+      "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
+      "platform": "android",
+      "store_url": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea&hl=ja&gl=jp"
+    },
+    {
+      "rank": 49,
       "title": "麻雀ブラスト (Mahjong Blast)",
       "app_id": "com.nebula.mahjongtile",
       "bundle_id": "com.nebula.mahjongtile",
@@ -985,7 +995,7 @@
       "store_url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=ja&gl=jp"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "title": "Pikmin Bloom",
       "app_id": "com.nianticlabs.pikmin",
       "bundle_id": "com.nianticlabs.pikmin",
@@ -993,16 +1003,6 @@
       "icon": "https://play-lh.googleusercontent.com/enPlIC1ZZK9sDkvhGNX0ufiBB440DICiif9eDre4gFgdOCjuUZJGAUDMh6kkyCIxEJMKH__c2GTQGdoRLCRT",
       "platform": "android",
       "store_url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pikmin&hl=ja&gl=jp"
-    },
-    {
-      "rank": 50,
-      "title": "グリルソート - Food、焼き肉、マッチ",
-      "app_id": "grill.sort.food.games.match.puzzle",
-      "bundle_id": "grill.sort.food.games.match.puzzle",
-      "developer": "Gloryway Puzzle",
-      "icon": "https://play-lh.googleusercontent.com/tl4zGt7eh3RIjMlQgPoqIYuhAmUlbupGq2Y3Lb4dJnYpGNKJ7KxUTN1RLej6vLWVUI8F3Za_0lUDcM0DAbe_gw",
-      "platform": "android",
-      "store_url": "https://play.google.com/store/apps/details?id=grill.sort.food.games.match.puzzle&hl=ja&gl=jp"
     }
   ],
   "meta": {
